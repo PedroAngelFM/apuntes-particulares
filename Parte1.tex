@@ -6,6 +6,7 @@
 
 \minitoc
 
+\newpage
  
 \section*{Introducción} 
 \addcontentsline{toc}{section}{Introducción}%para a�adir al �ndice la secci�n no numerada 
@@ -15,28 +16,49 @@ Los distintos conjuntos de números surgen de la necesidad de resolver distintas
 \section{Estructura de los números reales}
 Los números reales tiene estructura de cuerpo y te preguntarás ¿ Qué es un cuerpo?
 \begin{defi}
-Un cuerpo es una terna $(K,+,\cdot)$ donde:
+Un cuerpo es una terna $(\mathbb{K},+,\cdot)$ donde:
 \begin{enumerate}
-\item $K$ es un conjunto de elementos 
-\item $+$ es una operación sobre los elementos de $K$ que cumple:
+\item $\mathbb{K}$ es un conjunto de elementos 
+\item $+$ es una operación sobre los elementos de $\mathbb{K}$ que cumple:
 \begin{itemize}
-\item Es una operación conmutativa, es decir, sean $a,b\in K$ entonces tendremos que $a+b=b+a$
-\item Es una operación asociativa, es decir dados $a,b,c \in K$ tenemos que $a+(b+c)=(a+b)+c$
-\item Existe un elemento neutro, es decir $\exists e / e+a=a+e=a$ $\forall a \in K$ $\exists e /$.
-\item
+\item Es una operación \textbf{conmutativa}, es decir, sean $a,b\in \mathbb{K}$ entonces tendremos que $a+b=b+a$
+\item Es una operación \textbf{asociativa}, es decir dados $a,b,c \in \mathbb{K}$ tenemos que $a+(b+c)=(a+b)+c$
+\item Existe un \textbf{elemento neutro}, es decir $\exists e / e+a=a+e=a$ $\forall a \in \mathbb{K}$.
+\item Cada elemento $a \in \mathbb{K} $ existe un elemento \textbf{inverso} que se denota por $a^{-1} $ de tal manera que $a+a^{-1}=a^{-1}+a=e$ (\emph{Esto también se da cuando no se cumple la conmutativa})
 \end{itemize}
 
+\item $\cdot$ es una operación que cumple lo siguiente 
+\begin{itemize}
 
-\item
+\item Es una operación \textbf{asociativa}, es decir dados $a,b,c \in \mathbb{K}$ tenemos que $a\cdot(b\cdot c)=(a\cdot b)\cdot c$
+
+\item Existe un \textbf{elemento neutro} para esta operación  $\exists e / e\cdot a=a \cdot e=a$ $\forall a \in \mathbb{K}$.
+
+\item Para todo elemento $a \in \mathbb{K}$ entonces $\exists a^{-1} /  a \cdot a^{-1}=a^{-1}\cdot a=e $ (\emph{Esto es lo que distingue un cuerpo a un anillo})
+
+\item $\cdot$ es \textbf{distributivo} respecto de $+$ es decir, $a\cdot (b+c)=a \cdot b + a \cdot b$
+
+\end{itemize}
 \end{enumerate}
 
-\emph{Aclaración: } Aunque se denoten como $+, \cdot$ no tenemos por qué usar las definiciones habituales de la suma y la multiplicación. Por ejemplo, la suma y producto de números reales no son iguales que las mismas operaciones para las matrices \emph{(quedaros con ese nombre.) } 
+  
 \end{defi}
+\noindent
+\textbf{\emph{Aclaración 1: }} Aunque se denoten como $+, \cdot$ no tenemos por qué usar las definiciones habituales de la suma y la multiplicación. Por ejemplo, la suma y producto de números reales no son iguales que las mismas operaciones para las matrices \emph{(quedaros con ese nombre.) } \\
+\textbf{\emph{Aclaración 2: }}  De esta manera que tenemos que lo que llamamos en los números reales la resta es la suma por el inverso y la división es el producto por el inverso.
+
+\begin{ejerci}
+
+Demostrar que $\mathbb{R}$ y $\mathbb{C}$ son cuerpos 
+
+\end{ejerci}
 
 
 
-\section{Segunda Secci\'on}
-La segunda 
+\section{Potencias y sus propiedades}
+\begin{defi}
+Podemos definir la 
+\end{defi}
 
 \chapter{Un segundo cap\'itulo}
 %

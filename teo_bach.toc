@@ -5,10 +5,10 @@
 \contentsline {part}{I\hspace {1em}Prefacios, Repaso y otras consideraciones}{5}{part.1}%
 \contentsline {xpart}{Prefacios, Repaso y otras consideraciones}{7}{part.1}%
 \contentsline {chapter}{\numberline {1}Operaciones sobre los números reales}{7}{chapter.1}%
-\contentsline {section}{Introducción}{7}{section*.2}%
-\contentsline {section}{\numberline {1.1}Estructura de los números reales}{7}{section.1.1}%
-\contentsline {section}{\numberline {1.2}Segunda Secci\'on}{8}{section.1.2}%
-\contentsline {chapter}{\numberline {2}Un segundo cap\'itulo}{9}{chapter.2}%
-\contentsline {section}{\numberline {2.1}}{9}{section.2.1}%
-\contentsline {section}{\numberline {2.2}}{9}{section.2.2}%
-\contentsline {chapter}{\numberline {A}Mi primer ap\'endice}{11}{appendix.Alph1}%
+\contentsline {section}{Introducción}{8}{section*.2}%
+\contentsline {section}{\numberline {1.1}Estructura de los números reales}{8}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Potencias y sus propiedades}{9}{section.1.2}%
+\contentsline {chapter}{\numberline {2}Un segundo cap\'itulo}{11}{chapter.2}%
+\contentsline {section}{\numberline {2.1}}{11}{section.2.1}%
+\contentsline {section}{\numberline {2.2}}{11}{section.2.2}%
+\contentsline {chapter}{\numberline {A}Mi primer ap\'endice}{13}{appendix.Alph1}%

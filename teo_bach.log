@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.2.6)  6 NOV 2022 13:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.2.6)  6 NOV 2022 18:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -37,7 +37,18 @@ rs
 \f@nch@O@olf=\skip56
 \f@nch@O@orf=\skip57
 )
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks16
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
 Package: babel 2021/11/29 3.67 The Babel package
 \babel@savecnt=\count192
 \U@D=\dimen139
@@ -57,7 +68,7 @@ File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
 (C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\spanish.l
 df
 Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
-\es@quottoks=\toks16
+\es@quottoks=\toks17
 \es@quotdepth=\count194
 Package babel Info: Making " an active character on input line 570.
 Package babel Info: Making . an active character on input line 675.
@@ -81,7 +92,7 @@ Package minitoc Info: I0023
 (minitoc)             part level macros available.
 Package minitoc Info: I0003
 (minitoc)             chapter level macros available.
-\mtc@toks=\toks17
+\mtc@toks=\toks18
 \mtc@strutbox=\box50
 \mtc@hstrutbox=\box51
 Package minitoc Info: I0002
@@ -125,15 +136,15 @@ File: spanish.mld 2008/04/03
 ))
 (C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
-\thm@style=\toks18
-\thm@bodyfont=\toks19
-\thm@headfont=\toks20
-\thm@notefont=\toks21
-\thm@headpunct=\toks22
+\thm@style=\toks19
+\thm@bodyfont=\toks20
+\thm@headfont=\toks21
+\thm@notefont=\toks22
+\thm@headpunct=\toks23
 \thm@preskip=\skip61
 \thm@postskip=\skip62
 \thm@headsep=\skip63
-\dth@everypar=\toks23
+\dth@everypar=\toks24
 )
 \c@defi=\count199
 
@@ -142,7 +153,7 @@ Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
 (C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks24
+\KV@toks@=\toks25
 )
 (C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
@@ -314,26 +325,26 @@ LaTeX Info: Redefining \% on input line 25.
 )
 \openout1 = `teo_bach.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Info: Redefining \. on input line 27.
-LaTeX Info: Redefining \% on input line 27.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Info: Redefining \. on input line 30.
+LaTeX Info: Redefining \% on input line 30.
 Package minitoc(hints) Info: I0049
 (minitoc(hints))             ==> You requested the hints option. 
 (minitoc(hints))             Some hints are eventually given below.
@@ -367,12 +378,12 @@ ii
 \scratchbox=\box53
 \nofMPsegments=\count278
 \nofMParguments=\count279
-\everyMPshowfont=\toks25
+\everyMPshowfont=\toks26
 \MPscratchCnt=\count280
 \MPscratchDim=\dimen147
 \MPnumerator=\count281
 \makeMPintoPDFobject=\count282
-\everyMPtoPDFconversion=\toks26
+\everyMPtoPDFconversion=\toks27
 )
 (C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
@@ -384,7 +395,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 27.
+Package hyperref Info: Link coloring OFF on input line 30.
 
 (C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -398,23 +409,31 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count283
 )
-LaTeX Info: Redefining \ref on input line 27.
-LaTeX Info: Redefining \pageref on input line 27.
-LaTeX Info: Redefining \nameref on input line 27.
+LaTeX Info: Redefining \ref on input line 30.
+LaTeX Info: Redefining \pageref on input line 30.
+LaTeX Info: Redefining \nameref on input line 30.
  (teo_bach.out) (teo_bach.out)
 \@outlinefile=\write4
 \openout4 = `teo_bach.out'.
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 36.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 36.
- [1
+LaTeX Font Info:    Trying to load font information for U+msa on input line 39.
+
+
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 39.
+
+
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+[1
 
 
 {C:/Users/Pedro/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 Package minitoc Info: I0024
-(minitoc)             PREPARING MINITOCS FROM teo_bach.toc on input line 45.
+(minitoc)             PREPARING MINITOCS FROM teo_bach.toc on input line 48.
 Package minitoc Info: I0033
 (minitoc)             Writing teo_bach.mtc1.
 \openout3 = `teo_bach.mtc1'.
@@ -429,15 +448,10 @@ Package minitoc Info: I0033
 
  [2
 
-] (teo_bach.toc
+]
+(teo_bach.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 8.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 8.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 8.
 )
 \tf@toc=\write5
 \openout5 = `teo_bach.toc'.
@@ -447,32 +461,35 @@ LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
  [4
 
-]
-[5] [6]
+] [5] [6]
 Cap\'{\i }tulo 1.
 \openout3 = `teo_bach.mtc'.
 
 \openout3 = `teo_bach.mtc'.
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 8.
 (teo_bach.mtc1) [7
 
 ]
-LaTeX Info: Redefining \. on input line 40.
-LaTeX Info: Redefining \% on input line 40.
+LaTeX Info: Redefining \. on input line 51.
+LaTeX Info: Redefining \% on input line 51.
  [8]
+LaTeX Info: Redefining \. on input line 63.
+LaTeX Info: Redefining \% on input line 63.
+ [9]
+LaTeX Info: Redefining \. on input line 63.
+LaTeX Info: Redefining \% on input line 63.
+ [10
+
+]
 Cap\'{\i }tulo 2.
 \openout3 = `teo_bach.mtc'.
 
 \openout3 = `teo_bach.mtc'.
 
-(teo_bach.mtc2) [9
-
-]
-LaTeX Info: Redefining \. on input line 49.
-LaTeX Info: Redefining \% on input line 49.
- [10
+(teo_bach.mtc2) [11]
+LaTeX Info: Redefining \. on input line 72.
+LaTeX Info: Redefining \% on input line 72.
+ [12
 
 ]
 Ap\'{e}ndice A.
@@ -488,33 +505,38 @@ Package minitoc(hints) Warning: W0024
 (minitoc(hints))                Some hints have been written 
 (minitoc(hints))                in the teo_bach.log file.
 
-[11] (teo_bach.aux
+[13] (teo_bach.aux
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
 )
 Package rerunfilecheck Info: File `teo_bach.out' has not changed.
-(rerunfilecheck)             Checksum: 3A28AA213848E5AA9B3A031E080DF86F;1393.
+(rerunfilecheck)             Checksum: 730AE712A8C792014DBDA040814954D6;1456.
  ) 
 Here is how much of TeX's memory you used:
- 11816 strings out of 478659
- 186750 string characters out of 2845921
- 509881 words of memory out of 3000000
- 29564 multiletter control sequences out of 15000+600000
- 411127 words of font info for 52 fonts, out of 8000000 for 9000
+ 12369 strings out of 478659
+ 193395 string characters out of 2845921
+ 513434 words of memory out of 3000000
+ 30094 multiletter control sequences out of 15000+600000
+ 415713 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,9n,63p,521b,584s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,9n,63p,521b,469s stack positions out of 5000i,500n,10000p,200000b,80000s
 <C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
 cmbx10.pfb><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
 fonts/cm/cmbx12.pfb><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/p
-ublic/amsfonts/cm/cmmi12.pfb><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/font
-s/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Pedro/AppData/Local/Programs/MiK
-TeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Pedro/AppData/Local/Prog
-rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users/Pedro/AppData/L
-ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Pedro/
-AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on teo_bach.pdf (11 pages, 123312 bytes).
+ublic/amsfonts/cm/cmbxti10.pfb><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Pedro/AppData/Local/Programs/
+MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Pedro/AppData/Local/P
+rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Pedro/AppData
+/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Pedro/
+AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Use
+rs/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pf
+b><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmsy8.pfb><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmti12.pfb><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/amsfonts/symbols/msbm10.pfb>
+Output written on teo_bach.pdf (13 pages, 159190 bytes).
 PDF statistics:
- 154 PDF objects out of 1000 (max. 8388607)
- 26 named destinations out of 1000 (max. 500000)
+ 184 PDF objects out of 1000 (max. 8388607)
+ 29 named destinations out of 1000 (max. 500000)
  73 words of extra memory for PDF output out of 10000 (max. 10000000)
 
