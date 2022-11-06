@@ -57,9 +57,34 @@ Demostrar que $\mathbb{R}$ y $\mathbb{C}$ son cuerpos
 
 \section{Potencias y sus propiedades}
 \begin{defi}
-Podemos definir la 
+Podemos definir las potencias como  $a^n=\overbrace{a \cdot\ldots \cdot a}^{\text{n veces}}$. Una vez entendido esto tenemos las siguientes propiedades
 \end{defi}
 
+\paragraph{Propiedades}
+\begin{enumerate}
+\item $a^1=a$ y $a^0=1$ para cualquier $a\in\mathbb{R}$
+\item $a^{-1}=\dfrac{1}{a}$
+\item $a^n\cdot a^m=a^{n+m}$
+\item $\dfrac{a^n}{a^m}=a^{n-m} $
+\item $\left( a^n \right) ^m =a^{n \cdot m}$
+\item $\sqrt[n]{a}=a^{\frac{1}{n}}$
+\item $(a \cdot b)^n=a^n \cdot b^n$
+\item $ \left(\dfrac{a}{b}\right)^n=\dfrac{a^n}{b^n}$
+\end{enumerate}
+\paragraph{Demostración}
+\begin{enumerate}
+\item Para la primera demostración no hace falta más que decir que estamos ``poniendo'' sólo una a y que $a^0=1$ es básicamente proveniente del álgebra $\mathbb{Z}$ modular.
+ 
+\item En este caso,  tenemos que al utilizar la propiedad 3 quedará más clara pero si nosotros tenemos $a^1 \cdot a^{-1}=a^0=1 \Rightarrow a^{-1}=\dfrac{1}{a}$
+
+\item Ahora tenemos que $a^n\cdot a^m=\overbrace{a \cdot\ldots \cdot a}^{\text{n veces}}\cdot \overbrace{a \cdot\ldots \cdot a}^{\text{m veces}}=\overbrace{a \cdot\ldots \cdot a}^{\text{n+m veces}}=a^{m+n}$
+\item Si combinamos la propiedad 2 y 3 queda probado $\dfrac{a^n}{a^m}=a^n\cdot \dfrac{1}{a^m}=a^n \cdot a^{-m}=a^{n-m}$
+\item Este se debe a que estamos multiplicando paquetitos del producto de n a's, es decir ,
+$ \left( a^n \right) ^m =\overbrace{a^n \cdot \ldots \cdot a^n}^{\text{m veces}}=\overbrace{\underbrace{a \cdot \ldots \cdot a}_{\text{n veces}}\cdot \ldots \cdot \underbrace{a \cdot\ldots \cdot a}_{\text{n veces}}}^{\text{m veces}}=\overbrace{a \cdot\ldots \cdot a}^{\text{n m veces}}=a^{m n}$
+\item Haciendo un razonamiento análogo pero con el producto lo tenemos 
+\item Tenemos lo siguiente $(a \cdot b)^n=\overbrace{a\cdot b \cdot\ldots \cdot a\cdot b}^{\text{n veces}}=\overbrace{a \cdot\ldots \cdot a}^{\text{n veces}}\cdot \overbrace{b \cdot\ldots \cdot b}^{\text{n veces}}=a^n \cdot b^n$
+\item Utilizando un razonamiento similar al anterior lo tenemos cambiando únicamente $b$ por $b^{-1}$
+\end{enumerate}
 \chapter{Un segundo cap\'itulo}
 %
 \minitoc% Crea mini-�ndice al principio del capitulo
