@@ -7,7 +7,9 @@
 
 \usepackage[spanish]{minitoc}
 \usepackage{minitoc}
-
+\usepackage{amsthm}
+\theoremstyle{remark}
+\newtheorem{defi}{Definición}
 \addto{\captionsspanish}{\renewcommand{\mtctitle}{\'Indice del cap\'itulo}}
 
 \renewcommand{\mtctitle}{\'Indice}% as� tambi�n cambiamos la cabecera del los minitoc
@@ -45,39 +47,7 @@
 
 \tableofcontents
 %\adjustmtc{} %indice en la intro
+\input{Parte1.tex}
 
-\part{Prefacios, Repaso y otras consideraciones}
-
-
-
-\chapter{Operaciones sobre los números reales}
-
-\minitoc
-
- 
-\section*{Definición} 
-\addcontentsline{toc}{section}{Introducción}%para a�adir al �ndice la secci�n no numerada 
-
-
-Esta secci\'on es la primera, aunque no la enumeramos
- 
-\section{Primera Secci\'on}
-Esta es la primera secci\'on (numerada) del primer cap\'itulo.
-
-
-
-\section{Segunda Secci\'on}
-La segunda 
-
-\chapter{Un segundo cap\'itulo}
-%
-\minitoc% Crea mini-�ndice al principio del capitulo
-
-\section{}
-\section{}
-
-
-\appendix
-\chapter{Mi primer ap\'endice}
 
 \end{document}
