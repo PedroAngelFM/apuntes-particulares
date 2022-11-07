@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.2.6)  6 NOV 2022 18:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.2.6)  6 NOV 2022 19:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -535,50 +535,38 @@ Package minitoc Info: I0033
 (minitoc)             Writing teo_bach.mtc3.
 \openout3 = `teo_bach.mtc3'.
 
- [2
 
-]
-(teo_bach.toc
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
-)
-\tf@toc=\write5
-\openout5 = `teo_bach.toc'.
+(Parte1.tex [2
 
- (Parte1.tex [3]
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
- [4
-
-] [5] [6]
+] [3] [4]
 Cap\'{\i }tulo 1.
 \openout3 = `teo_bach.mtc'.
 
 \openout3 = `teo_bach.mtc'.
 
-(teo_bach.mtc1) [7
+(teo_bach.mtc1) [5
 
 ]
 LaTeX Info: Redefining \. on input line 51.
 LaTeX Info: Redefining \% on input line 51.
- [8]
+ [6]
 LaTeX Info: Redefining \. on input line 84.
 LaTeX Info: Redefining \% on input line 84.
- [9]
+ [7]
 LaTeX Info: Redefining \. on input line 88.
 LaTeX Info: Redefining \% on input line 88.
- [10]
+ [8]
 Cap\'{\i }tulo 2.
 \openout3 = `teo_bach.mtc'.
 
 \openout3 = `teo_bach.mtc'.
 
-(teo_bach.mtc2) [11
+(teo_bach.mtc2) [9
 
 ]
 LaTeX Info: Redefining \. on input line 97.
 LaTeX Info: Redefining \% on input line 97.
- [12
+ [10
 
 ]
 Ap\'{e}ndice A.
@@ -590,22 +578,34 @@ Package minitoc Info: I0009
 
 
 
+Package minitoc(hints) Warning: W0068
+(minitoc(hints))                You have used \minitoc but not 
+(minitoc(hints))                \tableofcontents
+(minitoc(hints))                nor \faketableofcontents.
+
+
 Package minitoc(hints) Warning: W0024
 (minitoc(hints))                Some hints have been written 
 (minitoc(hints))                in the teo_bach.log file.
 
-[13] (teo_bach.aux
+[11] (teo_bach.aux
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
 )
-Package rerunfilecheck Info: File `teo_bach.out' has not changed.
-(rerunfilecheck)             Checksum: 730AE712A8C792014DBDA040814954D6;1456.
+
+Package rerunfilecheck Warning: File `teo_bach.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `teo_bach.out':
+(rerunfilecheck)             Before: 730AE712A8C792014DBDA040814954D6;1456
+(rerunfilecheck)             After:  91103DB8B9AF9D074135E8A8C6F43D25;1456.
  ) 
 Here is how much of TeX's memory you used:
- 13672 strings out of 478659
- 214485 string characters out of 2845921
+ 13664 strings out of 478659
+ 214349 string characters out of 2845921
  541435 words of memory out of 3000000
- 31352 multiletter control sequences out of 15000+600000
+ 31349 multiletter control sequences out of 15000+600000
  415713 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,16n,76p,521b,496s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -627,9 +627,9 @@ pe1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Pedro/AppData/Local/Programs/MiKTeX
 /fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Pedro/AppData/Local/Program
 s/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/Pedro/AppData/Loca
 l/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on teo_bach.pdf (13 pages, 204133 bytes).
+Output written on teo_bach.pdf (11 pages, 199732 bytes).
 PDF statistics:
- 227 PDF objects out of 1000 (max. 8388607)
- 47 named destinations out of 1000 (max. 500000)
+ 208 PDF objects out of 1000 (max. 8388607)
+ 44 named destinations out of 1000 (max. 500000)
  73 words of extra memory for PDF output out of 10000 (max. 10000000)
 
