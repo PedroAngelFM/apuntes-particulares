@@ -43,6 +43,7 @@ Un cuerpo es una terna $(\mathbb{K},+,\cdot)$ donde:
 
   
 \end{defi}
+\newpage
 \noindent
 \textbf{\emph{Aclaración 1: }} Aunque se denoten como $+, \cdot$ no tenemos por qué usar las definiciones habituales de la suma y la multiplicación. Por ejemplo, la suma y producto de números reales no son iguales que las mismas operaciones para las matrices \emph{(quedaros con ese nombre.) } \\
 \textbf{\emph{Aclaración 2: }}  De esta manera que tenemos que lo que llamamos en los números reales la resta es la suma por el inverso y la división es el producto por el inverso.
@@ -55,7 +56,7 @@ Demostrar que $\mathbb{R}$ y $\mathbb{C}$ son cuerpos
 
 
 
-\section{Potencias y sus propiedades}
+\section{Potencias y Logaritmos}
 \begin{defi}
 Podemos definir las potencias como  $a^n=\overbrace{a \cdot\ldots \cdot a}^{\text{n veces}}$. Una vez entendido esto tenemos las siguientes propiedades
 \end{defi}
@@ -85,13 +86,62 @@ $ \left( a^n \right) ^m =\overbrace{a^n \cdot \ldots \cdot a^n}^{\text{m veces}}
 \item Tenemos lo siguiente $(a \cdot b)^n=\overbrace{a\cdot b \cdot\ldots \cdot a\cdot b}^{\text{n veces}}=\overbrace{a \cdot\ldots \cdot a}^{\text{n veces}}\cdot \overbrace{b \cdot\ldots \cdot b}^{\text{n veces}}=a^n \cdot b^n$
 \item Utilizando un razonamiento similar al anterior lo tenemos cambiando únicamente $b$ por $b^{-1}$
 \end{enumerate}
-\chapter{Un segundo cap\'itulo}
-%
-\minitoc% Crea mini-�ndice al principio del capitulo
 
-\section{}
-\section{}
+\begin{defi}
+Definimos el logaritmo de $b \in \mathbb{R}^+$ en base $a>0$ de la siguiente manera
+\begin{equation}
+log_a b=x \Leftrightarrow a^x=b
+\end{equation}
+\end{defi}
+
+Esta definición nos permite "traducir" de logaritmos a potencias y es lo que se utiliza para demostrar las siguientes propiedades
+%%@todo Lo de propiedades hay que hacer un entorno no numerado con el estilo de definition y lo mismo para las demostraciones 
+\paragraph{Propiedades: }
+Sean $P,Q,a \in \mathbb{R}^+ $
+\begin{enumerate}
+\item $log_a 1=0$
+\item $log_a a=1$
+\item $log_a (P\cdot Q)=log_a P +log_a Q$
+\item $log_a \left(\dfrac{P}{Q}\right)=log_a P -log_a Q$
+\item $log_a P^n=n\cdot log_a P$
+\end{enumerate}
+
+\begin{ejerci}
+Se propone al lector la demostración de estas propiedades utilizando la definición de logaritmos y las propiedades de las potencias.
+\end{ejerci}
+\newpage
+\section{Resolución de ecuaciones exponenciales}
+
+\begin{defi}
+Podemos definir una ecuación exponencial como aquella que tiene la incógnita en el exponente
+\end{defi}
+\newpage
+\section{Resolución de ecuaciones logarítmicas}
+\begin{defi}
+Podemos definir una ecuación exponencial como aquella que tiene la incógnita dentro de un logaritmo.
+\end{defi}
 
 
-\appendix
-\chapter{Mi primer ap\'endice}
+
+\chapter{Polinomios sobre el cuerpo de los reales y ecuaciones}
+
+\minitoc
+
+\section{Conceptos básicos}
+\section{Operaciones con polinomios}
+\section{Divisibilidad de polinomios}
+
+\chapter{Ecuaciones polinómicas}
+\minitoc
+
+\section{Ecuaciones lineales}
+\section{Ecuaciones parabólicas}
+\section{Ecuaciones de grado mayor que 2}
+
+\chapter{Inecuaciones}
+\minitoc
+
+\section{Inecuaciones lineales}
+\section{Inecuaciones no lineales}
+
+

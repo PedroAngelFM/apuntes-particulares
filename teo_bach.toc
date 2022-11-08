@@ -7,10 +7,20 @@
 \contentsline {chapter}{\numberline {1}Operaciones sobre los números reales}{7}{chapter.1}%
 \contentsline {section}{Introducción}{8}{section*.2}%
 \contentsline {section}{\numberline {1.1}Estructura de los números reales}{8}{section.1.1}%
-\contentsline {section}{\numberline {1.2}Potencias y sus propiedades}{9}{section.1.2}%
+\contentsline {section}{\numberline {1.2}Potencias y Logaritmos}{9}{section.1.2}%
 \contentsline {paragraph}{Propiedades}{9}{section*.3}%
 \contentsline {paragraph}{Demostración}{9}{section*.4}%
-\contentsline {chapter}{\numberline {2}Un segundo cap\'itulo}{11}{chapter.2}%
-\contentsline {section}{\numberline {2.1}}{11}{section.2.1}%
-\contentsline {section}{\numberline {2.2}}{11}{section.2.2}%
-\contentsline {chapter}{\numberline {A}Mi primer ap\'endice}{13}{appendix.Alph1}%
+\contentsline {paragraph}{Propiedades: }{10}{section*.5}%
+\contentsline {section}{\numberline {1.3}Resolución de ecuaciones exponenciales}{11}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Resolución de ecuaciones logarítmicas}{12}{section.1.4}%
+\contentsline {chapter}{\numberline {2}Polinomios sobre el cuerpo de los reales y ecuaciones}{13}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Conceptos básicos}{13}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Operaciones con polinomios}{13}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Divisibilidad de polinomios}{13}{section.2.3}%
+\contentsline {chapter}{\numberline {3}Ecuaciones polinómicas}{15}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Ecuaciones lineales}{15}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Ecuaciones de 2º grado}{15}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Ecuaciones de grado mayor que 2}{15}{section.3.3}%
+\contentsline {chapter}{\numberline {4}Inecuaciones}{17}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Inecuaciones lineales}{17}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Inecuaciones no lineales}{17}{section.4.2}%
