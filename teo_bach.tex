@@ -13,6 +13,10 @@
 \newtheorem{defi}{Definición}[section]
 \theoremstyle{definition}
 \newtheorem*{ejerci}{Ejercicio Propuesto}
+\theoremstyle{definition}
+\newtheorem{ejercicio}[subsection]{Ejercicio}
+\theoremstyle{demostration}
+\newtheorem*{solution}{Sol: }
 \addto{\captionsspanish}{\renewcommand{\mtctitle}{\'Indice del cap\'itulo}}
 
 \renewcommand{\mtctitle}{\'Indice}% as� tambi�n cambiamos la cabecera del los minitoc
@@ -51,6 +55,7 @@
 \tableofcontents
 %\adjustmtc{} %indice en la intro
 \input{Parte1.tex}
+\input{EjerciciosAM.tex}
 
 
 \end{document}
