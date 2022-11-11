@@ -114,7 +114,54 @@ Se propone al lector la demostración de estas propiedades utilizando la definic
 
 \begin{defi}
 Podemos definir una ecuación exponencial como aquella que tiene la incógnita en el exponente
+\begin{equation*}
+a^x=b
+\end{equation*}
 \end{defi}
+\noindent
+Podemos distinguir los siguientes casos:
+\begin{itemize}
+\item \textbf{\textit{Ecuaciones donde la incógnita aparece en un solo exponente}}
+
+El procedimiento es intentar poner todos los elementos como potencias de la base que tiene la incógnita
+\begin{align*}
+2^{x+1}&=8\\
+2^{x+1}&=2^3
+\end{align*}
+Tras esto, podemos hacer el logaritmo de cada uno de los lados ya que $log_a P=log_a Q \Leftrightarrow P=Q$ en este caso $a=2$ de tal forma que lo anterior nos queda:
+\begin{align*}
+2^{x+1}&=2^3\\
+log_2( 2^{x+1})&=log_2 (2^3)\\
+x+1&=3\\
+x&=2
+\end{align*}
+También puede que no podamos descomponer en potencias de una sola base entonces tenemos el siguiente caso.
+\begin{equation*}
+2^x=127
+\end{equation*}
+Entonces tomamos logaritmos para poder resolverlo
+\begin{align*}
+2^x&=127\\
+log_2(2^x)&=log_2(127)\\
+x \cdot log_2(2)&=log_2(127)\\
+x&=log_2(127)
+\end{align*}
+A partir de aquí podemos utilizar un cambio de base de los logaritmos para poder usar el logaritmo en base $10$ o $e$.
+
+\begin{ejercicio}
+Resuelve las siguientes ecuaciones. 
+\\
+\begin{tabular}{r c}
+a) $4^{x+1}-8=0$& b) $3^{x+2}=81$& $$
+\end{tabular}
+\end{ejercicio}
+\newpage 
+\item \textbf{\textit{Ecuaciones donde la incógnita está en más de una potencia}}
+El procedimiento es conseguir una expresión donde las potencias que tengan las incógnitas se reduzcan a las misma base y podamos hacer un cambio de variable $a^x=t$ que después desharemos como si fuera un caso como el anterior. 
+
+\end{itemize}
+
+
 \newpage
 \section{Resolución de ecuaciones logarítmicas}
 \begin{defi}

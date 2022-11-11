@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.5)  11 NOV 2022 08:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.5)  11 NOV 2022 09:10
 entering extended mode
 **./teo_bach.tex
 (teo_bach.tex
@@ -633,29 +633,35 @@ LaTeX Info: Redefining \% on input line 82.
 LaTeX Info: Redefining \. on input line 112.
 LaTeX Info: Redefining \% on input line 112.
  [10]
-LaTeX Info: Redefining \. on input line 118.
-LaTeX Info: Redefining \% on input line 118.
+LaTeX Info: Redefining \. on input line 158.
+LaTeX Info: Redefining \% on input line 158.
  [11]
-LaTeX Info: Redefining \. on input line 126.
-LaTeX Info: Redefining \% on input line 126.
+LaTeX Info: Redefining \. on input line 165.
+LaTeX Info: Redefining \% on input line 165.
  [12]
+LaTeX Info: Redefining \. on input line 173.
+LaTeX Info: Redefining \% on input line 173.
+ [13]
+LaTeX Info: Redefining \. on input line 173.
+LaTeX Info: Redefining \% on input line 173.
+ [14
+
+]
 Cap\'{\i }tulo 2.
 \openout3 = `teo_bach.mtc'.
 
 \openout3 = `teo_bach.mtc'.
 
-(teo_bach.mtc3) [13
-
-]
-LaTeX Info: Redefining \. on input line 134.
-LaTeX Info: Redefining \% on input line 134.
+(teo_bach.mtc3) [15]
+LaTeX Info: Redefining \. on input line 181.
+LaTeX Info: Redefining \% on input line 181.
 
 Overfull \hbox (82.33853pt too wide) has occurred while \output is active
-\OT1/cmr/m/n/12 14 \OT1/cmr/m/sl/12 CAP[]ITULO 2.  POLINOMIOS SOBRE EL CUERPO D
+\OT1/cmr/m/n/12 16 \OT1/cmr/m/sl/12 CAP[]ITULO 2.  POLINOMIOS SOBRE EL CUERPO D
 E LOS REALES Y ECUACIONES
  []
 
-[14
+[16
 
 ]
 Cap\'{\i }tulo 3.
@@ -663,127 +669,127 @@ Cap\'{\i }tulo 3.
 
 \openout3 = `teo_bach.mtc'.
 
-(teo_bach.mtc4) [15]
-LaTeX Info: Redefining \. on input line 141.
-LaTeX Info: Redefining \% on input line 141.
- [16
+(teo_bach.mtc4) [17]
+LaTeX Info: Redefining \. on input line 188.
+LaTeX Info: Redefining \% on input line 188.
+ [18
 
 ]
 Cap\'{\i }tulo 4.
 Package minitoc Info: I0006
-(minitoc)             teo_bach.mtc5 is empty on input line 143.
-) (Analisis.tex [17]
+(minitoc)             teo_bach.mtc5 is empty on input line 190.
+) (Analisis.tex [19]
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [18
+ [20
 
-] [19] [20]
+] [21] [22]
 Cap\'{\i }tulo 5.
-[21
+[23
 
 ]
 LaTeX Info: Redefining \. on input line 3.
 LaTeX Info: Redefining \% on input line 3.
- [22
-
-]
-Cap\'{\i }tulo 6.
-[23]
-LaTeX Info: Redefining \. on input line 4.
-LaTeX Info: Redefining \% on input line 4.
  [24
 
 ]
-Cap\'{\i }tulo 7.
+Cap\'{\i }tulo 6.
 [25]
-LaTeX Info: Redefining \. on input line 5.
-LaTeX Info: Redefining \% on input line 5.
+LaTeX Info: Redefining \. on input line 4.
+LaTeX Info: Redefining \% on input line 4.
  [26
 
 ]
-Cap\'{\i }tulo 8.
+Cap\'{\i }tulo 7.
 [27]
-LaTeX Info: Redefining \. on input line 6.
-LaTeX Info: Redefining \% on input line 6.
+LaTeX Info: Redefining \. on input line 5.
+LaTeX Info: Redefining \% on input line 5.
  [28
 
 ]
-Cap\'{\i }tulo 9.
+Cap\'{\i }tulo 8.
 [29]
-LaTeX Info: Redefining \. on input line 7.
-LaTeX Info: Redefining \% on input line 7.
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
  [30
 
 ]
-Cap\'{\i }tulo 10.
-) (EjerciciosAM.tex [31]
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
+Cap\'{\i }tulo 9.
+[31]
+LaTeX Info: Redefining \. on input line 7.
+LaTeX Info: Redefining \% on input line 7.
  [32
 
-] [33] [34]
+]
+Cap\'{\i }tulo 10.
+) (EjerciciosAM.tex [33]
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [34
+
+] [35] [36]
 Cap\'{\i }tulo 11.
 Package minitoc Info: I0006
 (minitoc)             teo_bach.mtc12 is empty on input line 5.
-) (Algebra.tex [35
+) (Algebra.tex [37
 
 ]
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [36
+ [38
 
-] [37] [38]
+] [39] [40]
 Cap\'{\i }tulo 12.
-[39
+[41
 
 ]
 LaTeX Info: Redefining \. on input line 3.
 LaTeX Info: Redefining \% on input line 3.
- [40
-
-]
-Cap\'{\i }tulo 13.
-[41]
-LaTeX Info: Redefining \. on input line 4.
-LaTeX Info: Redefining \% on input line 4.
  [42
 
 ]
-Cap\'{\i }tulo 14.
+Cap\'{\i }tulo 13.
 [43]
-LaTeX Info: Redefining \. on input line 5.
-LaTeX Info: Redefining \% on input line 5.
+LaTeX Info: Redefining \. on input line 4.
+LaTeX Info: Redefining \% on input line 4.
  [44
 
 ]
-Cap\'{\i }tulo 15.
+Cap\'{\i }tulo 14.
 [45]
-LaTeX Info: Redefining \. on input line 6.
-LaTeX Info: Redefining \% on input line 6.
+LaTeX Info: Redefining \. on input line 5.
+LaTeX Info: Redefining \% on input line 5.
  [46
 
 ]
-Cap\'{\i }tulo 16.
-) (Probabilidad.tex [47]
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
+Cap\'{\i }tulo 15.
+[47]
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
  [48
 
-] [49] [50]
+]
+Cap\'{\i }tulo 16.
+) (Probabilidad.tex [49]
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [50
+
+] [51] [52]
 Cap\'{\i }tulo 17.
-[51
+[53
 
 ]
 LaTeX Info: Redefining \. on input line 3.
 LaTeX Info: Redefining \% on input line 3.
- [52
+ [54
 
 ]
 Cap\'{\i }tulo 18.
-[53]
+[55]
 LaTeX Info: Redefining \. on input line 4.
 LaTeX Info: Redefining \% on input line 4.
- [54
+ [56
 
 ]
 Cap\'{\i }tulo 19.
@@ -799,7 +805,7 @@ Package minitoc(hints) Warning: W0024
 (minitoc(hints))                Some hints have been written 
 (minitoc(hints))                in the teo_bach.log file.
 
-[55] (teo_bach.aux
+[57] (teo_bach.aux
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
 )
@@ -807,8 +813,8 @@ Package rerunfilecheck Info: File `teo_bach.out' has not changed.
 (rerunfilecheck)             Checksum: 0971E7327B67E3D2C666EF3A44ACE968;7971.
  ) 
 Here is how much of TeX's memory you used:
- 13569 strings out of 478907
- 202484 string characters out of 2851892
+ 13572 strings out of 478907
+ 202514 string characters out of 2851892
  537756 words of memory out of 3000000
  30857 multiletter control sequences out of 15000+600000
  415713 words of font info for 73 fonts, out of 8000000 for 9000
@@ -832,9 +838,9 @@ pe1/public/amsfonts/cm/cmsy10.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX
 /fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/pedro/AppData/Local/Program
 s/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/pedro/AppData/Loca
 l/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on teo_bach.pdf (55 pages, 268599 bytes).
+Output written on teo_bach.pdf (57 pages, 274464 bytes).
 PDF statistics:
- 610 PDF objects out of 1000 (max. 8388607)
- 135 named destinations out of 1000 (max. 500000)
+ 619 PDF objects out of 1000 (max. 8388607)
+ 138 named destinations out of 1000 (max. 500000)
  353 words of extra memory for PDF output out of 10000 (max. 10000000)
 
