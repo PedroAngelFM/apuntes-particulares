@@ -15,11 +15,11 @@
 \newtheorem*{ejerci}{Ejercicio Propuesto}
 \theoremstyle{definition}
 \newtheorem{ejercicio}[subsection]{Ejercicio}
-\theoremstyle{demostration}
-\newtheorem*{solution}{Sol: }
+\newtheorem*{solution}{Sol:}
 \addto{\captionsspanish}{\renewcommand{\mtctitle}{\'Indice del cap\'itulo}}
 
 \renewcommand{\mtctitle}{\'Indice}% as� tambi�n cambiamos la cabecera del los minitoc
+
 
 \usepackage{graphicx}
 
@@ -28,30 +28,17 @@
 \title{Teoría de Matemáticas de Bachillerato}
 \author{Pedro Ángel Fraile Manzano} 
 \date{\today}
-
-
-
 \begin{document}
-
-
 %%%%%%%%%%%%%%%
-
 %\input{Portada_book}%Portada con entorno titlepage
 %\input{book_cabecera}%Personalizamos la portada a mano
-
 \maketitle%Aparece el t�tulo (\title{} \author{} \date{\today)}), es distinto a la portada
-
-
 %%%Personalizando el �ndice general (toc)
 \addtocontents{toc}{\hspace{-7.5mm} \textbf{Apartados del libro}}
 \addtocontents{toc}{\hfill \textbf{P\'agina} \par}
 \addtocontents{toc}{\vspace{-2mm} \hspace{-7.5mm} \hrule \par}
-
-
-\dominitoc%para crear �ndices en cada cap�tulo. Requiere paquete {minitoc}
-
+\dominitoc%para crear �ndices en cada cap�tulo. Requiere paquete {minitoc
 \renewcommand{\contentsname}{Contenidos Generales}%Nombre del �ndice general
-
 \tableofcontents
 \adjustmtc{} %indice en la intro
 \input{Repaso.tex}
@@ -59,8 +46,4 @@
 \input{EjerciciosAM.tex}
 \input{Algebra.tex}
 \input{Probabilidad.tex}
-
-
-
-
 \end{document}

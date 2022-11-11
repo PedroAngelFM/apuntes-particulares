@@ -151,17 +151,42 @@ A partir de aquí podemos utilizar un cambio de base de los logaritmos para pode
 \begin{ejercicio}
 Resuelve las siguientes ecuaciones. 
 \\
-\begin{tabular}{r c}
-a) $4^{x+1}-8=0$& b) $3^{x+2}=81$& $$
+%%Mirar como se hace esto correctamente, los ejercicios no son los definitivos
+\begin{tabular}{r l}
+a) $4^{x+1}-8=0$ & b) $3^{x+2}=81$\\
+c) $x+1$ & d) $e^x-1=3$
 \end{tabular}
 \end{ejercicio}
 \newpage 
 \item \textbf{\textit{Ecuaciones donde la incógnita está en más de una potencia}}
 El procedimiento es conseguir una expresión donde las potencias que tengan las incógnitas se reduzcan a las misma base y podamos hacer un cambio de variable $a^x=t$ que después desharemos como si fuera un caso como el anterior. 
+\\
+Vamos a resolver el siguiente ejemplo
+\begin{equation*}
+2^{x+1}+2^{x-1}+2^x=7
+\end{equation*}
+Para empezar pongamos todo como una combinación lineal de $2^x$ para ello aplicamos las propiedades de las potencias. 
+\begin{align*}
+2^{x+1}+2^{x-1}+2^x &=7\\
+2\cdot 2^x+\dfrac{2^x}{2}+2^x&=7
+\end{align*}
+Ahora ya podemos tomar el cambio de variable $2^x=t$ de manera que obtenemos lo siguiente. 
+\begin{align*}
+2\cdot 2^x+\dfrac{2^x}{2}+2^x&=7\\
+2\cdot t+\dfrac{t}{2}+t &=7
+\end{align*}
+La anterior ecuación es una ecuación fácilmente resoluble por tanto, ya hemos obtenido lo que queríamos, reducir la dificultad del ejercicio. 
+\begin{align*}
+2\cdot t+\dfrac{t}{2}+t &=7\\
+\dfrac{7}{2}\cdot t &=7\\
+t&=2
+\end{align*}
+Por tanto sabemos que $t=2$ lo que implica entonces que $2^x=t=2$ y  al aplicar logaritmos a ambos lados de la igualdad y obtenemos que \begin{align*}
+log_2 2^x&=log_2 2\\
+x &=1
+\end{align*}
 
 \end{itemize}
-
-
 \newpage
 \section{Resolución de ecuaciones logarítmicas}
 \begin{defi}

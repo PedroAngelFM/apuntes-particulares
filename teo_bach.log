@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.5)  11 NOV 2022 09:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.5)  11 NOV 2022 19:26
 entering extended mode
 **./teo_bach.tex
 (teo_bach.tex
@@ -239,9 +239,6 @@ Package: amsthm 2020/05/29 v2.20.6
 )
 \c@defi=\count280
 
-
-Package amsthm Warning: Unknown theoremstyle `demostration' on input line 18.
-
 (C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
 
@@ -415,26 +412,26 @@ LaTeX Info: Redefining \% on input line 25.
 )
 \openout1 = `teo_bach.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Info: Redefining \. on input line 34.
-LaTeX Info: Redefining \% on input line 34.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Info: Redefining \. on input line 31.
+LaTeX Info: Redefining \% on input line 31.
 Package minitoc(hints) Info: I0049
 (minitoc(hints))             ==> You requested the hints option. 
 (minitoc(hints))             Some hints are eventually given below.
@@ -485,7 +482,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 34.
+Package hyperref Info: Link coloring OFF on input line 31.
 
 (C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -499,20 +496,20 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count298
 )
-LaTeX Info: Redefining \ref on input line 34.
-LaTeX Info: Redefining \pageref on input line 34.
-LaTeX Info: Redefining \nameref on input line 34.
+LaTeX Info: Redefining \ref on input line 31.
+LaTeX Info: Redefining \pageref on input line 31.
+LaTeX Info: Redefining \nameref on input line 31.
  (teo_bach.out) (teo_bach.out)
 \@outlinefile=\write4
 \openout4 = `teo_bach.out'.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 43.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 37.
 
 
 (C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 43.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 37.
 
 
 (C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
@@ -523,7 +520,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 {C:/Users/pedro/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
 Package minitoc Info: I0024
-(minitoc)             PREPARING MINITOCS FROM teo_bach.toc on input line 52.
+(minitoc)             PREPARING MINITOCS FROM teo_bach.toc on input line 41.
 Package minitoc Info: I0033
 (minitoc)             Writing teo_bach.mtc1.
 \openout3 = `teo_bach.mtc1'.
@@ -633,17 +630,17 @@ LaTeX Info: Redefining \% on input line 82.
 LaTeX Info: Redefining \. on input line 112.
 LaTeX Info: Redefining \% on input line 112.
  [10]
-LaTeX Info: Redefining \. on input line 158.
-LaTeX Info: Redefining \% on input line 158.
+LaTeX Info: Redefining \. on input line 160.
+LaTeX Info: Redefining \% on input line 160.
  [11]
-LaTeX Info: Redefining \. on input line 165.
-LaTeX Info: Redefining \% on input line 165.
+LaTeX Info: Redefining \. on input line 190.
+LaTeX Info: Redefining \% on input line 190.
  [12]
-LaTeX Info: Redefining \. on input line 173.
-LaTeX Info: Redefining \% on input line 173.
+LaTeX Info: Redefining \. on input line 198.
+LaTeX Info: Redefining \% on input line 198.
  [13]
-LaTeX Info: Redefining \. on input line 173.
-LaTeX Info: Redefining \% on input line 173.
+LaTeX Info: Redefining \. on input line 198.
+LaTeX Info: Redefining \% on input line 198.
  [14
 
 ]
@@ -653,8 +650,8 @@ Cap\'{\i }tulo 2.
 \openout3 = `teo_bach.mtc'.
 
 (teo_bach.mtc3) [15]
-LaTeX Info: Redefining \. on input line 181.
-LaTeX Info: Redefining \% on input line 181.
+LaTeX Info: Redefining \. on input line 206.
+LaTeX Info: Redefining \% on input line 206.
 
 Overfull \hbox (82.33853pt too wide) has occurred while \output is active
 \OT1/cmr/m/n/12 16 \OT1/cmr/m/sl/12 CAP[]ITULO 2.  POLINOMIOS SOBRE EL CUERPO D
@@ -670,14 +667,14 @@ Cap\'{\i }tulo 3.
 \openout3 = `teo_bach.mtc'.
 
 (teo_bach.mtc4) [17]
-LaTeX Info: Redefining \. on input line 188.
-LaTeX Info: Redefining \% on input line 188.
+LaTeX Info: Redefining \. on input line 213.
+LaTeX Info: Redefining \% on input line 213.
  [18
 
 ]
 Cap\'{\i }tulo 4.
 Package minitoc Info: I0006
-(minitoc)             teo_bach.mtc5 is empty on input line 190.
+(minitoc)             teo_bach.mtc5 is empty on input line 215.
 ) (Analisis.tex [19]
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
@@ -815,7 +812,7 @@ Package rerunfilecheck Info: File `teo_bach.out' has not changed.
 Here is how much of TeX's memory you used:
  13572 strings out of 478907
  202514 string characters out of 2851892
- 537756 words of memory out of 3000000
+ 537760 words of memory out of 3000000
  30857 multiletter control sequences out of 15000+600000
  415713 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -838,7 +835,7 @@ pe1/public/amsfonts/cm/cmsy10.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX
 /fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/pedro/AppData/Local/Program
 s/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/pedro/AppData/Loca
 l/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on teo_bach.pdf (57 pages, 274464 bytes).
+Output written on teo_bach.pdf (57 pages, 275867 bytes).
 PDF statistics:
  619 PDF objects out of 1000 (max. 8388607)
  138 named destinations out of 1000 (max. 500000)
