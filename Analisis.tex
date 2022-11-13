@@ -1,7 +1,99 @@
 \part{Análisis Matemático}
-\chapter{Las sucesiones sobre R}
-\chapter{Las funciones sobre R}
-\chapter{Derivabilidad sobre R}
+\chapter{Las sucesiones sobre $\mathbb{R}$}
+\minitoc
+
+\newpage
+\chapter{Cálculo de Límites}
+\minitoc
+
+\newpage
+\chapter{Las funciones sobre $\mathbb{R}$}
+\minitoc
+
+\newpage
+\chapter{Derivabilidad sobre $\mathbb{R}$}
+
+\minitoc
+
+
+\newpage
+
+\section{Concepto de la derivada}
+Para empezar, tenemos que refrescar un concepto de geometría análitica, \emph{la pendiente de una recta}
+\begin{defi}
+La pendiente de una recta en $\mathbb{R}^2$ \emph{(El plano real)} se define como la cantidad de unidades que avanza la $y$ por cada unidad que avanza la $x$. Es decir, definiendo el incremento de y como $y_1-y_0=\Delta y$ donde $y_1$ es la coordenada y del punto final y $y_0$ lo mismo pero del punto inicial. definimos de manera igual el $\Delta x$. Entonces definimos de manera matemática la fórmula de la pendiente como :
+\end{defi}
+\begin{equation*}
+m=\dfrac{\Delta y}{\Delta x}
+\end{equation*}
+
+\noindent
+Ahora bien, sea $f(x)$ una función de manera que $f:\mathbb{R}\longrightarrow \mathbb{R}$ de la cual queremos obtener la recta secante que pasa por unos determinados puntos $p_1=(x_1,y_1),p_2=(x_2,y_2)$. Entonces tendremos la siguiente gráfica:\\
+\noindent
+Tendremos entonces que la fórmula de la recta secante a la función que pasa por esos dos puntos $p_1,p_2$ es la siguiente:
+\begin{equation*}
+(y-f(x_1))=\dfrac{\Delta f(x)}{\Delta x}(x-x_1)
+\end{equation*}
+\begin{defi}
+A la pendiente de la recta secante a la función $f(x)$ en los puntos $x_1,x_2$ se le conoce como \textbf{\emph{Tasa de Variación Media}}
+\end{defi}
+
+\noindent
+Supongamos ahora que escribimos $x_1=x$ y $x_2=x+h$ donde $h\in \mathbb{R}$ entonces la ecuación anterior queda como:
+\begin{equation*}
+(y-f(x_1))=\dfrac{f(x_1+h)-f(x_1)}{h}(x-x_1)
+\end{equation*}
+
+\noindent
+Si después de esto, si hacemos que la $h\to 0$ obtendremos la recta tangente de manera que la pendiente  $\displaystyle \lim_{h\rightarrow 0}\dfrac{f(x+h)-f(x)}{h}$.
+
+\noindent
+Es ese límite lo que definimos como \emph{Derivada de una función}.
+\begin{defi}
+Llamaremos derivada de $f(x)$ en el punto $a$ al límite
+\begin{equation*}
+\lim_{h\to 0}\dfrac{f(a+h)-f(a)}{h}
+\end{equation*}
+
+\end{defi}
+\newpage
+\section{Derivabilidad de una función}
+\begin{defi}
+Diremos que una función es derivable en $a$ si existe el límite $\displaystyle \lim_{h\rightarrow 0}\dfrac{f(x+h)-f(x)}{h}$.
+\end{defi}
+\begin{defi}
+Diremos que una función es derivable si lo es en todos los puntos del dominio.
+\end{defi}
+\subsection{Estudio de la derivabilidad de una función}
+
+\newpage
+\section{Tabla de derivadas}
+
+Para empezar hay que tener en cuenta estas derivadas de operaciones de funciones básicas, sumar y restar, producto y división, producto por un escalar y composición
+
+\noindent
+Sean $a \in \mathbb{R}$ 
+
+\section{Algunas demostraciones de fórmulas de derivadas}
+\newpage
+
 \chapter{Aplicaciones de la derivada}
+\minitoc
+
+\newpage
+\section{Cálculo de mínimos y máximos}
+\section{Cálculo de la curvatura de las funciones}
+\section{Optimización de funciones}
 \chapter{Representación de funciones}
-\chapter{Integración sobre R}
+\minitoc
+
+\newpage
+\section{Dominio}
+\section{Continuidad}
+\section{Corte con los ejes}
+\section{Simetría}
+\section{Asíntotas}
+\section{Monotonía}
+\section{Curvatura}
+\chapter{Integración sobre $\mathbb{R}$}
+\minitoc
