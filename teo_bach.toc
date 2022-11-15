@@ -42,7 +42,7 @@
 \contentsline {section}{\numberline {9.3}Optimización de funciones}{36}{section.9.3}%
 \contentsline {chapter}{\numberline {10}Representación de funciones}{37}{chapter.10}%
 \contentsline {section}{\numberline {10.1}Dominio}{38}{section.10.1}%
-\contentsline {section}{\numberline {10.2}Simetría}{39}{section.10.2}%
+\contentsline {section}{\numberline {10.2}Simetría y periodicidad}{39}{section.10.2}%
 \contentsline {section}{\numberline {10.3}Continuidad}{39}{section.10.3}%
 \contentsline {section}{\numberline {10.4}Corte con los ejes}{39}{section.10.4}%
 \contentsline {section}{\numberline {10.5}Asíntotas}{39}{section.10.5}%
