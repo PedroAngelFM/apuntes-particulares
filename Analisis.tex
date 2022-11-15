@@ -1,8 +1,43 @@
 \part{Análisis Matemático}
-\chapter{Las sucesiones sobre $\mathbb{R}$}
+\chapter{Preámbulos para análisis}
 \minitoc
 
 \newpage
+\section{Topología sobre $\mathbb{R}$}
+La topología ocupa un lugar muy destacado cuando se trata del análisis matemático ya que es la rama que estudia que ocurre con ciertas propiedades de proximidad cuando a un conjunto le aplicas lo que hemos llamado funciones continuas en anteriores cursos. 
+
+\begin{defi}
+Una \textbf{topología}, $\tau$, sobre el conjunto $A$  es una familia de subconjuntos de  finita o no que cumple las siguientes características:
+\begin{itemize}
+\item $A$ y $\emptyset$ pertenecen a $\tau$.
+\item Dado $\lbrace A_i \rbrace_{i\in I}$ una familia arbitraria (puede ser finita o no) de elementos de $\tau$ entonces $\cup_{i\in I} A_i$ también pertenece a la topología.
+\item Dado $\lbrace A_i \rbrace_{i=0}^{i=k}$ una familia finita de elementos de la topología entonces $\cap_{i=0}^{i=k} A_i$ es también un elemento de la topología.
+\end{itemize}
+
+A esta forma de definir una topología lo llamamos definir una topología por \emph{abiertos}, ya que a los elementos de la topología definida así se les llama conjuntos abiertos. 
+\end{defi}
+\begin{ejercicio}
+Comprobar que $\mathbb{R}$ con los intervalos abiertos es una topología. 
+\end{ejercicio}
+
+\begin{defi}
+Diremos que un conjunto es \textbf{cerrado} cuando su complementario sea abierto. 
+\end{defi}
+
+\paragraph*{Aclaración: } Un conjunto puede no ser ni abierto ni cerrado y puede ser los dos a la vez, como por ejemplo el $\emptyset$ ya que su contrario que sería el total es abierto, pero como está en la topología $\tau$, entonces es abierto. Ambas cosas no son contradictorias. 
+
+Ahora bien, supongamos que ya tenemos estas cualidades de espacio topológico, ahora vamos a definir lo que es un entorno abierto de un punto a. 
+\begin{defi}
+Un entorno no es más que la vecindad de un punto \emph{(Los puntos cercanos a él)}, y diremos que un entorno $E$ es abierto si $\forall x \in E $ existe un abierto que está contenido en el entorno. 
+
+\end{defi}
+
+Ahora nos falta definir una medida sobre $\mathbb{R}$ que nos permita decir de manera clara y concisa lo que está y lo que no está en las vecindades del punto. La medida más habitual sobre $\mathbb{R}$ es el valor absoluto. 
+
+
+
+
+
 \chapter{Cálculo de Límites}
 \minitoc
 

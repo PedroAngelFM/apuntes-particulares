@@ -26,7 +26,8 @@
 \contentsline {section}{\numberline {4.2}Inecuaciones no lineales}{21}{section.4.2}%
 \contentsline {part}{II\hspace {1em}Análisis Matemático}{23}{part.2}%
 \contentsline {xpart}{Análisis Matemático}{25}{part.2}%
-\contentsline {chapter}{\numberline {5}Las sucesiones sobre $\mathbb {R}$}{25}{chapter.5}%
+\contentsline {chapter}{\numberline {5}Preámbulos para análisis}{25}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Topología sobre $\mathbb {R}$}{26}{section.5.1}%
 \contentsline {chapter}{\numberline {6}Cálculo de Límites}{27}{chapter.6}%
 \contentsline {chapter}{\numberline {7}Las funciones sobre $\mathbb {R}$}{29}{chapter.7}%
 \contentsline {chapter}{\numberline {8}Derivabilidad sobre $\mathbb {R}$}{31}{chapter.8}%
@@ -51,7 +52,7 @@
 \contentsline {part}{III\hspace {1em}Ejercicios de Análisis Matemático}{41}{part.3}%
 \contentsline {xpart}{Ejercicios de Análisis Matemático}{43}{part.3}%
 \contentsline {chapter}{\numberline {12}Representación de funciones}{43}{chapter.12}%
-\contentsline {section}{Introducción}{43}{section*.6}%
+\contentsline {section}{Introducción}{43}{section*.7}%
 \contentsline {section}{\numberline {12.1}Funciones polinómicas}{43}{section.12.1}%
 \contentsline {section}{\numberline {12.2}Funciones racionales}{44}{section.12.2}%
 \contentsline {section}{\numberline {12.3}Funciones irracionales}{44}{section.12.3}%
