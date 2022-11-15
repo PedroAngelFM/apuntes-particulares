@@ -42,32 +42,32 @@
 \contentsline {section}{\numberline {9.3}Optimización de funciones}{36}{section.9.3}%
 \contentsline {chapter}{\numberline {10}Representación de funciones}{37}{chapter.10}%
 \contentsline {section}{\numberline {10.1}Dominio}{38}{section.10.1}%
-\contentsline {section}{\numberline {10.2}Continuidad}{38}{section.10.2}%
-\contentsline {section}{\numberline {10.3}Corte con los ejes}{38}{section.10.3}%
-\contentsline {section}{\numberline {10.4}Simetría}{38}{section.10.4}%
-\contentsline {section}{\numberline {10.5}Asíntotas}{38}{section.10.5}%
-\contentsline {section}{\numberline {10.6}Monotonía}{38}{section.10.6}%
-\contentsline {section}{\numberline {10.7}Curvatura}{38}{section.10.7}%
-\contentsline {chapter}{\numberline {11}Integración sobre $\mathbb {R}$}{39}{chapter.11}%
-\contentsline {part}{III\hspace {1em}Ejercicios de Análisis Matemático}{41}{part.3}%
-\contentsline {xpart}{Ejercicios de Análisis Matemático}{43}{part.3}%
-\contentsline {chapter}{\numberline {12}Representación de funciones}{43}{chapter.12}%
-\contentsline {section}{Introducción}{43}{section*.7}%
-\contentsline {section}{\numberline {12.1}Funciones polinómicas}{43}{section.12.1}%
-\contentsline {section}{\numberline {12.2}Funciones racionales}{44}{section.12.2}%
-\contentsline {section}{\numberline {12.3}Funciones irracionales}{44}{section.12.3}%
-\contentsline {section}{\numberline {12.4}Funciones exponenciales}{44}{section.12.4}%
-\contentsline {section}{\numberline {12.5}Funciones logarítmicas}{44}{section.12.5}%
-\contentsline {section}{\numberline {12.6}Funciones trigonométricas}{44}{section.12.6}%
-\contentsline {part}{IV\hspace {1em}Álgebra lineal}{45}{part.4}%
-\contentsline {xpart}{Álgebra lineal}{47}{part.4}%
-\contentsline {chapter}{\numberline {13}Espacios Vectoriales }{47}{chapter.13}%
-\contentsline {chapter}{\numberline {14}Aplicaciones lineales}{49}{chapter.14}%
-\contentsline {chapter}{\numberline {15}Matrices}{51}{chapter.15}%
-\contentsline {chapter}{\numberline {16}Determinantes}{53}{chapter.16}%
-\contentsline {chapter}{\numberline {17}Discusión de sistemas}{55}{chapter.17}%
-\contentsline {part}{V\hspace {1em}Cálculo de probabilidades}{57}{part.5}%
-\contentsline {xpart}{Cálculo de probabilidades}{59}{part.5}%
-\contentsline {chapter}{\numberline {18}Probabilidades básicas}{59}{chapter.18}%
-\contentsline {chapter}{\numberline {19}Variables aleatorias discretas}{61}{chapter.19}%
-\contentsline {chapter}{\numberline {20}Variables aleatorias continuas}{63}{chapter.20}%
+\contentsline {section}{\numberline {10.2}Simetría}{39}{section.10.2}%
+\contentsline {section}{\numberline {10.3}Continuidad}{39}{section.10.3}%
+\contentsline {section}{\numberline {10.4}Corte con los ejes}{39}{section.10.4}%
+\contentsline {section}{\numberline {10.5}Asíntotas}{39}{section.10.5}%
+\contentsline {section}{\numberline {10.6}Monotonía}{39}{section.10.6}%
+\contentsline {section}{\numberline {10.7}Curvatura}{39}{section.10.7}%
+\contentsline {chapter}{\numberline {11}Integración sobre $\mathbb {R}$}{41}{chapter.11}%
+\contentsline {part}{III\hspace {1em}Ejercicios de Análisis Matemático}{43}{part.3}%
+\contentsline {xpart}{Ejercicios de Análisis Matemático}{45}{part.3}%
+\contentsline {chapter}{\numberline {12}Representación de funciones}{45}{chapter.12}%
+\contentsline {section}{Introducción}{45}{section*.8}%
+\contentsline {section}{\numberline {12.1}Funciones polinómicas}{45}{section.12.1}%
+\contentsline {section}{\numberline {12.2}Funciones racionales}{46}{section.12.2}%
+\contentsline {section}{\numberline {12.3}Funciones irracionales}{46}{section.12.3}%
+\contentsline {section}{\numberline {12.4}Funciones exponenciales}{46}{section.12.4}%
+\contentsline {section}{\numberline {12.5}Funciones logarítmicas}{46}{section.12.5}%
+\contentsline {section}{\numberline {12.6}Funciones trigonométricas}{46}{section.12.6}%
+\contentsline {part}{IV\hspace {1em}Álgebra lineal}{47}{part.4}%
+\contentsline {xpart}{Álgebra lineal}{49}{part.4}%
+\contentsline {chapter}{\numberline {13}Espacios Vectoriales }{49}{chapter.13}%
+\contentsline {chapter}{\numberline {14}Aplicaciones lineales}{51}{chapter.14}%
+\contentsline {chapter}{\numberline {15}Matrices}{53}{chapter.15}%
+\contentsline {chapter}{\numberline {16}Determinantes}{55}{chapter.16}%
+\contentsline {chapter}{\numberline {17}Discusión de sistemas}{57}{chapter.17}%
+\contentsline {part}{V\hspace {1em}Cálculo de probabilidades}{59}{part.5}%
+\contentsline {xpart}{Cálculo de probabilidades}{61}{part.5}%
+\contentsline {chapter}{\numberline {18}Probabilidades básicas}{61}{chapter.18}%
+\contentsline {chapter}{\numberline {19}Variables aleatorias discretas}{63}{chapter.19}%
+\contentsline {chapter}{\numberline {20}Variables aleatorias continuas}{65}{chapter.20}%

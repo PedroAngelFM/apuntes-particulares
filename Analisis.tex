@@ -124,9 +124,41 @@ Sean $a \in \mathbb{R}$
 
 \newpage
 \section{Dominio}
+Recordemos lo que era el dominio de una función de manera precisa
+\begin{defi}
+El dominio de una función o aplicación $f: X\longrightarrow Y$ es el subconjunto de puntos $x \in X$ para el cual existe $f(x)$. 
+\end{defi}
+\noindent
+Para que lo entendamos de nuevo la función $f$ en el caso que nos ocupa es algo a lo que le entran números, la función hace una operación, \emph{(En el caso de $2x$ sería que lo multiplica por dos)} y te devuelve ese valor operado. 
+\noindent
+El dominio son los números que la función puede operar sin  romperse, es decir, sin hacer cosas raras que no se pueden hacer en los números reales como por ejemplo:
+\begin{itemize}
+\item Dividir entre 0: Por tanto si tenemos una fracción habrá que comprobar cuando el denominador se hace 0. (Plantear la ecuación)
+\item Hacer la raíz de un número negativo: Para poder hacerlo tendríamos que extender nuestro campo a $\mathbb{C}$ lo cual ahora mismo se nos escapa de nuestro alcance. Se plantea la inecuación
+\item Hacer el logaritmo de un número negativo 
+\end{itemize}
+
+\subsection*{Dominios de las funciones elementales}
+\noindent
+Ahora vamos a ir desmenuzando los tipos de funciones que conocemos y analizando su dominio:
+\begin{itemize}
+\item \textbf{Funciones Polinómicas} Son las funciones del tipo $a_n\cdot x^n+\ldots+ a_o$ en este caso, su dominio es todo $\mathbb{R}$.
+\item \textbf{Funciones Racionales} Son las funciones del tipo $\displaystyle \dfrac{a_n\cdot x^n+\ldots+ a_0}{b_m\cdot x^m+\ldots+ b_0}$ en este caso, su dominio es todo $\mathbb{R}$, salvo los puntos en los que se anule el denominador, por o tanto hay que resolver la ecuación $b_m\cdot x^m+\ldots+ b_0=0$.
+\item \textbf{Funciones Irracionales} Son las de tipo $f(x)=\sqrt[n]{g(x)}$ tenemos que el dominio de $f(x)$ es:
+\begin{itemize}
+\item El mismo que $g(x)$ si n es \emph{impar}
+\item Si n es par el dominio de $f(x)$ son los x que cumplen que  $g(x)\geq 0$. 
+\end{itemize}
+\item \textbf{Funciones Exponenciales}
+Son de la forma $f(x)=a^{g(x)}$ con $a>0$ y $a\neq 1$, su dominio es $\mathbb{R}$.
+\item \textbf{Funciones Logarítmicas}
+Son de la forma $f(x)=log_a g(x)$ $a>0$ y  su dominio son los $x$ tales que $g(x)>0$.
+\item \textbf{Funciones Trigonométricas Circulares} 
+Tanto $f(x)=cos(x)$ como $f(x)=sen(x)$ su dominio es $\mathbb{R}$ y de aquí se pueden considerar el resto de funciones trigonométricas. 
+\end{itemize}
+\section{Simetría}
 \section{Continuidad}
 \section{Corte con los ejes}
-\section{Simetría}
 \section{Asíntotas}
 \section{Monotonía}
 \section{Curvatura}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.5)  15 NOV 2022 07:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.5)  15 NOV 2022 08:29
 entering extended mode
 **./teo_bach.tex
 (teo_bach.tex
@@ -713,59 +713,59 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 6.
 
-LaTeX Info: Redefining \. on input line 39.
-LaTeX Info: Redefining \% on input line 39.
+LaTeX Info: Redefining \. on input line 41.
+LaTeX Info: Redefining \% on input line 41.
 [26]
 Cap\'{\i }tulo 6.
 Package minitoc Info: I0006
-(minitoc)             teo_bach.mtc7 is empty on input line 41.
+(minitoc)             teo_bach.mtc7 is empty on input line 43.
 [27
 
 ]
-LaTeX Info: Redefining \. on input line 43.
-LaTeX Info: Redefining \% on input line 43.
+LaTeX Info: Redefining \. on input line 45.
+LaTeX Info: Redefining \% on input line 45.
  [28
 
 ]
 Cap\'{\i }tulo 7.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 43.
+(hyperref)                removing `math shift' on input line 45.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 43.
+(hyperref)                removing `math shift' on input line 45.
 
 Package minitoc Info: I0006
-(minitoc)             teo_bach.mtc8 is empty on input line 45.
+(minitoc)             teo_bach.mtc8 is empty on input line 47.
 [29]
-LaTeX Info: Redefining \. on input line 47.
-LaTeX Info: Redefining \% on input line 47.
+LaTeX Info: Redefining \. on input line 49.
+LaTeX Info: Redefining \% on input line 49.
  [30
 
 ]
 Cap\'{\i }tulo 8.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 47.
+(hyperref)                removing `math shift' on input line 49.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 47.
+(hyperref)                removing `math shift' on input line 49.
 
 \openout3 = `teo_bach.mtc'.
 
 \openout3 = `teo_bach.mtc'.
 
 (teo_bach.mtc9) [31]
-LaTeX Info: Redefining \. on input line 92.
-LaTeX Info: Redefining \% on input line 92.
+LaTeX Info: Redefining \. on input line 94.
+LaTeX Info: Redefining \% on input line 94.
  [32]
-LaTeX Info: Redefining \. on input line 102.
-LaTeX Info: Redefining \% on input line 102.
+LaTeX Info: Redefining \. on input line 104.
+LaTeX Info: Redefining \% on input line 104.
  [33]
-LaTeX Info: Redefining \. on input line 111.
-LaTeX Info: Redefining \% on input line 111.
+LaTeX Info: Redefining \. on input line 113.
+LaTeX Info: Redefining \% on input line 113.
  [34]
 Cap\'{\i }tulo 9.
 \openout3 = `teo_bach.mtc'.
@@ -775,8 +775,8 @@ Cap\'{\i }tulo 9.
 (teo_bach.mtc10) [35
 
 ]
-LaTeX Info: Redefining \. on input line 120.
-LaTeX Info: Redefining \% on input line 120.
+LaTeX Info: Redefining \. on input line 122.
+LaTeX Info: Redefining \% on input line 122.
  [36]
 Cap\'{\i }tulo 10.
 \openout3 = `teo_bach.mtc'.
@@ -786,93 +786,99 @@ Cap\'{\i }tulo 10.
 (teo_bach.mtc11) [37
 
 ]
-LaTeX Info: Redefining \. on input line 131.
-LaTeX Info: Redefining \% on input line 131.
+LaTeX Info: Redefining \. on input line 156.
+LaTeX Info: Redefining \% on input line 156.
  [38]
+LaTeX Info: Redefining \. on input line 165.
+LaTeX Info: Redefining \% on input line 165.
+ [39]
+LaTeX Info: Redefining \. on input line 165.
+LaTeX Info: Redefining \% on input line 165.
+ [40
+
+]
 Cap\'{\i }tulo 11.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 131.
+(hyperref)                removing `math shift' on input line 165.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 131.
+(hyperref)                removing `math shift' on input line 165.
 
 )
 Package minitoc Info: I0006
 (minitoc)             teo_bach.mtc12 is empty on input line 45.
- (EjerciciosAM.tex [39
-
-]
+ (EjerciciosAM.tex [41]
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [40
+ [42
 
-] [41] [42]
+] [43] [44]
 Cap\'{\i }tulo 12.
 \openout3 = `teo_bach.mtc'.
 
 \openout3 = `teo_bach.mtc'.
 
-(teo_bach.mtc13)) (Algebra.tex [43
+(teo_bach.mtc13)) (Algebra.tex [45
 
 ]
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [44] [45
+ [46] [47
 
-] [46]
+] [48]
 Cap\'{\i }tulo 13.
-[47
+[49
 
 ]
 LaTeX Info: Redefining \. on input line 3.
 LaTeX Info: Redefining \% on input line 3.
- [48
-
-]
-Cap\'{\i }tulo 14.
-[49]
-LaTeX Info: Redefining \. on input line 4.
-LaTeX Info: Redefining \% on input line 4.
  [50
 
 ]
-Cap\'{\i }tulo 15.
+Cap\'{\i }tulo 14.
 [51]
-LaTeX Info: Redefining \. on input line 5.
-LaTeX Info: Redefining \% on input line 5.
+LaTeX Info: Redefining \. on input line 4.
+LaTeX Info: Redefining \% on input line 4.
  [52
 
 ]
-Cap\'{\i }tulo 16.
+Cap\'{\i }tulo 15.
 [53]
-LaTeX Info: Redefining \. on input line 6.
-LaTeX Info: Redefining \% on input line 6.
+LaTeX Info: Redefining \. on input line 5.
+LaTeX Info: Redefining \% on input line 5.
  [54
 
 ]
-Cap\'{\i }tulo 17.
-) (Probabilidad.tex [55]
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
+Cap\'{\i }tulo 16.
+[55]
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
  [56
 
-] [57] [58]
+]
+Cap\'{\i }tulo 17.
+) (Probabilidad.tex [57]
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [58
+
+] [59] [60]
 Cap\'{\i }tulo 18.
-[59
+[61
 
 ]
 LaTeX Info: Redefining \. on input line 3.
 LaTeX Info: Redefining \% on input line 3.
- [60
+ [62
 
 ]
 Cap\'{\i }tulo 19.
-[61]
+[63]
 LaTeX Info: Redefining \. on input line 4.
 LaTeX Info: Redefining \% on input line 4.
- [62
+ [64
 
 ]
 Cap\'{\i }tulo 20.
@@ -888,43 +894,45 @@ Package minitoc(hints) Warning: W0024
 (minitoc(hints))                Some hints have been written 
 (minitoc(hints))                in the teo_bach.log file.
 
-[63] (teo_bach.aux
+[65] (teo_bach.aux
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
 )
 Package rerunfilecheck Info: File `teo_bach.out' has not changed.
-(rerunfilecheck)             Checksum: 33EDA190E4BA1D18EB761F1D162229A9;10878.
+(rerunfilecheck)             Checksum: 6DB0E699B93A64CD822E0F1B6B1779CE;10878.
  ) 
 Here is how much of TeX's memory you used:
- 13658 strings out of 478907
- 203920 string characters out of 2851892
+ 13665 strings out of 478907
+ 203991 string characters out of 2851892
  537776 words of memory out of 3000000
- 30895 multiletter control sequences out of 15000+600000
- 419454 words of font info for 88 fonts, out of 8000000 for 9000
+ 30897 multiletter control sequences out of 15000+600000
+ 419791 words of font info for 89 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  70i,16n,80p,527b,754s stack positions out of 5000i,500n,10000p,200000b,80000s
-<C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
-cmbx10.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
-fonts/cm/cmbx12.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/p
-ublic/amsfonts/cm/cmbxti10.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fo
-nts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/pedro/AppData/Local/Programs/
-MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/pedro/AppData/Local/
-Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/pedro/AppDat
-a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/pedr
-o/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Us
-ers/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pf
-b><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
-cmr17.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
-onts/cm/cmr6.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/publ
-ic/amsfonts/cm/cmr8.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/typ
-e1/public/amsfonts/cm/cmsl12.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/
-fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/pedro/AppData/Local/Program
-s/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/pedro/AppData/Local
-/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/pedro/AppD
-ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on teo_bach.pdf (63 pages, 330371 bytes).
+ <C:\Users\pedro\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
+1200.pk><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmbx10.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmbx12.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/pedro/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/pedro/AppData/Local/Pro
+grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/pedro/AppData/
+Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/pedro/
+AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/User
+s/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+<C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
+r12.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmr17.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/publi
+c/amsfonts/cm/cmr6.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmr8.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users/pedro/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/pedro/AppData/Local/P
+rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/pedro/AppData
+/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/pedr
+o/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+
+Output written on teo_bach.pdf (65 pages, 337738 bytes).
 PDF statistics:
- 778 PDF objects out of 1000 (max. 8388607)
- 171 named destinations out of 1000 (max. 500000)
+ 794 PDF objects out of 1000 (max. 8388607)
+ 175 named destinations out of 1000 (max. 500000)
  489 words of extra memory for PDF output out of 10000 (max. 10000000)
 
