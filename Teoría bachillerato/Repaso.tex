@@ -204,8 +204,45 @@ Podemos definir una ecuación exponencial como aquella que tiene la incógnita d
 \minitoc
 
 \section{Ecuaciones lineales}
+Una ecuación lineal es de la forma $ax+b=0$ y es el tipo más simple que puede haber de ecuación. Para resolver este tipo de ecuaciones, hay que aplicar la operación inversa a ambos lados de tal manera que si tenemos $$ax+b=0$$ y restamos b a ambos lados obtenemos que 
+$$ax+b-b=-b \Rightarrow ax=-b$$ y ahora si dividimos cada lado entre $a$ obtendremos que $$\dfrac{ax}{a}=\dfrac{-b}{a} \Rightarrow x=\dfrac{-b}{a}$$ 
+
 \section{Ecuaciones parabólicas}
+\noindent
+La fórmula general de las ecuaciones de segundo grado o parabólicas son de la forma 
+\begin{equation*}
+ax^2+bx+c=0
+\end{equation*}
+\noindent
+Las soluciones de este tipo de ecuaciones en caso de tenerlas se calculan con la siguiente fórmula:
+\begin{equation*}
+x=\dfrac{-b\pm \sqrt{-b^2-4ac}}{2a}
+\end{equation*}
+\noindent
+En el caso de que $b$  $c$ sean nulos entonces tendremos que:
+\begin{itemize}
+\item $c=0$ Entonces tenemos $ax^2+bx$ sacamos factor común a x.
+\begin{align*}
+ax^2+bx&=0\\
+x\cdot(ax+b)&=0\\
+\end{align*}
+Entonces como el producto es igual a 0 entonces puede que uno de los factores sea 0.
+\begin{align*}
+ax+b&=0\\
+x&=0\\
+\end{align*}
+\item $b=0$ En este caso se resuelve como una ecuación normal y al final aplicaremos una raíz cuadrada
+\begin{align*}
+ax^2+b&=0\\
+ax^2&=-b\\
+x^2&=\dfrac{-b}{a}\\
+x&=\pm \sqrt{\dfrac{-b}{a}}
+\end{align*}
+
+\end{itemize}
 \section{Ecuaciones de grado mayor que 2}
+\noindent
+Las ecuaciones de grado mayor que 2 se resuelven de manera muy parecida a las ecuaciones de 2º grado con $c=0$ se factoriza el polinomio y se va buscando las raíces de cada factor. De esta manera, podemos resolver ecuaciones del grado que queramos.
 
 \chapter{Inecuaciones}
 \minitoc

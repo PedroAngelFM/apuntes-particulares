@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.5)  15 NOV 2022 08:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.5)  16 NOV 2022 08:25
 entering extended mode
 **./teo_bach.tex
 (teo_bach.tex
@@ -6,8 +6,8 @@ LaTeX2e <2021-06-01> patch level 1
 L3 programming layer <2021-10-18>
 (C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
 Document Class: book 2021/02/12 v1.4n Standard LaTeX document class
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/base\bk11.clo
-File: bk11.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/base\bk12.clo
+File: bk12.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count182
 \c@chapter=\count183
@@ -612,8 +612,8 @@ Package minitoc Info: I0033
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
  [3]
-LaTeX Info: Redefining \. on input line 67.
-LaTeX Info: Redefining \% on input line 67.
+LaTeX Info: Redefining \. on input line 64.
+LaTeX Info: Redefining \% on input line 64.
  [4])
 \tf@toc=\write5
 \openout5 = `teo_bach.toc'.
@@ -638,8 +638,8 @@ Cap\'{\i }tulo 1.
 LaTeX Info: Redefining \. on input line 43.
 LaTeX Info: Redefining \% on input line 43.
  [10]
-LaTeX Info: Redefining \. on input line 82.
-LaTeX Info: Redefining \% on input line 82.
+LaTeX Info: Redefining \. on input line 79.
+LaTeX Info: Redefining \% on input line 79.
  [11]
 LaTeX Info: Redefining \. on input line 109.
 LaTeX Info: Redefining \% on input line 109.
@@ -667,9 +667,9 @@ Cap\'{\i }tulo 2.
 LaTeX Info: Redefining \. on input line 203.
 LaTeX Info: Redefining \% on input line 203.
 
-Overfull \hbox (80.27945pt too wide) has occurred while \output is active
-\OT1/cmr/m/n/10.95 18 \OT1/cmr/m/sl/10.95 CAP[]ITULO 2.  POLINOMIOS SOBRE EL CU
-ERPO DE LOS REALES Y ECUACIONES
+Overfull \hbox (82.33853pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/12 18 \OT1/cmr/m/sl/12 CAP[]ITULO 2.  POLINOMIOS SOBRE EL CUERPO D
+E LOS REALES Y ECUACIONES
  []
 
 [18
@@ -681,17 +681,17 @@ Cap\'{\i }tulo 3.
 \openout3 = `teo_bach.mtc'.
 
 (teo_bach.mtc4) [19]
-LaTeX Info: Redefining \. on input line 210.
-LaTeX Info: Redefining \% on input line 210.
- [20
-
-]
+LaTeX Info: Redefining \. on input line 247.
+LaTeX Info: Redefining \% on input line 247.
+ [20]
 Cap\'{\i }tulo 4.
 \openout3 = `teo_bach.mtc'.
 
 \openout3 = `teo_bach.mtc'.
 
-(teo_bach.mtc5)) (Analisis.tex [21]
+(teo_bach.mtc5)) (Analisis.tex [21
+
+]
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
  [22
@@ -786,8 +786,8 @@ Cap\'{\i }tulo 10.
 (teo_bach.mtc11) [37
 
 ]
-LaTeX Info: Redefining \. on input line 158.
-LaTeX Info: Redefining \% on input line 158.
+LaTeX Info: Redefining \. on input line 156.
+LaTeX Info: Redefining \% on input line 156.
  [38]
 LaTeX Info: Redefining \. on input line 179.
 LaTeX Info: Redefining \% on input line 179.
@@ -820,16 +820,12 @@ Cap\'{\i }tulo 12.
 
 \openout3 = `teo_bach.mtc'.
 
-(teo_bach.mtc13)) (Algebra.tex
-Underfull \vbox (badness 1708) has occurred while \output is active []
-
- [45
+(teo_bach.mtc13)) (Algebra.tex [45
 
 ]
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-
-[46] [47
+ [46] [47
 
 ] [48]
 Cap\'{\i }tulo 13.
@@ -906,20 +902,20 @@ Package rerunfilecheck Info: File `teo_bach.out' has not changed.
 (rerunfilecheck)             Checksum: E2B5C372A13EDAD9B7613BC851808765;10959.
  ) 
 Here is how much of TeX's memory you used:
- 13675 strings out of 478907
- 204099 string characters out of 2851892
+ 13669 strings out of 478907
+ 204505 string characters out of 2851892
  537776 words of memory out of 3000000
- 30903 multiletter control sequences out of 15000+600000
- 420748 words of font info for 93 fonts, out of 8000000 for 9000
+ 30899 multiletter control sequences out of 15000+600000
+ 419791 words of font info for 89 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,16n,80p,527b,752s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 70i,16n,80p,527b,754s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\pedro\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
-1095.pk><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+1200.pk><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmbx10.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/publ
 ic/amsfonts/cm/cmbx12.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/t
 ype1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/pedro/AppData/Local/Programs/MiK
 TeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/pedro/AppData/Local/Pro
-grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/pedro/AppData/
+grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/pedro/AppData/
 Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/pedro/
 AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/User
 s/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
@@ -928,15 +924,15 @@ r12.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmr17.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/publi
 c/amsfonts/cm/cmr6.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type
 1/public/amsfonts/cm/cmr8.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fon
-ts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/pedro/AppData/Local/Programs/M
+ts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users/pedro/AppData/Local/Programs/M
 iKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/pedro/AppData/Local/P
 rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/pedro/AppData
-/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/pedr
+/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/pedr
 o/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
 
-Output written on teo_bach.pdf (65 pages, 340825 bytes).
+Output written on teo_bach.pdf (65 pages, 342292 bytes).
 PDF statistics:
- 796 PDF objects out of 1000 (max. 8388607)
+ 797 PDF objects out of 1000 (max. 8388607)
  177 named destinations out of 1000 (max. 500000)
  489 words of extra memory for PDF output out of 10000 (max. 10000000)
 

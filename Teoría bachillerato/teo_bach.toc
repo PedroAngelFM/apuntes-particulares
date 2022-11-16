@@ -20,7 +20,7 @@
 \contentsline {chapter}{\numberline {3}Ecuaciones polinómicas}{19}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Ecuaciones lineales}{19}{section.3.1}%
 \contentsline {section}{\numberline {3.2}Ecuaciones parabólicas}{19}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Ecuaciones de grado mayor que 2}{19}{section.3.3}%
+\contentsline {section}{\numberline {3.3}Ecuaciones de grado mayor que 2}{20}{section.3.3}%
 \contentsline {chapter}{\numberline {4}Inecuaciones}{21}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Inecuaciones lineales}{21}{section.4.1}%
 \contentsline {section}{\numberline {4.2}Inecuaciones no lineales}{21}{section.4.2}%
