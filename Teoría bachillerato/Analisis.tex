@@ -35,23 +35,93 @@ Un entorno no es más que la vecindad de un punto \emph{(Los puntos cercanos a �
 Ahora nos falta definir una medida sobre $\mathbb{R}$ que nos permita decir de manera clara y concisa lo que está y lo que no está en las vecindades del punto. La medida más habitual sobre $\mathbb{R}$ es el valor absoluto. 
 
 
+\begin{defi}
+Una medida es una aplicación 
+$$
+\begin{array}{rccl}
+||  \colon & \mathbb{R} \times \mathbb{R} & \longrightarrow & \mathbb{R}\\
+&(x,y) & \longmapsto & dist(x,y)
+\end{array}
+$$
+\noindent
+Que cumple las siguientes propiedades:
+\begin{itemize}
+\item $\forall x \in \mathbb{R} $ se cumple que $dist(x,x)=0$
+\item $\forall x,y\in \mathbb{R}$ se cumple que $dist(x,y)=dist(y,x)$ 
+\item $\forall x,y,z \in \mathbb{R}$ se cumple que $dist(x,z)\leq dist(x,y)+dist(y,z)$ Es decir, el camino más corto es el camino directo entre dos puntos.
+\end{itemize}
 
+\end{defi}
+
+\begin{ejercicio}
+Probar que el valor absoluto es una medida sobre los números reales. 
+\end{ejercicio}
+
+Ahora, vamos a definir la principal definición para la que usamos la topología. Las funciones continuas. 
+
+\begin{defi}
+Una aplicación
+$$
+\begin{array}{rccl}
+f  \colon & X & \longrightarrow & Y\\
+
+\end{array}
+$$
+Diremos que es continua si $\forall E$ abierto de $B$ entonces se cumple que $f^{-1}(B)$ es oto conjunto abierto. 
+\end{defi}
+
+Esta definición nos quiere decir que este tipo de funciones lo que hace es mandar puntos que están cerca a puntos que siguen cerca por así decirlo,ya que un entorno de f(a) viene de un entorno de a.
+
+
+Continuará...
 
 
 \chapter{Cálculo de Límites}
 \minitoc
 
 \newpage
+
+\section{Preámbulo sobre las sucesiones reales}
+\begin{defi}
+Definimos una sucesión de números reales $\lbrace a_k \rbrace$ como una aplicación de la forma: 
+$$
+\begin{array}{rccl}
+\lbrace a_k \rbrace  \colon & \mathbb{N} & \longrightarrow & \mathbb{R}\\
+& k & \longmapsto & a_k
+\end{array}
+$$
+\end{defi}
+
+Tenemos que tener claros unos cuantos conceptos sobre sucesiones antes de ponernos a definir lo que es una función o sucesión convergente y que es eso de convergente. 
+
+
+
+
 \chapter{Las funciones sobre $\mathbb{R}$}
 \minitoc
 
 \newpage
+
+\section{Definiciones previas}
+
+\begin{defi}
+Continuidad 
+\end{defi}
+\section{Teoremas de las funciones continuas}
+\begin{theorem}
+Teorema de Bolzano 
+\end{theorem}
+\begin{theorem}
+Teorema de los valores intermedios o de Cauchy
+\end{theorem}
+
 \chapter{Derivabilidad sobre $\mathbb{R}$}
 
 \minitoc
 
 
 \newpage
+
 
 \section{Concepto de la derivada}
 Para empezar, tenemos que refrescar un concepto de geometría análitica, \emph{la pendiente de una recta}
@@ -112,6 +182,7 @@ Sean $a \in \mathbb{R}$
 \section{Algunas demostraciones de fórmulas de derivadas}
 \newpage
 
+\section{}
 \chapter{Aplicaciones de la derivada}
 \minitoc
 
