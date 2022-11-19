@@ -91,10 +91,45 @@ $$
 \end{array}
 $$
 \end{defi}
-
+\noindent
 Tenemos que tener claros unos cuantos conceptos sobre sucesiones antes de ponernos a definir lo que es una función o sucesión convergente y que es eso de convergente. 
 
+\begin{defi}
+Se dice que una sucesión $\lbrace a_n \rbrace$ es convergente en $\mathbb{R}$, o que es convergente a $l\in \mathbb{R}$ o que su límite es $l$ cuando si $\forall \varepsilon \geq 0$ y $\varepsilon \in \mathbb{R}$ $\exists n_0\in \mathbb{N}$ de manera que cuando $n\leq n_0\Leftarrow |l-a_n|\leq \varepsilon$
+\end{defi}
 
+\paragraph*{\textit{Aclaración:}} Una sucesión que sea convergente tiene un único límite.\\[2ex]
+\noindent
+Esta definición lo que nos dice es que cogiendo un $\varepsilon$ arbitrariamente pequeño se puede encontrar un $n_0 \in \mathbb{N}$ de manera que la distancia entre el límite y un término posterior de $\lbrace a_n \rbrace$ a $a_{n_0}$ es menor que ese $\varepsilon$\\
+
+\noindent
+Podemos entonces extender esta definición a una aplicación del tipo
+\begin{equation*}
+\begin{array}{rccl}
+f \colon & \mathbb{R} & \longrightarrow & \mathbb{R}\\
+
+\end{array}
+\end{equation*}
+
+Entonces dejemos definido esta extensión a lo continuo 
+\section{Definición  y propiedades}
+
+\begin{defi}
+Una función es convergente a $l$ cuando $x\to a$ $\forall \varepsilon \in \mathbb{R}$ entonces $\exists \delta \geq 0 $ de manera que $|x-a|\leq \delta \Rightarrow |f(x)-f(a)|\leq 0$
+\end{defi}
+
+Podemos definir de esta manera el límite ya que hemos definido la estructura de espacio métrico de $\mathbb{R}$ ya que como demostramos anteriormente esta aplicación es una distancia. 
+
+\begin{ejercicio}
+Probar que la función $f(x)=x^2+x+1$ tiende a 1 en el punto $x=0$
+\end{ejercicio}
+\begin{proof}
+Tomemos un $\varepsilon < 0$ entonces tomando como $\delta < min\lbrace 1, \dfrac{\varepsilon}{2}\rbrace\Rightarrow \delta <1 \Rightarrow \delta^2 <\delta$ por tanto, tenemos que $|x|<\delta$  
+
+\begin{equation*}
+|f(x)-1|=|x^2+x|\leq |x^2|+|x|< \delta^2+\delta<2\delta < \varepsilon
+\end{equation*}
+\end{proof}
 
 
 \chapter{Las funciones sobre $\mathbb{R}$}
@@ -105,20 +140,48 @@ Tenemos que tener claros unos cuantos conceptos sobre sucesiones antes de ponern
 \section{Definiciones previas}
 
 \begin{defi}
-Continuidad 
+Una función $f(x)$ es continua en un punto a cuando $\displaystyle \lim_{x\to a} f(x)=f(a)$. Es otra forma de definir la continuidad y es equivalente a la definición que se puede dar de una aplicación continua que dábamos en el apartado de topología. 
 \end{defi}
-\section{Teoremas de las funciones continuas}
-\begin{theorem}
-Teorema de Bolzano 
-\end{theorem}
-\begin{theorem}
-Teorema de los valores intermedios o de Cauchy
-\end{theorem}
+
+\begin{defi}
+Diremos que una función es continua si lo es en todos sus puntos. 
+\end{defi}
+
+\paragraph*{Propiedades}
+Se cumplen las siguientes propiedades asociadas a las funciones continuas:
+\begin{itemize}
+\item Dadas $f$ y $g$ dos funciones continuas entonces tendremos que $f+g$ también es una función
+\item Dada $f$ una función continua y $k\in \mathbb{R}$ entonces tenemos que $k\cdot f$ es una función continua también 
+\item Dadas dos funciones $f, g$ continuas tenemos que $f\cdot g$ también es continua
+\item La composición de funciones continuas $f,g$ también es una función  continua. 
+\end{itemize}
+
+\begin{ejercicio}
+Demostrar mediante las propiedades de los límites de linealidad y de conservación del producto.
+\end{ejercicio}
+
+\begin{ejercicio}
+Comprueba si las siguientes funciones son continuas en $x=2$
+\begin{equation*}
+\begin{array}{rrrr}
+a) f(x)=\dfrac{1}{x-2}& b)f(x)=\dfrac{3x-5}{x^2-4}& c)f(x)=\dfrac{x^2}{x^2+1}& d)f(x)=3x^2-\dfrac{2}{x}\\
+\end{array}
+\end{equation*}
+
+Comprobar que una función es continua en un punto $x=a$ es únicamente comprobar que el $\displaystyle lim_{x\to a} f(x)=f(a)$ por tanto hay que tener en cuenta cuando no existe un límite
+
+
+
+\end{ejercicio}
+
+
+
+
+
 
 \chapter{Derivabilidad sobre $\mathbb{R}$}
 
 \minitoc
-
 
 \newpage
 
