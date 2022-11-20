@@ -1,0 +1,27 @@
+\chapter{Espacios Topológicos}
+\begin{defi}
+Sea $(X,d)$ un espacio métrico, dados $x\in X$ $r\in \mathbb{R}^+$, llamaremos bola abierta de centro x y radio r al conjunto 
+$$
+B(x,r)=\lbrace y\in X \colon d(x,y)<r\rbrace
+$$
+y la bola cerrada de centro x y radio r.
+$$
+\overline{B}(x,r)=\lbrace y\in X \colon d(x,y)\leq r\rbrace
+$$
+\end{defi}
+
+Dependiendo de la distancia y la norma que se haya definido, las bolas tienen distinta forma, por ejemplo la norma infinito una bola es un cuadrado. 
+
+\begin{defi}
+Sea $(X,d)$ un espacio métrico. Diremos que un subconjunto U de X es abierto si para cada $x\in U \exists r>0\colon B(x,r)\subseteq U$
+\end{defi}
+En un espacio métrico las bolas abiertas son abiertos de la topología 
+
+\begin{proposition}
+Los abiertos de un espacio métrico (X,d), verifican las siguientes propiedades: 
+\begin{enumerate}
+\item $\emptyset$ y $X$ son abiertos
+\item Si $U$ y  $V$ son abiertos entonces $U \cap V$ también lo es. (Se cumple para cualquier conjunto finito de conjuntos)
+\item Si $\lbrace U_\alpha \rbrace_{\alpha\in A}$ es una familia de abiertos, entonces $\bigcup_{\alpha\in A} U_\alpha$ también es abierto. 
+\end{enumerate}
+\end{proposition}

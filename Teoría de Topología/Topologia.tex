@@ -1,0 +1,51 @@
+\documentclass[12pt,a4paper]{book}
+
+\usepackage{fancyhdr}
+\usepackage{amssymb}
+\usepackage{mathtools}
+
+\usepackage[spanish]{babel}
+
+\usepackage[spanish]{minitoc}
+\usepackage{minitoc}
+\usepackage{amsthm}
+\theoremstyle{definition}
+\newtheorem{defi}{Definición}[chapter]
+\theoremstyle{definition}
+\newtheorem*{ejerci}{Ejercicio Propuesto}
+\theoremstyle{definition}
+\newtheorem{ejercicio}[subsection]{Ejercicio}
+\newtheorem*{solution}{Sol:}
+\newtheorem{lemma}{Lema}[chapter]
+\newtheorem{proposition}{Proposición}[chapter]
+\theoremstyle{lemma}
+
+
+\addto{\captionsspanish}{\renewcommand{\mtctitle}{\'Indice del cap\'itulo}}
+
+\renewcommand{\mtctitle}{\'Indice}% as� tambi�n cambiamos la cabecera del los minitoc
+
+
+\usepackage{graphicx}
+
+\usepackage{hyperref} % url, label, citas, tableofcontents
+
+\title{Teoría de Topología}
+\author{Pedro Ángel Fraile Manzano} 
+\date{\today}
+\begin{document}
+%%%%%%%%%%%%%%%
+%\input{Portada_book}%Portada con entorno titlepage
+%\input{book_cabecera}%Personalizamos la portada a mano
+\maketitle%Aparece el t�tulo (\title{} \author{} \date{\today)}), es distinto a la portada
+%%%Personalizando el �ndice general (toc)
+\addtocontents{toc}{\hspace{-7.5mm} \textbf{Apartados del libro}}
+\addtocontents{toc}{\hfill \textbf{P\'agina} \par}
+\addtocontents{toc}{\vspace{-2mm} \hspace{-7.5mm} \hrule \par}
+\dominitoc%para crear �ndices en cada cap�tulo. Requiere paquete {minitoc
+\renewcommand{\contentsname}{Contenidos Generales}%Nombre del �ndice general
+\tableofcontents
+\adjustmtc{} %indice en la intro
+\include{EspaciosMetricos.tex}
+\include{EspaciosTopologicos.tex}
+\end{document}

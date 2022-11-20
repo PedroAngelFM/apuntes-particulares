@@ -1,0 +1,70 @@
+\chapter{Espacios Métricos}
+
+\begin{defi}
+Si E es un $\mathbb{R}$ espacios vectorial una norma sobre E es una aplicación $\parallel\parallel\colon E \Longrightarrow \mathbb{R}$ que para cada $e,e'\in E$ y $a\in \mathbb{R}$ que verifica:
+\begin{enumerate}
+\item $\parallel e \parallel \geq 0; \parallel e\parallel=0 \Leftrightarrow e=0$
+\item Desigualdad triangular $\parallel e +e'\parallel\leq \parallel e \parallel +\parallel e' \parallel$
+\item $\parallel ae \parallel=a\parallel e \parallel$
+\end{enumerate}
+Si E es un espacio vectorial y $\parallel \parallel$ una norma como la definida antes, el par $(E,\parallel \parallel)$ recibe el nombre de espacio normado 
+\end{defi}
+
+\begin{defi}
+Sea E un $\mathbb{R}$-espacio vectorial. Diremos que un producto escalar $$T_2\colon E\times E \Longrightarrow \mathbb{R}$$ es euclídeo si es definido positivo, es decir si para cada $e \in E$, $T_2(e,e)\geq 0$ y $T_2(e,e)=0\Leftrightarrow e=0$. Un espacio euclídeo es un par $(E,T_2)$ donde 
+\end{defi}
+
+\begin{lemma}
+Sea $(E,T_2)$ un espacio euclídeo y $\parallel e \parallel=sqrt{T_2(e,e)}$ Dados $e,e' \in E$ se verifica que:
+\begin{enumerate}
+\item \emph{Desigualdad de Schwarz:} $|T_2(e,e')|\leq \parallel e \parallel \cdot \parallel e' \parallel$
+\item \emph{Desigualdad de Minkowski:}$\parallel e+e' \parallel \leq \parallel e\parallel +\parallel e' \parallel$
+
+\end{enumerate}
+\end{lemma}
+
+\noindent
+\begin{proof}
+Vamos a separar cada una de las proposiciones:
+\begin{enumerate}
+\item Para cada $a \in \mathbb{R}$ se tiene que: 
+\begin{equation*}
+0\leq T_2(e+ae',e+ae')=T_2(e,e)+2aT_2(e,e')+a^2T_2(e',e')
+\end{equation*}
+Esta expresión se da ya que el $T_2$ es una aplicación bilineal, ya que es una aplicación la cual es lineal en cada uno de los términos. En este caso, el último término de la igualdad es un polinomio de grado 2 que no toma valores negativos, ya que ninguno de los productos euclídeos son positivos.Entonces, como no tiene solución el discriminante de este polinomio no puede ser positivo
+\begin{equation*}
+4 T_2(e,e')-4T_2(e,e)T_2(e',e')\leq 0
+\end{equation*}
+
+Por tanto, $T_2(e,e')^2\leq T_2(e,e)T_2(e',e')$ por tanto, se concluye. 
+\item Por darse la anterior proposición tenemos que
+\begin{align*}
+\parallel e+e' \parallel^2 &= T_2(e+e',e+e')=\\
+=T_2(e,e)+2T_2(e,e')+T_2(e',e')&\leq \parallel e\parallel^2+\parallel e\parallel\parallel e'\parallel+\parallel e'\parallel^2=(\parallel e\parallel+\parallel e'\parallel)^2
+\end{align*}
+y tomando las raíces cuadradas se concluye
+\end{enumerate}
+\end{proof}
+
+\begin{proposition}
+Si $(E,T_2)$ es un espacio euclídeo, la aplicación $\parallel\parallel\colon E \longrightarrow \mathbb{R}$ definida como $\parallel e\parallel= \sqrt{T_2(e,e)}$ es una norma en $E$.
+\end{proposition}
+
+\noindent
+La norma asociada con un producto escalar se denota habitualmente como $\parallel\parallel_2$, en $\mathbb{R}^n$ la norma $\parallel\parallel_2$ se puede calcular como:
+$$
+\parallel x\parallel_2=\sqrt{\sum_{i=1}^n x_i^2}
+$$
+\noindent
+Esta será la norma que no se especifique otra cosa 
+
+\begin{defi}
+Sea $X$ un copnjunto, una distancia en $X$ es una aplicación $d\colon X\times X\longrightarrow \mathbb{R}^+$ para $x,y,z\in X$ se verifica:
+\begin{itemize}
+\item $d(x,y)\geq 0 ; d(x,y)=0 \Leftrightarrow x=y$
+\item $d(x,y)=d(y,x)$
+\item Desigualdad triangular $d(x,z)\leq d(x,y)+d(y,z)$
+\end{itemize}
+\end{defi}
+
+Las nociones anteriores únicamente se pueden aplicar a espacios vectoriales, pero la de distancia se puede aplicar a cualquier conjunto $X$.
