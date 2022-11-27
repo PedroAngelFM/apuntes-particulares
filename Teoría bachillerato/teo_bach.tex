@@ -16,6 +16,8 @@
 \theoremstyle{definition}
 \newtheorem{ejercicio}[subsection]{Ejercicio}
 \newtheorem*{solution}{Sol:}
+\newtheorem{proposicion}[subsection]{Proposición}
+\theoremstyle{definition}
 
 
 \addto{\captionsspanish}{\renewcommand{\mtctitle}{\'Indice del cap\'itulo}}
@@ -43,9 +45,9 @@
 \renewcommand{\contentsname}{Contenidos Generales}%Nombre del �ndice general
 \tableofcontents
 \adjustmtc{} %indice en la intro
-\input{Repaso.tex}
-\input{Analisis.tex}
-\input{EjerciciosAM.tex}
-\input{Algebra.tex}
-\input{Probabilidad.tex}
+\include{Repaso.tex}
+\include{Analisis.tex}
+\include{EjerciciosAM.tex}
+\include{Algebra.tex}
+\include{Probabilidad.tex}
 \end{document}
