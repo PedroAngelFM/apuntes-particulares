@@ -335,3 +335,77 @@ Estas cualidades lo que nos permiten es reducir el tamaño del conjunto de punto
 \section{Curvatura}
 \chapter{Integración sobre $\mathbb{R}$}
 \minitoc
+
+\newpage
+
+\section{Conceptos principales}
+\noindent
+\textbf{¿Qué demonios es una integral?}\\[1ex]
+La integral es una suma, una suma infinita, normalmente se define como el área de bajo la gráfica que forma la curva con el eje de las x's.\\[2ex]
+\noindent
+Sea una función $f\colon [a,b] \longrightarrow \mathbb{R}^+$ (por ahora vamos a considerar que es únicamente positiva, es decir, solo puede tomar valores positivos). 
+\begin{figure}[H]
+\begin{center}
+\graphicspath{{imagenes_analisis/}}
+\includegraphics[scale=0.25]{integrales1.png}
+\label{Función $f(x)$}
+\end{center}
+\end{figure}
+
+Entonces podemos hacer una primera aproximación del área por rectángulos . En principio, tenemos un rectángulo que cogiendo el mínimo de la función nos queda como se muestra en la imagen:
+
+\begin{figure}[H]
+\graphicspath{{imagenes_analisis/}}
+\subfloat[Área la suma inferior]{
+
+    \includegraphics[scale=0.15]{Integrales2.png}}
+\subfloat[Área la suma superior]{
+
+\includegraphics[scale=0.15]{Integrales3.png}}
+
+\end{figure}
+\noindent
+De esta manera el cálculo del área bajo la curva que obtenemos es el siguiente
+\begin{equation*}
+\begin{array}{rr}
+ inf(f(x))\cdot (b-a)& sup(f(x))\cdot(b-a)\\
+\end{array}
+\end{equation*}
+\noindent
+Es evidente que esto como aproximación del área bajo la curva deja bastante que desear, por tanto, se puede dividir el intervalo $[a,b]$ a la mitad de manera que se obtenga una mejor aproximación como se ve en la imagen.
+\begin{figure}[H]
+\begin{center}
+\graphicspath{{imagenes_analisis/}}
+\includegraphics[scale=0.25]{Integrales4.png}
+\label{Función $f(x)$}
+\end{center}
+\end{figure}
+\noindent
+Como se puede ver en este caso de las áreas por debajo, se aproxima de mejor manera el área por debajo.\\
+\noindent 
+En general, podemos hacer una partición de n partes del intervalo $[a,b]$, es decir, sean $\lbrace x_0,x_1\ldots x_n\rbrace$ donde $a=x_0<x_1\ldots<x_{n-1}<x_n=b$, de esta manera, tomar los rectángulos $r_i, R_i$ debajo o por encima de la curva respectivamente tomando como altura el mínimo o máximo de $f(x)$ en el intervalo $[x_{i-1},x_{i}]$ respectivamente.\\
+\noindent
+De esta manera, el área de cada rectángulo es $\displaystyle area(r_i)=\inf_{x\in{[x_{i-1},x_i]}}(f(x))\cdot (x_{i}-x_{i-1})$ , la suma de todos los rectángulos sería el área bajo la curva. 
+
+Si hacemos una partición infinitesimal, es decir hacemos que el numero de los puntos $x_i$ lleguen a ser infinitos podemos obtener el área bajo la curva. 
+
+\begin{defi}
+Sea $f(x)$ una función real continua, una función es integrable si al hacer infinitas particiones, la suma superior (la suma de las áreas que toma los supremos) y la suma inferior (lo mismo pero con los mínimos). A ese limite se le llama \textit{\textbf{Integral de $f(x)$ en el intervalo $[a,b]$}}
+\end{defi}
+\newpage
+\section{Cálculo efectivo de integrales}
+\noindent
+Muchas veces se considera el operador integral como el operador inverso de la derivada para calcular la integral tenemos que desarrollar varias técnicas 
+\subsection*{Primitivas}
+\begin{defi}
+Sea una función $F(x)$ diremos que es \textbf{primitiva} de la función $f(x)\Leftrightarrow F'(x)=f(x)$
+\end{defi}
+\noindent
+Para empezar, vamos a ver lo que se llaman \textbf{primitivas inmediatas}, es decir son las primitivas que no requieren ningún mecanismo más que las siguientes fórmulas
+
+\subsection{Primitivas inmediatas}
+Estas son las primitivas 
+
+
+
+
