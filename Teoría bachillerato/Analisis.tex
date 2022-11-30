@@ -428,6 +428,35 @@ Los cortes con los ejes son importantes por que nos dan una referencia de donde 
 \section{Monotonía}
 \section{Curvatura}
 
+\section{Análisis de cada tipo de función elemental}
+\subsection*{Polinómicas}
+\subsubsection*{Dominio}
+\noindent
+Las funciones polinómicas tienen como dominio todo $\mathbb{R}$.
+\subsection*{Simetría}
+\noindent
+Solo las funciones que cumplen $P(x)=\sum a_n\cdot x^{2n}$ con $n\neq 0$ son pares  
+\subsection*{Continuidad}
+\noindent
+Los polinomios son funciones continuas en todo $\mathbb{R}$
+\subsection*{Asíntotas}
+Los polinomios no tienen asíntotas verticales, horizontales ni oblicuas.
+\subsection*{Monotonía y curvatura}
+No es más que derivar funciones polinómicas. 
+\newpage
+\begin{ejemplo}
+La función $f(x)=x^3+x^2-x-1$ tiene la siguiente función.
+En detalle podemos ver que efectivamente el dominio es todo $\mathbb{R}$, no es simétrica, es continua, no tiene asintotas 
+\end{ejemplo}
+\begin{center}
+\begin{figure}[H]
+\centering
+\graphicspath{{imagenes_analisis/representacion}}
+\includegraphics[scale=0.4]{funciones1.png}
+\end{figure}
+\end{center}
+
+
 
 
 
@@ -457,6 +486,7 @@ Sea una función $f\colon [a,b] \longrightarrow \mathbb{R}^+$ (por ahora vamos a
 Entonces podemos hacer una primera aproximación del área por rectángulos . En principio, tenemos un rectángulo que cogiendo el mínimo de la función nos queda como se muestra en la imagen:
 
 \begin{figure}[H]
+\centering
 \graphicspath{{imagenes_analisis/}}
 \subfloat[Área la suma inferior]{
 
@@ -476,11 +506,11 @@ De esta manera el cálculo del área bajo la curva que obtenemos es el siguiente
 \noindent
 Es evidente que esto como aproximación del área bajo la curva deja bastante que desear, por tanto, se puede dividir el intervalo $[a,b]$ a la mitad de manera que se obtenga una mejor aproximación como se ve en la imagen.
 \begin{figure}[H]
-\begin{center}
+\centering
 \graphicspath{{imagenes_analisis/}}
 \includegraphics[scale=0.25]{Integrales4.png}
 \label{Función $f(x)$}
-\end{center}
+
 \end{figure}
 \noindent
 Como se puede ver en este caso de las áreas por debajo, se aproxima de mejor manera el área por debajo.\\

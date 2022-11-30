@@ -55,6 +55,7 @@
 \contentsline {section}{\numberline {10.5}Asíntotas}{51}{section.10.5}%
 \contentsline {section}{\numberline {10.6}Monotonía}{51}{section.10.6}%
 \contentsline {section}{\numberline {10.7}Curvatura}{51}{section.10.7}%
+\contentsline {section}{\numberline {10.8}Análisis de cada tipo de función elemental}{51}{section.10.8}%
 \contentsline {chapter}{\numberline {11}Integración sobre $\mathbb {R}$}{53}{chapter.11}%
 \contentsline {section}{\numberline {11.1}Conceptos principales}{54}{section.11.1}%
 \contentsline {section}{\numberline {11.2}Cálculo efectivo de integrales}{56}{section.11.2}%
@@ -67,7 +68,7 @@
 \contentsline {part}{III\hspace {1em}Ejercicios de Análisis Matemático}{59}{part.3}%
 \contentsline {xpart}{Ejercicios de Análisis Matemático}{61}{part.3}%
 \contentsline {chapter}{\numberline {12}Representación de funciones}{61}{chapter.12}%
-\contentsline {section}{Introducción}{61}{section*.21}%
+\contentsline {section}{Introducción}{61}{section*.28}%
 \contentsline {section}{\numberline {12.1}Funciones polinómicas}{61}{section.12.1}%
 \contentsline {section}{\numberline {12.2}Funciones racionales}{62}{section.12.2}%
 \contentsline {section}{\numberline {12.3}Funciones irracionales}{62}{section.12.3}%
