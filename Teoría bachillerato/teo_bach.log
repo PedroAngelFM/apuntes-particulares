@@ -1,31 +1,29 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.2.6)  27 NOV 2022 19:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.5)  30 NOV 2022 13:52
 entering extended mode
- restricted \write18 enabled.
- %&-line parsing enabled.
 **./teo_bach.tex
 (teo_bach.tex
-LaTeX2e <2021-11-15> patch level 1
-L3 programming layer <2021-11-22>
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
-Document Class: book 2021/10/04 v1.4n Standard LaTeX document class
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/base\bk11.clo
-File: bk11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-10-18>
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
+Document Class: book 2021/02/12 v1.4n Standard LaTeX document class
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/base\bk11.clo
+File: bk11.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count183
-\c@chapter=\count184
-\c@section=\count185
-\c@subsection=\count186
-\c@subsubsection=\count187
-\c@paragraph=\count188
-\c@subparagraph=\count189
-\c@figure=\count190
-\c@table=\count191
+\c@part=\count182
+\c@chapter=\count183
+\c@section=\count184
+\c@subsection=\count185
+\c@subsubsection=\count186
+\c@paragraph=\count187
+\c@subparagraph=\count188
+\c@figure=\count189
+\c@table=\count190
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
 )
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
-Package: fancyhdr 2022/05/18 v4.0.3 Extensive control of page headers and foote
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
 rs
 \f@nch@headwidth=\skip49
 \f@nch@O@elh=\skip50
@@ -37,10 +35,10 @@ rs
 \f@nch@O@olf=\skip56
 \f@nch@O@orf=\skip57
 )
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks16
 \symAMSa=\mathgroup4
@@ -49,55 +47,55 @@ LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mathtools.sty
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mathtools.sty
 Package: mathtools 2022/06/29 v1.29 mathematical typesetting tools
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
 )
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count192
-\calc@Bcount=\count193
+\calc@Acount=\count191
+\calc@Bcount=\count192
 \calc@Adimen=\dimen139
 \calc@Bdimen=\dimen140
 \calc@Askip=\skip58
 \calc@Bskip=\skip59
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count194
+\calc@Ccount=\count193
 \calc@Cskip=\skip60
 )
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mhsetup.sty
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mhsetup.sty
 Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
 )
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
-Package: amsmath 2021/10/15 v2.17l AMS math features
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2021/04/20 v2.17j AMS math features
 \@mathmargin=\skip61
 
 For additional information on amsmath, use the `?' option.
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
-Package: amstext 2021/08/26 v2.01 AMS text
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
 
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks18
 \ex@=\dimen141
 ))
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen142
 )
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
-Package: amsopn 2021/08/26 v2.02 operator names
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count195
+\inf@bad=\count194
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count196
-\leftroot@=\count197
+\uproot@=\count195
+\leftroot@=\count196
 LaTeX Info: Redefining \overline on input line 399.
-\classnum@=\count198
-\DOTSCASE@=\count199
+\classnum@=\count197
+\DOTSCASE@=\count198
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
@@ -106,15 +104,15 @@ LaTeX Info: Redefining \cdots on input line 620.
 \big@size=\dimen143
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count266
-\c@MaxMatrixCols=\count267
+\macc@depth=\count199
+\c@MaxMatrixCols=\count266
 \dotsspace@=\muskip16
-\c@parentequation=\count268
-\dspbrk@lvl=\count269
+\c@parentequation=\count267
+\dspbrk@lvl=\count268
 \tag@help=\toks19
-\row@=\count270
-\column@=\count271
-\maxfields@=\count272
+\row@=\count269
+\column@=\count270
+\maxfields@=\count271
 \andhelp@=\toks20
 \eqnshift@=\dimen144
 \alignsep@=\dimen145
@@ -126,10 +124,10 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
 \multlinegap=\skip62
 \multlinetaggap=\skip63
 \mathdisplay@stack=\toks22
-LaTeX Info: Redefining \[ on input line 2938.
-LaTeX Info: Redefining \] on input line 2939.
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
 )
-\g_MT_multlinerow_int=\count273
+\g_MT_multlinerow_int=\count272
 \l_MT_multwidth_dim=\dimen150
 \origjot=\skip64
 \l_MT_shortvdotswithinadjustabove_dim=\dimen151
@@ -141,47 +139,47 @@ LaTeX Info: Redefining \] on input line 2939.
 \xmathstrut@box=\box52
 \xmathstrut@dim=\dimen157
 )
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count274
+\c@float@type=\count273
 \float@exts=\toks23
 \float@box=\box53
 \@float@everytoks=\toks24
 \@floatcapt=\box54
 )
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2021/11/29 3.67 The Babel package
-\babel@savecnt=\count275
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2021/10/19 3.65 The Babel package
+\babel@savecnt=\count274
 \U@D=\dimen158
 \l@unhyphenated=\language79
 
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
-\bbl@dirlevel=\count276
+\bbl@dirlevel=\count275
 
 *************************************
 * Local config file bblopts.cfg used
 *
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\spanish.l
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\spanish.l
 df
 Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
 \es@quottoks=\toks25
-\es@quotdepth=\count277
+\es@quotdepth=\count276
 Package babel Info: Making " an active character on input line 570.
 Package babel Info: Making . an active character on input line 675.
 Package babel Info: Making < an active character on input line 722.
 Package babel Info: Making > an active character on input line 722.
-)) (C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/subfig\subfig.sty
+)) (C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/subfig\subfig.sty
 Package: subfig 2005/06/28 ver: 1.3 subfig package
 
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
 Package: caption 2022/03/01 v3.6b Customizing captions (AR)
 
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
 Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
 \caption@tempdima=\dimen159
 \captionmargin=\dimen160
@@ -193,27 +191,27 @@ Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
 \caption@hangindent=\dimen166
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count278
-\c@continuedfloat=\count279
+\c@caption@flags=\count277
+\c@continuedfloat=\count278
 Package caption Info: float package is loaded.
 )
-\c@KVtest=\count280
+\c@KVtest=\count279
 \sf@farskip=\skip65
 \sf@captopadj=\dimen167
 \sf@capskip=\skip66
 \sf@nearskip=\skip67
-\c@subfigure=\count281
-\c@subfigure@save=\count282
-\c@lofdepth=\count283
-\c@subtable=\count284
-\c@subtable@save=\count285
-\c@lotdepth=\count286
+\c@subfigure=\count280
+\c@subfigure@save=\count281
+\c@lofdepth=\count282
+\c@subtable=\count283
+\c@subtable@save=\count284
+\c@lotdepth=\count285
 \sf@top=\skip68
 \sf@bottom=\skip69
-) (C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/minitoc\minitoc.sty
+) (C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/minitoc\minitoc.sty
 Package: minitoc 2018/07/12 v62 Package minitoc
 
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/minitoc\mtcmess.sty
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/minitoc\mtcmess.sty
 Package: mtcmess 2006/03/14
 )
 Package minitoc Info: I0001
@@ -247,29 +245,29 @@ Package minitoc Info: I0031
 
 \openout3 = `teo_bach.mtc0'.
 
-\c@mtc=\count287
-\c@minitocdepth=\count288
-\c@ptc=\count289
-\c@parttocdepth=\count290
+\c@mtc=\count286
+\c@minitocdepth=\count287
+\c@ptc=\count288
+\c@parttocdepth=\count289
 \ptcindent=\skip72
 Package minitoc Info: I0010
 (minitoc)             The english language is selected.
 (minitoc)              on input line 4910.
 
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/minitoc\english.mld
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/minitoc\english.mld
 File: english.mld 2006/01/13
 )
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/minitoc\english.mld
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/minitoc\english.mld
 File: english.mld 2006/01/13
 )
 Package minitoc Info: I0010
 (minitoc)             The spanish language is selected.
 (minitoc)              on input line 4911.
 
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/minitoc\spanish.mld
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/minitoc\spanish.mld
 File: spanish.mld 2008/04/03
 ))
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
 \thm@style=\toks27
 \thm@bodyfont=\toks28
@@ -281,44 +279,44 @@ Package: amsthm 2020/05/29 v2.20.6
 \thm@headsep=\skip75
 \dth@everypar=\toks32
 )
-\c@defi=\count291
+\c@defi=\count290
 
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
-Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
-Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
 fg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
 
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen168
 \Gin@req@width=\dimen169
 )
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
 
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 )
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
 .sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
 ty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
@@ -326,51 +324,51 @@ Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.s
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.s
 ty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 )
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
 keys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 )
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
 ty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-) (C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+) (C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro
 .sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 )
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
-Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 )
 \@linkdim=\dimen170
-\Hy@linkcounter=\count292
-\Hy@pagecounter=\count293
- (C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+\Hy@linkcounter=\count291
+\Hy@pagecounter=\count292
+ (C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref-langp
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref-langp
 atches.def
 File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
 nguages
 )
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count294
- (C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+\Hy@SavedSpaceFactor=\count293
+ (C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
@@ -382,24 +380,24 @@ Package hyperref Info: Plain pages OFF on input line 4207.
 Package hyperref Info: Backreferencing OFF on input line 4212.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4445.
-\c@Hy@tempcnt=\count295
+\c@Hy@tempcnt=\count294
 
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4804.
 \XeTeXLinkMargin=\dimen171
 
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
 .sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count296
+\Fld@menulength=\count295
 \Field@Width=\dimen172
 \Fld@charsize=\dimen173
 Package hyperref Info: Hyper figures OFF on input line 6076.
@@ -412,43 +410,43 @@ Package hyperref Info: PDF/A mode OFF on input line 6106.
 LaTeX Info: Redefining \ref on input line 6146.
 LaTeX Info: Redefining \pageref on input line 6150.
 
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count297
-\c@Item=\count298
-\c@Hfootnote=\count299
+\Hy@abspage=\count296
+\c@Item=\count297
+\c@Hfootnote=\count298
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
 File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
 
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
-Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
-kage
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
 with kernel methods
 )
-\Fld@listcount=\count300
-\c@bookmark@seq@number=\count301
+\Fld@listcount=\count299
+\c@bookmark@seq@number=\count300
 
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
 echeck.sty
-Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
 
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
 ounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-85.
+86.
 )
 \Hy@SectionHShift=\skip76
 )
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
 File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count302
+\l__color_backend_stack_int=\count301
 \l__pdf_internal_box=\box57
 ) (teo_bach.aux
 LaTeX Info: Redefining \. on input line 25.
@@ -460,36 +458,36 @@ LaTeX Warning: Label `Función $f(x)$' multiply defined.
 ) (EjerciciosAM.aux) (Algebra.aux) (Probabilidad.aux))
 \openout1 = `teo_bach.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Info: Redefining \. on input line 35.
-LaTeX Info: Redefining \% on input line 35.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Info: Redefining \. on input line 37.
+LaTeX Info: Redefining \% on input line 37.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\c@minilofdepth=\count303
-\c@minilotdepth=\count304
-\c@partlofdepth=\count305
-\c@partlotdepth=\count306
-\c@sectlofdepth=\count307
-\c@sectlotdepth=\count308
+\c@minilofdepth=\count302
+\c@minilotdepth=\count303
+\c@partlofdepth=\count304
+\c@partlotdepth=\count305
+\c@sectlofdepth=\count306
+\c@sectlotdepth=\count307
 Package minitoc(hints) Info: I0049
 (minitoc(hints))             ==> You requested the hints option. 
 (minitoc(hints))             Some hints are eventually given below.
@@ -515,70 +513,70 @@ Package minitoc(hints) Warning: W0023
 (minitoc(hints))                of loading the ``hyperref'' package.
 
 
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count309
+\scratchcounter=\count308
 \scratchdimen=\dimen174
 \scratchbox=\box58
-\nofMPsegments=\count310
-\nofMParguments=\count311
+\nofMPsegments=\count309
+\nofMParguments=\count310
 \everyMPshowfont=\toks33
-\MPscratchCnt=\count312
+\MPscratchCnt=\count311
 \MPscratchDim=\dimen175
-\MPnumerator=\count313
-\makeMPintoPDFobject=\count314
+\MPnumerator=\count312
+\makeMPintoPDFobject=\count313
 \everyMPtoPDFconversion=\toks34
 )
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 35.
+Package hyperref Info: Link coloring OFF on input line 37.
 
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 )
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
 lestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count315
+\c@section@level=\count314
 )
-LaTeX Info: Redefining \ref on input line 35.
-LaTeX Info: Redefining \pageref on input line 35.
-LaTeX Info: Redefining \nameref on input line 35.
+LaTeX Info: Redefining \ref on input line 37.
+LaTeX Info: Redefining \pageref on input line 37.
+LaTeX Info: Redefining \nameref on input line 37.
  (teo_bach.out) (teo_bach.out)
 \@outlinefile=\write4
 \openout4 = `teo_bach.out'.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 41.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 43.
 
 
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 41.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 43.
 
 
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 [1
 
 
-{C:/Users/Pedro/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+{C:/Users/pedro/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
 Package minitoc Info: I0024
-(minitoc)             PREPARING MINITOCS FROM teo_bach.toc on input line 45.
+(minitoc)             PREPARING MINITOCS FROM teo_bach.toc on input line 47.
 Package minitoc Info: I0033
 (minitoc)             Writing teo_bach.mtc1.
 \openout3 = `teo_bach.mtc1'.
@@ -676,8 +674,8 @@ LaTeX Info: Redefining \% on input line 70.
 \tf@toc=\write5
 \openout5 = `teo_bach.toc'.
 
-LaTeX Info: Redefining \. on input line 48.
-LaTeX Info: Redefining \% on input line 48.
+LaTeX Info: Redefining \. on input line 50.
+LaTeX Info: Redefining \% on input line 50.
  [5]
 \openout2 = `Repaso.aux'.
 
@@ -815,39 +813,39 @@ Underfull \hbox (badness 10000) in paragraph at lines 141--142
 
  []
 
-LaTeX Info: Redefining \. on input line 158.
-LaTeX Info: Redefining \% on input line 158.
+LaTeX Info: Redefining \. on input line 164.
+LaTeX Info: Redefining \% on input line 164.
 [31]
-LaTeX Info: Redefining \. on input line 158.
-LaTeX Info: Redefining \% on input line 158.
+LaTeX Info: Redefining \. on input line 164.
+LaTeX Info: Redefining \% on input line 164.
  [32
 
 ]
 Cap\'{\i }tulo 7.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 158.
+(hyperref)                removing `math shift' on input line 164.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 158.
+(hyperref)                removing `math shift' on input line 164.
 
 \openout3 = `teo_bach.mtc'.
 
 \openout3 = `teo_bach.mtc'.
 
 (teo_bach.mtc8) [33]
-LaTeX Info: Redefining \. on input line 205.
-LaTeX Info: Redefining \% on input line 205.
+LaTeX Info: Redefining \. on input line 211.
+LaTeX Info: Redefining \% on input line 211.
  [34]
 Cap\'{\i }tulo 8.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 205.
+(hyperref)                removing `math shift' on input line 211.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 205.
+(hyperref)                removing `math shift' on input line 211.
 
 \openout3 = `teo_bach.mtc'.
 
@@ -856,20 +854,35 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (teo_bach.mtc9) [35
 
 ]
-LaTeX Info: Redefining \. on input line 250.
-LaTeX Info: Redefining \% on input line 250.
+LaTeX Info: Redefining \. on input line 256.
+LaTeX Info: Redefining \% on input line 256.
  [36]
-LaTeX Info: Redefining \. on input line 260.
-LaTeX Info: Redefining \% on input line 260.
+LaTeX Info: Redefining \. on input line 266.
+LaTeX Info: Redefining \% on input line 266.
  [37]
-LaTeX Info: Redefining \. on input line 269.
-LaTeX Info: Redefining \% on input line 269.
- [38]
-LaTeX Info: Redefining \. on input line 272.
-LaTeX Info: Redefining \% on input line 272.
- [39]
-LaTeX Info: Redefining \. on input line 272.
-LaTeX Info: Redefining \% on input line 272.
+Underfull \hbox (badness 10000) in paragraph at lines 269--270
+
+ []
+
+
+Overfull \hbox (72.47342pt too wide) in paragraph at lines 271--278
+[][] 
+ []
+
+LaTeX Info: Redefining \. on input line 317.
+LaTeX Info: Redefining \% on input line 317.
+[38]
+LaTeX Info: Redefining \. on input line 329.
+LaTeX Info: Redefining \% on input line 329.
+
+Overfull \hbox (5.99022pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/10.95 8.4.  ALGUNAS DEMOSTRACIONES DE F[]ORMULAS DE DERIVADAS \OT
+1/cmr/m/n/10.95 39
+ []
+
+[39]
+LaTeX Info: Redefining \. on input line 329.
+LaTeX Info: Redefining \% on input line 329.
  [40
 
 ]
@@ -879,8 +892,8 @@ Cap\'{\i }tulo 9.
 \openout3 = `teo_bach.mtc'.
 
 (teo_bach.mtc10) [41]
-LaTeX Info: Redefining \. on input line 279.
-LaTeX Info: Redefining \% on input line 279.
+LaTeX Info: Redefining \. on input line 343.
+LaTeX Info: Redefining \% on input line 343.
  [42]
 Cap\'{\i }tulo 10.
 \openout3 = `teo_bach.mtc'.
@@ -890,79 +903,124 @@ Cap\'{\i }tulo 10.
 (teo_bach.mtc11) [43
 
 ]
-LaTeX Info: Redefining \. on input line 315.
-LaTeX Info: Redefining \% on input line 315.
+LaTeX Info: Redefining \. on input line 379.
+LaTeX Info: Redefining \% on input line 379.
  [44]
-LaTeX Info: Redefining \. on input line 336.
-LaTeX Info: Redefining \% on input line 336.
- [45]
-LaTeX Info: Redefining \. on input line 336.
-LaTeX Info: Redefining \% on input line 336.
- [46
+<imagenes_analisis//representacion1.png, id=676, 141.88179pt x 96.36pt>
+File: imagenes_analisis//representacion1.png Graphic file (type png)
+<use imagenes_analisis//representacion1.png>
+Package pdftex.def Info: imagenes_analisis//representacion1.png  used on input 
+line 394.
+(pdftex.def)             Requested size: 177.35178pt x 120.44968pt.
+<imagenes_analisis//representacion2.png, id=678, 168.63pt x 113.13994pt>
+File: imagenes_analisis//representacion2.png Graphic file (type png)
+<use imagenes_analisis//representacion2.png>
+Package pdftex.def Info: imagenes_analisis//representacion2.png  used on input 
+line 397.
+(pdftex.def)             Requested size: 210.78697pt x 141.42456pt.
+
+Overfull \hbox (35.43874pt too wide) in paragraph at lines 394--398
+[][][][] 
+ []
+
+LaTeX Info: Redefining \. on input line 402.
+LaTeX Info: Redefining \% on input line 402.
+[45 <./imagenes_analisis//representacion1.png> <./imagenes_analisis//representa
+cion2.png>]
+LaTeX Info: Redefining \. on input line 417.
+LaTeX Info: Redefining \% on input line 417.
+ [46]
+LaTeX Info: Redefining \. on input line 438.
+LaTeX Info: Redefining \% on input line 438.
+ [47]
+LaTeX Info: Redefining \. on input line 438.
+LaTeX Info: Redefining \% on input line 438.
+ [48
 
 ]
 Cap\'{\i }tulo 11.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 336.
+(hyperref)                removing `math shift' on input line 438.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 336.
+(hyperref)                removing `math shift' on input line 438.
 
 \openout3 = `teo_bach.mtc'.
 
 \openout3 = `teo_bach.mtc'.
 
-(teo_bach.mtc12) [47]
-<imagenes_analisis//integrales1.png, id=673, 882.29625pt x 614.295pt>
+(teo_bach.mtc12) [49]
+<imagenes_analisis//integrales1.png, id=719, 882.29625pt x 614.295pt>
 File: imagenes_analisis//integrales1.png Graphic file (type png)
 <use imagenes_analisis//integrales1.png>
 Package pdftex.def Info: imagenes_analisis//integrales1.png  used on input line
- 350.
+ 452.
 (pdftex.def)             Requested size: 220.57352pt x 153.57336pt.
 
-Overfull \hbox (3.62874pt too wide) in paragraph at lines 355--356
+Overfull \hbox (3.62874pt too wide) in paragraph at lines 457--458
 []\OT1/cmr/m/n/10.95 Entonces po-de-mos ha-cer una pri-me-ra apro-xi-ma-cion d
 el area por rectangu-
  []
 
-<imagenes_analisis//Integrales2.png, id=675, 1056.19594pt x 655.69969pt>
+<imagenes_analisis//Integrales2.png, id=720, 1056.19594pt x 655.69969pt>
 File: imagenes_analisis//Integrales2.png Graphic file (type png)
 <use imagenes_analisis//Integrales2.png>
 Package pdftex.def Info: imagenes_analisis//Integrales2.png  used on input line
- 361.
+ 463.
 (pdftex.def)             Requested size: 158.42255pt x 98.35071pt.
-<imagenes_analisis//Integrales3.png, id=676, 1097.60063pt x 660.21657pt>
+<imagenes_analisis//Integrales3.png, id=721, 1097.60063pt x 660.21657pt>
 File: imagenes_analisis//Integrales3.png Graphic file (type png)
 <use imagenes_analisis//Integrales3.png>
 Package pdftex.def Info: imagenes_analisis//Integrales3.png  used on input line
- 364.
+ 466.
 (pdftex.def)             Requested size: 164.63298pt x 99.0282pt.
-<imagenes_analisis//Integrales4.png, id=677, 832.61063pt x 574.39594pt>
+<imagenes_analisis//Integrales4.png, id=722, 832.61063pt x 574.39594pt>
 File: imagenes_analisis//Integrales4.png Graphic file (type png)
 <use imagenes_analisis//Integrales4.png>
 Package pdftex.def Info: imagenes_analisis//Integrales4.png  used on input line
- 379.
+ 481.
 (pdftex.def)             Requested size: 208.15215pt x 143.59862pt.
-LaTeX Info: Redefining \. on input line 383.
-LaTeX Info: Redefining \% on input line 383.
-[48 <./imagenes_analisis//integrales1.png> <./imagenes_analisis//Integrales2.pn
+LaTeX Info: Redefining \. on input line 485.
+LaTeX Info: Redefining \% on input line 485.
+[50 <./imagenes_analisis//integrales1.png> <./imagenes_analisis//Integrales2.pn
 g> <./imagenes_analisis//Integrales3.png>]
-LaTeX Info: Redefining \. on input line 395.
-LaTeX Info: Redefining \% on input line 395.
- [49 <./imagenes_analisis//Integrales4.png>])
-LaTeX Info: Redefining \. on input line 49.
-LaTeX Info: Redefining \% on input line 49.
- [50]
+LaTeX Info: Redefining \. on input line 497.
+LaTeX Info: Redefining \% on input line 497.
+ [51 <./imagenes_analisis//Integrales4.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 509--510
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--519
+
+ []
+
+
+Overfull \hbox (34.64232pt too wide) in paragraph at lines 520--539
+ [] 
+ []
+
+)
+LaTeX Info: Redefining \. on input line 51.
+LaTeX Info: Redefining \% on input line 51.
+ [52]
+LaTeX Info: Redefining \. on input line 51.
+LaTeX Info: Redefining \% on input line 51.
+ [53]
 \openout2 = `EjerciciosAM.aux'.
 
- (EjerciciosAM.tex [51
+ (EjerciciosAM.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [54
 
 
 
 
-] [52]
+] [55] [56]
 Cap\'{\i }tulo 12.
 \openout3 = `teo_bach.mtc'.
 
@@ -971,82 +1029,82 @@ Cap\'{\i }tulo 12.
 (teo_bach.mtc13))
 Underfull \vbox (badness 1708) has occurred while \output is active []
 
- [53
+ [57
 
 ]
-LaTeX Info: Redefining \. on input line 50.
-LaTeX Info: Redefining \% on input line 50.
+LaTeX Info: Redefining \. on input line 52.
+LaTeX Info: Redefining \% on input line 52.
 
-[54]
+[58]
 \openout2 = `Algebra.aux'.
 
- (Algebra.tex [55
+ (Algebra.tex [59
 
 
 
 
-] [56]
+] [60]
 Cap\'{\i }tulo 13.
-[57
+[61
 
 ]
 LaTeX Info: Redefining \. on input line 3.
 LaTeX Info: Redefining \% on input line 3.
- [58
-
-]
-Cap\'{\i }tulo 14.
-[59]
-LaTeX Info: Redefining \. on input line 4.
-LaTeX Info: Redefining \% on input line 4.
- [60
-
-]
-Cap\'{\i }tulo 15.
-[61]
-LaTeX Info: Redefining \. on input line 5.
-LaTeX Info: Redefining \% on input line 5.
  [62
 
 ]
-Cap\'{\i }tulo 16.
+Cap\'{\i }tulo 14.
 [63]
-LaTeX Info: Redefining \. on input line 6.
-LaTeX Info: Redefining \% on input line 6.
+LaTeX Info: Redefining \. on input line 4.
+LaTeX Info: Redefining \% on input line 4.
  [64
 
 ]
+Cap\'{\i }tulo 15.
+[65]
+LaTeX Info: Redefining \. on input line 5.
+LaTeX Info: Redefining \% on input line 5.
+ [66
+
+]
+Cap\'{\i }tulo 16.
+[67]
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+ [68
+
+]
 Cap\'{\i }tulo 17.
-) [65]
+) [69]
 \openout2 = `Probabilidad.aux'.
 
  (Probabilidad.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [66
+ [70
 
 
 
 
-] [67] [68]
+] [71] [72]
 Cap\'{\i }tulo 18.
-[69
+[73
 
 ]
 LaTeX Info: Redefining \. on input line 3.
 LaTeX Info: Redefining \% on input line 3.
- [70
+ [74
 
 ]
 Cap\'{\i }tulo 19.
-[71]
+[75]
 LaTeX Info: Redefining \. on input line 4.
 LaTeX Info: Redefining \% on input line 4.
- [72
+ [76
 
 ]
 Cap\'{\i }tulo 20.
-) [73]
+) [77]
 Package minitoc Info: I0009
 (minitoc)             Listing minitoc auxiliary files. 
 (minitoc)             Creating the teo_bach.maf file.
@@ -1063,9 +1121,9 @@ Package minitoc(hints) Warning: W0024
 (minitoc(hints))                Some hints have been written 
 (minitoc(hints))                in the teo_bach.log file.
 
-LaTeX Info: Redefining \. on input line 53.
-LaTeX Info: Redefining \% on input line 53.
-[74
+LaTeX Info: Redefining \. on input line 55.
+LaTeX Info: Redefining \% on input line 55.
+[78
 
 
 ] (teo_bach.aux
@@ -1077,42 +1135,42 @@ LaTeX Info: Redefining \% on input line 25.
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `teo_bach.out' has not changed.
-(rerunfilecheck)             Checksum: 5E60FFB0CA29F883968F2CA211645896;12626.
+(rerunfilecheck)             Checksum: 3A465172E8C58CD82421259315CECA50;13577.
  ) 
 Here is how much of TeX's memory you used:
- 15876 strings out of 478659
- 257116 string characters out of 2845921
- 569895 words of memory out of 3000000
- 33243 multiletter control sequences out of 15000+600000
+ 15344 strings out of 478907
+ 237059 string characters out of 2851892
+ 565132 words of memory out of 3000000
+ 32467 multiletter control sequences out of 15000+600000
  421047 words of font info for 94 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,16n,79p,528b,729s stack positions out of 5000i,500n,10000p,200000b,80000s
- <C:\Users\Pedro\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
-1095.pk><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
-ts/cm/cmbx10.pfb><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/publ
-ic/amsfonts/cm/cmbx12.pfb><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fonts/t
-ype1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/Pedro/AppData/Local/Programs/MiK
-TeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Pedro/AppData/Local/Pro
-grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Pedro/AppData/
-Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/Pedro/
+ 70i,16n,80p,564b,723s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\pedro\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
+1095.pk><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmbx10.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmbx12.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/pedro/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/pedro/AppData/Local/Pro
+grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/pedro/AppData/
+Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/pedro/
 AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/User
-s/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-<C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
-r12.pfb><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
-ts/cm/cmr17.pfb><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/publi
-c/amsfonts/cm/cmr6.pfb><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmr8.pfb><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fon
-ts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Pedro/AppData/Local/Programs/MiK
-TeX/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/Pedro/AppData/Local/Pro
-grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Pedro/AppData/
-Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/Pedro/
+s/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+<C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
+r12.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmr17.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/publi
+c/amsfonts/cm/cmr6.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmr8.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/pedro/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/pedro/AppData/Local/Pro
+grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/pedro/AppData/
+Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/pedro/
 AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/User
-s/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb
-><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symb
+s/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb
+><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symb
 ols/msbm10.pfb>
-Output written on teo_bach.pdf (74 pages, 479682 bytes).
+Output written on teo_bach.pdf (78 pages, 573177 bytes).
 PDF statistics:
- 948 PDF objects out of 1000 (max. 8388607)
- 218 named destinations out of 1000 (max. 500000)
- 589 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1001 PDF objects out of 1200 (max. 8388607)
+ 233 named destinations out of 1000 (max. 500000)
+ 631 words of extra memory for PDF output out of 10000 (max. 10000000)
 

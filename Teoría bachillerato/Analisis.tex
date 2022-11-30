@@ -155,6 +155,12 @@ Sea
 
 \section{Indeterminaciones}
 
+
+
+%%Capítulo 7
+
+
+
 \chapter{Las funciones sobre $\mathbb{R}$}
 \minitoc
 
@@ -199,7 +205,7 @@ Comprobar que una función es continua en un punto $x=a$ es únicamente comproba
 
 
 
-
+%%Capítulo 8
 
 
 \chapter{Derivabilidad sobre $\mathbb{R}$}
@@ -259,16 +265,67 @@ Diremos que una función es derivable si lo es en todos los puntos del dominio.
 
 \newpage
 \section{Tabla de derivadas}
+\subsection*{Propiedades de la derivada}
+Para empezar hay que tener en cuenta estas derivadas de operaciones de funciones básicas, sumar y restar, producto y división, producto por un escalar y composición\\[2ex]
 
-Para empezar hay que tener en cuenta estas derivadas de operaciones de funciones básicas, sumar y restar, producto y división, producto por un escalar y composición
+\begin{tabular}{l l}
+$(f(x)+g(x))'=f'(x)+g'(x)$ & $(f(x)-g(x))'=f'(x)-g'(x)$\\
+$(f(x)\cdot g(x))'=f'(x)g(x)+g'(x)f(x)$& $\left(\dfrac{f(x)}{g(x)}\right)'=\dfrac{f'(x)g(x)-g'(x)f(x)}{g^2(x)}$\\
+$(\lambda\cdot f(x))'=\lambda f'(x)$ $\forall \lambda \in \mathbb{R}$& \\
+Regla de la cadena: $(f\circ g (x))'=f'(g(x))\cdot g'(x) $&\\
+ & \\
+\end{tabular}
 
 \noindent
-Sean $a \in \mathbb{R}$ 
+Estas son las propiedades básicas de todas las derivadas, la mayoría se demuestran con la definición de la derivada como un límite. 
+\noindent
+Ahora veamos la tabla de la fórmulas de las derivadas habituales 
+\begin{center}
+\begin{tabular}{|l|l|l|}
+\hline
+Nombre de la función& Derivada & Composición\\[2ex]
+\hline
+Potencial &$(x^n)'=n x^{n-1}$&$(f(x)^n)=n f(x)^{n-1}\cdot f'(x)$\\[2ex]
+\hline
+Exponencial en base e &$(e^x)'=e^x$&$(e^{f(x)})=e^{f(x)}\cdot f'(x)$\\[2ex]
+\hline
+Exponencial en base a &$(a^x)'=a^x\cdot ln(a)$&$(a^{f(x)})=a^{f(x)}\cdot f'(x)\cdot ln(a)$\\[2ex]
+\hline
 
-\section{Algunas demostraciones de fórmulas de derivadas}
+Logaritmo neperiano &$(x^n)'=n x^{n-1}$&$(f(x)^n)=n f(x)^{n-1}\cdot f'(x)$\\[2ex]
+\hline
+Logaritmo en base a &$(x^n)'=n x^{n-1}$&$(f(x)^n)=n f(x)^{n-1}\cdot f'(x)$\\[2ex]
+\hline
+Logaritmo neperiano &$(x^n)'=n x^{n-1}$&$(f(x)^n)=n f(x)^{n-1}\cdot f'(x)$\\[2ex]
+\hline
+Coseno &$(x^n)'=n x^{n-1}$&$(f(x)^n)=n f(x)^{n-1}\cdot f'(x)$\\[2ex]
+\hline
+Seno &$(x^n)'=n x^{n-1}$&$(f(x)^n)=n f(x)^{n-1}\cdot f'(x)$\\[2ex]
+\hline
+Tangente&$(x^n)'=n x^{n-1}$&$(f(x)^n)=n f(x)^{n-1}\cdot f'(x)$\\[2ex]
+\hline
+Arcoseno &$(x^n)'=n x^{n-1}$&$(f(x)^n)=n f(x)^{n-1}\cdot f'(x)$\\[2ex]
+\hline
+Arcocoseno &$(x^n)'=n x^{n-1}$&$(f(x)^n)=n f(x)^{n-1}\cdot f'(x)$\\[2ex]
+\hline
+Arcotangente &$(x^n)'=n x^{n-1}$&$(f(x)^n)=n f(x)^{n-1}\cdot f'(x)$\\[2ex]
+\hline
+
+\end{tabular}
+\end{center}
+
 \newpage
+\section{Algunas demostraciones de fórmulas de derivadas}
 
-\section{}
+
+
+
+
+
+%%Capítulo 9
+
+
+
 \chapter{Aplicaciones de la derivada}
 \minitoc
 
@@ -276,6 +333,13 @@ Sean $a \in \mathbb{R}$
 \section{Cálculo de mínimos y máximos}
 \section{Cálculo de la curvatura de las funciones}
 \section{Optimización de funciones}
+
+
+
+%%Capítulo 10
+
+
+
 \chapter{Representación de funciones}
 \minitoc
 
@@ -320,19 +384,57 @@ La simetría de una función se define de la siguiente manera:
 \begin{defi}
 Una función $f:A \longrightarrow \mathbb{R}$ es par si $\forall x \in A$ se cumple que $f(-x)=f(x)$. Es decir, es simétrica respecto del eje de coordenadas $OY$
 \end{defi}
-%%Aquí va una imagen
+
 \begin{defi}
 Una función $f:A \longrightarrow \mathbb{R}$ es impar si $\forall x \in A$ se cumple que $f(-x)=f(x)$. Es decir, es simétrica respecto del origen de coordenadas 
 \end{defi}
-%Aquí va una imagen%
+\begin{figure}[H]
+\graphicspath{{imagenes_analisis/}}
+\subfloat[Función impar]{
+\includegraphics[scale=1.25]{representacion1.png}}
+\subfloat[Función par]{
+
+\includegraphics[scale=1.25]{representacion2.png}}
+
+\end{figure}
 \noindent
 Estas cualidades lo que nos permiten es reducir el tamaño del conjunto de puntos a estudiar, en el caso de la simetría nos permite reducir a la parte positiva de los reales y la periodicidad a un solo periodo. 
+\newpage
+
 
 \section{Continuidad}
+
+La continuidad de una función es una propiedad que se estudia dentro del dominio de una función y aunque no tiene sentido estudiar si se da en puntos que no son del dominio de la función solemos comprobar que pasa en las inmediaciones de los puntos que no pertenecen al dominio, manteniéndonos en el dominio. Es decir, si tengo un dominio que es $\mathbb{R}-\lbrace 0 \rbrace$ haremos el límite de la función cuando $x\to 0 $ para saber que tenemos en las inmediaciones del punto. Tenemos dos casos: 
+\begin{itemize}
+\item Que la función sea a trozos con ramas continuas a ambos lados del punto que las une
+\begin{ejemplo}
+%%Mirar como se hacían las ecuaciones diferenciales elípticas en el documento de Calc.Cient
+\end{ejemplo}
+\item Que la función tenga un punto singular 
+\begin{ejemplo}
+\end{ejemplo}
+\end{itemize}
+\newpage
 \section{Corte con los ejes}
+Los cortes con los ejes son importantes por que nos dan una referencia de donde está situada la gráfica de la curva. 
+\begin{itemize}
+\item Cortes con el eje X. 
+\item Cortes con el eje Y.
+\end{itemize}
 \section{Asíntotas}
+\subsection*{Asíntotas Verticales}
+\subsection*{Asíntotas Horizontales}
+\subsection*{Asíntotas Oblicuas}
 \section{Monotonía}
 \section{Curvatura}
+
+
+
+
+%%Capítulo 11
+
+
+
 \chapter{Integración sobre $\mathbb{R}$}
 \minitoc
 
@@ -404,8 +506,44 @@ Sea una función $F(x)$ diremos que es \textbf{primitiva} de la función $f(x)\L
 Para empezar, vamos a ver lo que se llaman \textbf{primitivas inmediatas}, es decir son las primitivas que no requieren ningún mecanismo más que las siguientes fórmulas
 
 \subsection{Primitivas inmediatas}
-Estas son las primitivas 
+Para empezar hay que tener en cuenta que las integrales son límites lo que implica que tenemos la siguiente propiedad.\\
 
+Sean $f,g$ funciones integrables y $\lambda \in \mathbb{R}$ entonces tenemos que:
+$$
+\int f(x)+\lambda\cdot g(x )dx=\int f(x) dx+\lambda\int g(x) dx
+$$
+\noindent
+Es decir la integral es un operador lineal sobre las funciones, ya que conserva las sumas de elementos y los productos de estos por escalares (Pero ya hablaremos de que es una aplicación lineal más tarde)
+
+Aplicando esta propiedad y las fórmulas que se detallan a continuación podemos hacer bastantes integrales. A la izquierda se detalla como hacer la integral sobre nada más que una función y el derecho sobre una composición. \\
+\begin{center}
+\begin{tabular}{|c|c|}
+
+\hline
+$\displaystyle\int x^n =\dfrac{1}{n+1} x^{n+1}+C$ $\forall n\neq 1$&$\displaystyle\int f(x)^n \cdot f'(x)dx= \dfrac{1}{n+1}f(x)^{n+1}+C$  $\forall n\neq 1$\\[2ex]
+\hline
+$\displaystyle\int e^x dx=e^x+C$&$\displaystyle\int f(x)$\\
+\hline
+$\displaystyle\int \dfrac{1}{x}dx=ln|x|+C$&$\displaystyle\int \dfrac{f'(x)}{f(x)}dx=ln|f(x)|+C$\\
+\hline
+$\displaystyle\int cos(x)dx=sen(x)+C$&$\displaystyle\int f(x)$\\
+\hline
+$\displaystyle\int sen(x)dx=-cos(x)+C$&$\displaystyle\int f(x)$\\
+\hline
+$\displaystyle\int \dfrac{1}{\sqrt{1-x^2}}=arcsen(x)+C$&$\displaystyle\int f(x)$\\
+\hline
+$\displaystyle\int \dfrac{1}{1+x^2}=arctg(x)+C$&$\displaystyle\int f(x)$\\
+\hline
+
+\end{tabular}
+
+\end{center}
+
+\subsection{Integración por partes}
+\subsection{Integración por cambio de variable}
+\subsection{Integración de funciones racionales}
+\subsection{Ejercicios}
+\section{Aplicaciones de la integral}
 
 
 
