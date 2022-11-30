@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.5)  30 NOV 2022 13:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.5)  30 NOV 2022 19:14
 entering extended mode
 **./teo_bach.tex
 (teo_bach.tex
@@ -451,7 +451,7 @@ File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
 ) (teo_bach.aux
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
- (Repaso.aux) (Analisis.aux
+ (Indice.aux) (Repaso.aux) (Analisis.aux
 
 LaTeX Warning: Label `Función $f(x)$' multiply defined.
 
@@ -577,6 +577,8 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 {C:/Users/pedro/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
 Package minitoc Info: I0024
 (minitoc)             PREPARING MINITOCS FROM teo_bach.toc on input line 47.
+\openout3 = `teo_bach.mtc'.
+
 Package minitoc Info: I0033
 (minitoc)             Writing teo_bach.mtc1.
 \openout3 = `teo_bach.mtc1'.
@@ -668,8 +670,8 @@ Package minitoc Info: I0033
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
  [3]
-LaTeX Info: Redefining \. on input line 70.
-LaTeX Info: Redefining \% on input line 70.
+LaTeX Info: Redefining \. on input line 71.
+LaTeX Info: Redefining \% on input line 71.
  [4])
 \tf@toc=\write5
 \openout5 = `teo_bach.toc'.
@@ -677,44 +679,58 @@ LaTeX Info: Redefining \% on input line 70.
 LaTeX Info: Redefining \. on input line 50.
 LaTeX Info: Redefining \% on input line 50.
  [5]
-\openout2 = `Repaso.aux'.
+\openout2 = `Indice.aux'.
 
- (Repaso.tex
+ (Indice.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
  [6
 
 
-] [7] [8]
+] [7] [8]) [9
+
+]
+\openout2 = `Repaso.aux'.
+
+ (Repaso.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [10
+
+
+
+
+]
+[11] [12]
 Cap\'{\i }tulo 1.
 \openout3 = `teo_bach.mtc'.
 
 \openout3 = `teo_bach.mtc'.
 
-(teo_bach.mtc2) [9
+(teo_bach.mtc2) [13
 
 ]
 LaTeX Info: Redefining \. on input line 43.
 LaTeX Info: Redefining \% on input line 43.
- [10]
+ [14]
 LaTeX Info: Redefining \. on input line 82.
 LaTeX Info: Redefining \% on input line 82.
- [11]
+ [15]
 LaTeX Info: Redefining \. on input line 109.
 LaTeX Info: Redefining \% on input line 109.
- [12]
+ [16]
 LaTeX Info: Redefining \. on input line 157.
 LaTeX Info: Redefining \% on input line 157.
- [13]
+ [17]
 LaTeX Info: Redefining \. on input line 187.
 LaTeX Info: Redefining \% on input line 187.
- [14]
+ [18]
 LaTeX Info: Redefining \. on input line 195.
 LaTeX Info: Redefining \% on input line 195.
- [15]
+ [19]
 LaTeX Info: Redefining \. on input line 195.
 LaTeX Info: Redefining \% on input line 195.
- [16
+ [20
 
 ]
 Cap\'{\i }tulo 2.
@@ -722,16 +738,16 @@ Cap\'{\i }tulo 2.
 
 \openout3 = `teo_bach.mtc'.
 
-(teo_bach.mtc3) [17]
+(teo_bach.mtc3) [21]
 LaTeX Info: Redefining \. on input line 203.
 LaTeX Info: Redefining \% on input line 203.
 
 Overfull \hbox (80.27945pt too wide) has occurred while \output is active
-\OT1/cmr/m/n/10.95 18 \OT1/cmr/m/sl/10.95 CAP[]ITULO 2.  POLINOMIOS SOBRE EL CU
+\OT1/cmr/m/n/10.95 22 \OT1/cmr/m/sl/10.95 CAP[]ITULO 2.  POLINOMIOS SOBRE EL CU
 ERPO DE LOS REALES Y ECUACIONES
  []
 
-[18
+[22
 
 ]
 Cap\'{\i }tulo 3.
@@ -739,16 +755,16 @@ Cap\'{\i }tulo 3.
 
 \openout3 = `teo_bach.mtc'.
 
-(teo_bach.mtc4) [19]
+(teo_bach.mtc4) [23]
 LaTeX Info: Redefining \. on input line 247.
 LaTeX Info: Redefining \% on input line 247.
- [20]
+ [24]
 Cap\'{\i }tulo 4.
 \openout3 = `teo_bach.mtc'.
 
 \openout3 = `teo_bach.mtc'.
 
-(teo_bach.mtc5)) [21
+(teo_bach.mtc5)) [25
 
 ]
 \openout2 = `Analisis.aux'.
@@ -756,18 +772,18 @@ Cap\'{\i }tulo 4.
  (Analisis.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [22
+ [26
 
 
 
 
-] [23] [24]
+] [27] [28]
 Cap\'{\i }tulo 5.
 \openout3 = `teo_bach.mtc'.
 
 \openout3 = `teo_bach.mtc'.
 
-(teo_bach.mtc6) [25
+(teo_bach.mtc6) [29
 
 ]
 
@@ -780,13 +796,13 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 LaTeX Info: Redefining \. on input line 51.
 LaTeX Info: Redefining \% on input line 51.
-[26]
+[30]
 LaTeX Info: Redefining \. on input line 79.
 LaTeX Info: Redefining \% on input line 79.
- [27]
+ [31]
 LaTeX Info: Redefining \. on input line 79.
 LaTeX Info: Redefining \% on input line 79.
- [28
+ [32
 
 ]
 Cap\'{\i }tulo 6.
@@ -794,7 +810,7 @@ Cap\'{\i }tulo 6.
 
 \openout3 = `teo_bach.mtc'.
 
-(teo_bach.mtc7) [29]
+(teo_bach.mtc7) [33]
 Underfull \hbox (badness 10000) in paragraph at lines 101--104
 
  []
@@ -808,17 +824,17 @@ en-ton-ces to-man-do co-mo $\OML/cmm/m/it/10.95  < min\OMS/cmsy/m/n/10.95 f\OT
 
 LaTeX Info: Redefining \. on input line 139.
 LaTeX Info: Redefining \% on input line 139.
-[30]
+[34]
 Underfull \hbox (badness 10000) in paragraph at lines 141--142
 
  []
 
 LaTeX Info: Redefining \. on input line 164.
 LaTeX Info: Redefining \% on input line 164.
-[31]
+[35]
 LaTeX Info: Redefining \. on input line 164.
 LaTeX Info: Redefining \% on input line 164.
- [32
+ [36
 
 ]
 Cap\'{\i }tulo 7.
@@ -834,10 +850,10 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 \openout3 = `teo_bach.mtc'.
 
-(teo_bach.mtc8) [33]
+(teo_bach.mtc8) [37]
 LaTeX Info: Redefining \. on input line 211.
 LaTeX Info: Redefining \% on input line 211.
- [34]
+ [38]
 Cap\'{\i }tulo 8.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
@@ -851,15 +867,15 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 \openout3 = `teo_bach.mtc'.
 
-(teo_bach.mtc9) [35
+(teo_bach.mtc9) [39
 
 ]
 LaTeX Info: Redefining \. on input line 256.
 LaTeX Info: Redefining \% on input line 256.
- [36]
+ [40]
 LaTeX Info: Redefining \. on input line 266.
 LaTeX Info: Redefining \% on input line 266.
- [37]
+ [41]
 Underfull \hbox (badness 10000) in paragraph at lines 269--270
 
  []
@@ -871,19 +887,19 @@ Overfull \hbox (72.47342pt too wide) in paragraph at lines 271--278
 
 LaTeX Info: Redefining \. on input line 317.
 LaTeX Info: Redefining \% on input line 317.
-[38]
+[42]
 LaTeX Info: Redefining \. on input line 329.
 LaTeX Info: Redefining \% on input line 329.
 
 Overfull \hbox (5.99022pt too wide) has occurred while \output is active
 \OT1/cmr/m/sl/10.95 8.4.  ALGUNAS DEMOSTRACIONES DE F[]ORMULAS DE DERIVADAS \OT
-1/cmr/m/n/10.95 39
+1/cmr/m/n/10.95 43
  []
 
-[39]
+[43]
 LaTeX Info: Redefining \. on input line 329.
 LaTeX Info: Redefining \% on input line 329.
- [40
+ [44
 
 ]
 Cap\'{\i }tulo 9.
@@ -891,28 +907,28 @@ Cap\'{\i }tulo 9.
 
 \openout3 = `teo_bach.mtc'.
 
-(teo_bach.mtc10) [41]
+(teo_bach.mtc10) [45]
 LaTeX Info: Redefining \. on input line 343.
 LaTeX Info: Redefining \% on input line 343.
- [42]
+ [46]
 Cap\'{\i }tulo 10.
 \openout3 = `teo_bach.mtc'.
 
 \openout3 = `teo_bach.mtc'.
 
-(teo_bach.mtc11) [43
+(teo_bach.mtc11) [47
 
 ]
 LaTeX Info: Redefining \. on input line 379.
 LaTeX Info: Redefining \% on input line 379.
- [44]
-<imagenes_analisis//representacion1.png, id=676, 141.88179pt x 96.36pt>
+ [48]
+<imagenes_analisis//representacion1.png, id=694, 141.88179pt x 96.36pt>
 File: imagenes_analisis//representacion1.png Graphic file (type png)
 <use imagenes_analisis//representacion1.png>
 Package pdftex.def Info: imagenes_analisis//representacion1.png  used on input 
 line 394.
 (pdftex.def)             Requested size: 177.35178pt x 120.44968pt.
-<imagenes_analisis//representacion2.png, id=678, 168.63pt x 113.13994pt>
+<imagenes_analisis//representacion2.png, id=696, 168.63pt x 113.13994pt>
 File: imagenes_analisis//representacion2.png Graphic file (type png)
 <use imagenes_analisis//representacion2.png>
 Package pdftex.def Info: imagenes_analisis//representacion2.png  used on input 
@@ -925,17 +941,17 @@ Overfull \hbox (35.43874pt too wide) in paragraph at lines 394--398
 
 LaTeX Info: Redefining \. on input line 402.
 LaTeX Info: Redefining \% on input line 402.
-[45 <./imagenes_analisis//representacion1.png> <./imagenes_analisis//representa
+[49 <./imagenes_analisis//representacion1.png> <./imagenes_analisis//representa
 cion2.png>]
 LaTeX Info: Redefining \. on input line 417.
 LaTeX Info: Redefining \% on input line 417.
- [46]
+ [50]
 LaTeX Info: Redefining \. on input line 438.
 LaTeX Info: Redefining \% on input line 438.
- [47]
+ [51]
 LaTeX Info: Redefining \. on input line 438.
 LaTeX Info: Redefining \% on input line 438.
- [48
+ [52
 
 ]
 Cap\'{\i }tulo 11.
@@ -951,8 +967,8 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 \openout3 = `teo_bach.mtc'.
 
-(teo_bach.mtc12) [49]
-<imagenes_analisis//integrales1.png, id=719, 882.29625pt x 614.295pt>
+(teo_bach.mtc12) [53]
+<imagenes_analisis//integrales1.png, id=737, 882.29625pt x 614.295pt>
 File: imagenes_analisis//integrales1.png Graphic file (type png)
 <use imagenes_analisis//integrales1.png>
 Package pdftex.def Info: imagenes_analisis//integrales1.png  used on input line
@@ -964,19 +980,19 @@ Overfull \hbox (3.62874pt too wide) in paragraph at lines 457--458
 el area por rectangu-
  []
 
-<imagenes_analisis//Integrales2.png, id=720, 1056.19594pt x 655.69969pt>
+<imagenes_analisis//Integrales2.png, id=738, 1056.19594pt x 655.69969pt>
 File: imagenes_analisis//Integrales2.png Graphic file (type png)
 <use imagenes_analisis//Integrales2.png>
 Package pdftex.def Info: imagenes_analisis//Integrales2.png  used on input line
  463.
 (pdftex.def)             Requested size: 158.42255pt x 98.35071pt.
-<imagenes_analisis//Integrales3.png, id=721, 1097.60063pt x 660.21657pt>
+<imagenes_analisis//Integrales3.png, id=739, 1097.60063pt x 660.21657pt>
 File: imagenes_analisis//Integrales3.png Graphic file (type png)
 <use imagenes_analisis//Integrales3.png>
 Package pdftex.def Info: imagenes_analisis//Integrales3.png  used on input line
  466.
 (pdftex.def)             Requested size: 164.63298pt x 99.0282pt.
-<imagenes_analisis//Integrales4.png, id=722, 832.61063pt x 574.39594pt>
+<imagenes_analisis//Integrales4.png, id=740, 832.61063pt x 574.39594pt>
 File: imagenes_analisis//Integrales4.png Graphic file (type png)
 <use imagenes_analisis//Integrales4.png>
 Package pdftex.def Info: imagenes_analisis//Integrales4.png  used on input line
@@ -984,11 +1000,11 @@ Package pdftex.def Info: imagenes_analisis//Integrales4.png  used on input line
 (pdftex.def)             Requested size: 208.15215pt x 143.59862pt.
 LaTeX Info: Redefining \. on input line 485.
 LaTeX Info: Redefining \% on input line 485.
-[50 <./imagenes_analisis//integrales1.png> <./imagenes_analisis//Integrales2.pn
+[54 <./imagenes_analisis//integrales1.png> <./imagenes_analisis//Integrales2.pn
 g> <./imagenes_analisis//Integrales3.png>]
 LaTeX Info: Redefining \. on input line 497.
 LaTeX Info: Redefining \% on input line 497.
- [51 <./imagenes_analisis//Integrales4.png>]
+ [55 <./imagenes_analisis//Integrales4.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 509--510
 
  []
@@ -1004,23 +1020,23 @@ Overfull \hbox (34.64232pt too wide) in paragraph at lines 520--539
  []
 
 )
-LaTeX Info: Redefining \. on input line 51.
-LaTeX Info: Redefining \% on input line 51.
- [52]
-LaTeX Info: Redefining \. on input line 51.
-LaTeX Info: Redefining \% on input line 51.
- [53]
+LaTeX Info: Redefining \. on input line 52.
+LaTeX Info: Redefining \% on input line 52.
+ [56]
+LaTeX Info: Redefining \. on input line 52.
+LaTeX Info: Redefining \% on input line 52.
+ [57]
 \openout2 = `EjerciciosAM.aux'.
 
  (EjerciciosAM.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [54
+ [58
 
 
 
 
-] [55] [56]
+] [59] [60]
 Cap\'{\i }tulo 12.
 \openout3 = `teo_bach.mtc'.
 
@@ -1029,82 +1045,82 @@ Cap\'{\i }tulo 12.
 (teo_bach.mtc13))
 Underfull \vbox (badness 1708) has occurred while \output is active []
 
- [57
+ [61
 
 ]
-LaTeX Info: Redefining \. on input line 52.
-LaTeX Info: Redefining \% on input line 52.
+LaTeX Info: Redefining \. on input line 53.
+LaTeX Info: Redefining \% on input line 53.
 
-[58]
+[62]
 \openout2 = `Algebra.aux'.
 
- (Algebra.tex [59
+ (Algebra.tex [63
 
 
 
 
-] [60]
+] [64]
 Cap\'{\i }tulo 13.
-[61
+[65
 
 ]
 LaTeX Info: Redefining \. on input line 3.
 LaTeX Info: Redefining \% on input line 3.
- [62
-
-]
-Cap\'{\i }tulo 14.
-[63]
-LaTeX Info: Redefining \. on input line 4.
-LaTeX Info: Redefining \% on input line 4.
- [64
-
-]
-Cap\'{\i }tulo 15.
-[65]
-LaTeX Info: Redefining \. on input line 5.
-LaTeX Info: Redefining \% on input line 5.
  [66
 
 ]
-Cap\'{\i }tulo 16.
+Cap\'{\i }tulo 14.
 [67]
-LaTeX Info: Redefining \. on input line 6.
-LaTeX Info: Redefining \% on input line 6.
+LaTeX Info: Redefining \. on input line 4.
+LaTeX Info: Redefining \% on input line 4.
  [68
 
 ]
+Cap\'{\i }tulo 15.
+[69]
+LaTeX Info: Redefining \. on input line 5.
+LaTeX Info: Redefining \% on input line 5.
+ [70
+
+]
+Cap\'{\i }tulo 16.
+[71]
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+ [72
+
+]
 Cap\'{\i }tulo 17.
-) [69]
+) [73]
 \openout2 = `Probabilidad.aux'.
 
  (Probabilidad.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [70
+ [74
 
 
 
 
-] [71] [72]
+] [75] [76]
 Cap\'{\i }tulo 18.
-[73
+[77
 
 ]
 LaTeX Info: Redefining \. on input line 3.
 LaTeX Info: Redefining \% on input line 3.
- [74
+ [78
 
 ]
 Cap\'{\i }tulo 19.
-[75]
+[79]
 LaTeX Info: Redefining \. on input line 4.
 LaTeX Info: Redefining \% on input line 4.
- [76
+ [80
 
 ]
 Cap\'{\i }tulo 20.
-) [77]
+) [81]
 Package minitoc Info: I0009
 (minitoc)             Listing minitoc auxiliary files. 
 (minitoc)             Creating the teo_bach.maf file.
@@ -1121,27 +1137,27 @@ Package minitoc(hints) Warning: W0024
 (minitoc(hints))                Some hints have been written 
 (minitoc(hints))                in the teo_bach.log file.
 
-LaTeX Info: Redefining \. on input line 55.
-LaTeX Info: Redefining \% on input line 55.
-[78
+LaTeX Info: Redefining \. on input line 56.
+LaTeX Info: Redefining \% on input line 56.
+[82
 
 
 ] (teo_bach.aux
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
- (Repaso.aux) (Analisis.aux) (EjerciciosAM.aux) (Algebra.aux) (Probabilidad.aux
-))
+ (Indice.aux) (Repaso.aux) (Analisis.aux) (EjerciciosAM.aux)
+(Algebra.aux) (Probabilidad.aux))
 
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `teo_bach.out' has not changed.
-(rerunfilecheck)             Checksum: 3A465172E8C58CD82421259315CECA50;13577.
+(rerunfilecheck)             Checksum: 15ADB96DCC400B503C66516053535CFE;13577.
  ) 
 Here is how much of TeX's memory you used:
- 15344 strings out of 478907
- 237059 string characters out of 2851892
- 565132 words of memory out of 3000000
- 32467 multiletter control sequences out of 15000+600000
+ 15381 strings out of 478907
+ 237722 string characters out of 2851892
+ 565832 words of memory out of 3000000
+ 32485 multiletter control sequences out of 15000+600000
  421047 words of font info for 94 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  70i,16n,80p,564b,723s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1168,9 +1184,9 @@ AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/User
 s/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb
 ><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symb
 ols/msbm10.pfb>
-Output written on teo_bach.pdf (78 pages, 573177 bytes).
+Output written on teo_bach.pdf (82 pages, 575796 bytes).
 PDF statistics:
- 1001 PDF objects out of 1200 (max. 8388607)
- 233 named destinations out of 1000 (max. 500000)
+ 1021 PDF objects out of 1200 (max. 8388607)
+ 239 named destinations out of 1000 (max. 500000)
  631 words of extra memory for PDF output out of 10000 (max. 10000000)
 
