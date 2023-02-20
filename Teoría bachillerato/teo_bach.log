@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.2.6)  30 NOV 2022 19:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.2.6)  3 DEC 2022 09:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -887,11 +887,16 @@ Overfull \hbox (72.47342pt too wide) in paragraph at lines 271--278
 [][] 
  []
 
-LaTeX Info: Redefining \. on input line 317.
-LaTeX Info: Redefining \% on input line 317.
+
+Overfull \hbox (16.03505pt too wide) in paragraph at lines 284--312
+ [] 
+ []
+
+LaTeX Info: Redefining \. on input line 314.
+LaTeX Info: Redefining \% on input line 314.
 [42]
-LaTeX Info: Redefining \. on input line 329.
-LaTeX Info: Redefining \% on input line 329.
+LaTeX Info: Redefining \. on input line 326.
+LaTeX Info: Redefining \% on input line 326.
 
 Overfull \hbox (5.99022pt too wide) has occurred while \output is active
 \OT1/cmr/m/sl/10.95 8.4.  ALGUNAS DEMOSTRACIONES DE F[]ORMULAS DE DERIVADAS \OT
@@ -899,8 +904,8 @@ Overfull \hbox (5.99022pt too wide) has occurred while \output is active
  []
 
 [43]
-LaTeX Info: Redefining \. on input line 329.
-LaTeX Info: Redefining \% on input line 329.
+LaTeX Info: Redefining \. on input line 326.
+LaTeX Info: Redefining \% on input line 326.
  [44
 
 ]
@@ -910,8 +915,8 @@ Cap\'{\i }tulo 9.
 \openout3 = `teo_bach.mtc'.
 
 (teo_bach.mtc10) [45]
-LaTeX Info: Redefining \. on input line 343.
-LaTeX Info: Redefining \% on input line 343.
+LaTeX Info: Redefining \. on input line 340.
+LaTeX Info: Redefining \% on input line 340.
  [46]
 Cap\'{\i }tulo 10.
 \openout3 = `teo_bach.mtc'.
@@ -921,54 +926,54 @@ Cap\'{\i }tulo 10.
 (teo_bach.mtc11) [47
 
 ]
-LaTeX Info: Redefining \. on input line 379.
-LaTeX Info: Redefining \% on input line 379.
+LaTeX Info: Redefining \. on input line 376.
+LaTeX Info: Redefining \% on input line 376.
  [48]
 <imagenes_analisis//representacion1.png, id=700, 141.88179pt x 96.36pt>
 File: imagenes_analisis//representacion1.png Graphic file (type png)
 <use imagenes_analisis//representacion1.png>
 Package pdftex.def Info: imagenes_analisis//representacion1.png  used on input 
-line 394.
+line 391.
 (pdftex.def)             Requested size: 177.35178pt x 120.44968pt.
 <imagenes_analisis//representacion2.png, id=702, 168.63pt x 113.13994pt>
 File: imagenes_analisis//representacion2.png Graphic file (type png)
 <use imagenes_analisis//representacion2.png>
 Package pdftex.def Info: imagenes_analisis//representacion2.png  used on input 
-line 397.
+line 394.
 (pdftex.def)             Requested size: 210.78697pt x 141.42456pt.
 
-Overfull \hbox (35.43874pt too wide) in paragraph at lines 394--398
+Overfull \hbox (35.43874pt too wide) in paragraph at lines 391--395
 [][][][] 
  []
 
-LaTeX Info: Redefining \. on input line 402.
-LaTeX Info: Redefining \% on input line 402.
+LaTeX Info: Redefining \. on input line 399.
+LaTeX Info: Redefining \% on input line 399.
 [49 <./imagenes_analisis//representacion1.png> <./imagenes_analisis//representa
 cion2.png>]
-LaTeX Info: Redefining \. on input line 417.
-LaTeX Info: Redefining \% on input line 417.
+LaTeX Info: Redefining \. on input line 414.
+LaTeX Info: Redefining \% on input line 414.
  [50]
-LaTeX Info: Redefining \. on input line 446.
-LaTeX Info: Redefining \% on input line 446.
+LaTeX Info: Redefining \. on input line 443.
+LaTeX Info: Redefining \% on input line 443.
  [51]
 <imagenes_analisis/representacion/funciones1.png, id=733, 385.44pt x 386.19281p
 t>
 File: imagenes_analisis/representacion/funciones1.png Graphic file (type png)
 <use imagenes_analisis/representacion/funciones1.png>
 Package pdftex.def Info: imagenes_analisis/representacion/funciones1.png  used 
-on input line 455.
+on input line 452.
 (pdftex.def)             Requested size: 154.17326pt x 154.47438pt.
-LaTeX Info: Redefining \. on input line 467.
-LaTeX Info: Redefining \% on input line 467.
+LaTeX Info: Redefining \. on input line 464.
+LaTeX Info: Redefining \% on input line 464.
  [52 <./imagenes_analisis/representacion/funciones1.png>]
 Cap\'{\i }tulo 11.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 467.
+(hyperref)                removing `math shift' on input line 464.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 467.
+(hyperref)                removing `math shift' on input line 464.
 
 \openout3 = `teo_bach.mtc'.
 
@@ -981,10 +986,10 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 File: imagenes_analisis//integrales1.png Graphic file (type png)
 <use imagenes_analisis//integrales1.png>
 Package pdftex.def Info: imagenes_analisis//integrales1.png  used on input line
- 481.
+ 478.
 (pdftex.def)             Requested size: 220.57352pt x 153.57336pt.
 
-Overfull \hbox (3.62874pt too wide) in paragraph at lines 486--487
+Overfull \hbox (3.62874pt too wide) in paragraph at lines 483--484
 []\OT1/cmr/m/n/10.95 Entonces po-de-mos ha-cer una pri-me-ra apro-xi-ma-cion d
 el area por rectangu-
  []
@@ -993,38 +998,38 @@ el area por rectangu-
 File: imagenes_analisis//Integrales2.png Graphic file (type png)
 <use imagenes_analisis//Integrales2.png>
 Package pdftex.def Info: imagenes_analisis//Integrales2.png  used on input line
- 493.
+ 490.
 (pdftex.def)             Requested size: 158.42255pt x 98.35071pt.
 <imagenes_analisis//Integrales3.png, id=754, 1097.60063pt x 660.21657pt>
 File: imagenes_analisis//Integrales3.png Graphic file (type png)
 <use imagenes_analisis//Integrales3.png>
 Package pdftex.def Info: imagenes_analisis//Integrales3.png  used on input line
- 496.
+ 493.
 (pdftex.def)             Requested size: 164.63298pt x 99.0282pt.
 <imagenes_analisis//Integrales4.png, id=755, 832.61063pt x 574.39594pt>
 File: imagenes_analisis//Integrales4.png Graphic file (type png)
 <use imagenes_analisis//Integrales4.png>
 Package pdftex.def Info: imagenes_analisis//Integrales4.png  used on input line
- 511.
+ 508.
 (pdftex.def)             Requested size: 208.15215pt x 143.59862pt.
-LaTeX Info: Redefining \. on input line 515.
-LaTeX Info: Redefining \% on input line 515.
+LaTeX Info: Redefining \. on input line 512.
+LaTeX Info: Redefining \% on input line 512.
 [54 <./imagenes_analisis//integrales1.png> <./imagenes_analisis//Integrales2.pn
 g> <./imagenes_analisis//Integrales3.png>]
-LaTeX Info: Redefining \. on input line 527.
-LaTeX Info: Redefining \% on input line 527.
+LaTeX Info: Redefining \. on input line 524.
+LaTeX Info: Redefining \% on input line 524.
  [55 <./imagenes_analisis//Integrales4.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 539--540
+Underfull \hbox (badness 10000) in paragraph at lines 536--537
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 548--549
+Underfull \hbox (badness 10000) in paragraph at lines 545--546
 
  []
 
 
-Overfull \hbox (34.64232pt too wide) in paragraph at lines 550--569
+Overfull \hbox (34.64232pt too wide) in paragraph at lines 547--566
  [] 
  []
 
@@ -1193,7 +1198,7 @@ AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/User
 s/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb
 ><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symb
 ols/msbm10.pfb>
-Output written on teo_bach.pdf (82 pages, 596939 bytes).
+Output written on teo_bach.pdf (82 pages, 597093 bytes).
 PDF statistics:
  1038 PDF objects out of 1200 (max. 8388607)
  247 named destinations out of 1000 (max. 500000)
