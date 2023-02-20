@@ -544,6 +544,7 @@ Es decir la integral es un operador lineal sobre las funciones, ya que conserva 
 
 Aplicando esta propiedad y las fórmulas que se detallan a continuación podemos hacer bastantes integrales. A la izquierda se detalla como hacer la integral sobre nada más que una función y el derecho sobre una composición. \\
 \begin{center}
+
 \begin{tabular}{|c|c|}
 
 \hline
@@ -553,11 +554,11 @@ $\displaystyle\int e^x dx=e^x+C$&$\displaystyle\int f(x)$\\
 \hline
 $\displaystyle\int \dfrac{1}{x}dx=ln|x|+C$&$\displaystyle\int \dfrac{f'(x)}{f(x)}dx=ln|f(x)|+C$\\
 \hline
-$\displaystyle\int cos(x)dx=sen(x)+C$&$\displaystyle\int f(x)$\\
+$\displaystyle\int cos(x)dx=sen(x)+C$&$\displaystyle\int cos(f(x))\cdot f'(x)dx=sen(f(x))+C$\\
 \hline
-$\displaystyle\int sen(x)dx=-cos(x)+C$&$\displaystyle\int f(x)$\\
+$\displaystyle\int sen(x)dx=-cos(x)+C$&$\displaystyle\int sen(f(x))\cdot f'(x)dx=-cos(f(x))+C$\\
 \hline
-$\displaystyle\int \dfrac{1}{\sqrt{1-x^2}}=arcsen(x)+C$&$\displaystyle\int f(x)$\\
+$\displaystyle\int \frac{1}{\sqrt{1-x^2}}=arcsen(x)+C$&$\displaystyle\int \frac{1}{\sqrt{1-x^2}}=arcsen(x)+C$\\
 \hline
 $\displaystyle\int \dfrac{1}{1+x^2}=arctg(x)+C$&$\displaystyle\int f(x)$\\
 \hline
@@ -567,8 +568,33 @@ $\displaystyle\int \dfrac{1}{1+x^2}=arctg(x)+C$&$\displaystyle\int f(x)$\\
 \end{center}
 
 \subsection{Integración por partes}
+
+La integración por partes es una técnica que nos permite de manera sistemática la reducción de la complejidad del cálculo de la primitiva de la siguiente manera 
+\begin{proposicion}
+Sean dos funciones $u(x), v(x)$ derivables e integrables. Entonces se cumple que:
+\begin{equation}
+\int u(x) dv(x)dx=u(x)\cdot v(x)-\int v(x)\cdot du(x) dx
+\end{equation} 
+\end{proposicion}
+
+En general se hace la elección de la función u \textit{(Que es la que tendremos que derivar para hacer más sencilla la integral)} siguiendo la regla \textbf{ALPES:}
+\begin{itemize}
+\item \textbf{A}: $arcsen(x),arccos(x),arctg(x)$
+\item \textbf{L}: Logaritmos 
+\item \textbf{P}: Polinomios
+\item \textbf{E}: Exponenciales
+\item \textbf{S}: $sen(x),cos(x)$ y $tg(x)$.
+\end{itemize}
+
+Esta regla se sustenta en que derivar las primeras funciones, es decir, las funciones trigonométricas inversas y los logaritmos,  es mucho más fácil que hacer su antiderivada o calcular su primitiva. 
+
 \subsection{Integración por cambio de variable}
+
 \subsection{Integración de funciones racionales}
+Sean dos polinomios $P(x)$ y $Q(x)$ entonces tenemos el caso de que queramos calcular la integral: 
+$$
+\int \dfrac{P(x)}{Q(x)}dx
+$$
 \subsection{Ejercicios}
 \section{Aplicaciones de la integral}
 

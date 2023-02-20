@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.2.6)  3 DEC 2022 09:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.2.6)  20 FEB 2023 20:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -283,6 +283,27 @@ Package: amsthm 2020/05/29 v2.20.6
 )
 \c@defi=\count291
 
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen168
+\ar@mcellbox=\box57
+\extrarowheight=\dimen169
+\NC@list=\toks33
+\extratabsurround=\skip76
+\backup@length=\skip77
+\ar@cellbox=\box58
+)
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/srcltx\srcltx.sty
+Package: srcltx 2006/11/12 v1.6 Source specials for inverse search in DVI files
+
+
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\src@lastline=\count292
+\src@new@everypar=\toks34
+\src@new@output=\toks35
+)
 (C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
@@ -297,12 +318,18 @@ fg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
+Package srcltx Info: Expanded filename `pdftex.def' to `pdftex.def.tex' on inpu
+t line 108.
+
+:<+ pdftex.def.tex
 
 (C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
-))
-\Gin@req@height=\dimen168
-\Gin@req@width=\dimen169
+)
+:<-
+)
+\Gin@req@height=\dimen170
+\Gin@req@width=\dimen171
 )
 (C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
@@ -350,31 +377,46 @@ Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 (C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 )
-\@linkdim=\dimen170
-\Hy@linkcounter=\count292
-\Hy@pagecounter=\count293
- (C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+\@linkdim=\dimen172
+\Hy@linkcounter=\count293
+\Hy@pagecounter=\count294
+Package srcltx Info: Expanded filename `pd1enc.def' to `pd1enc.def.tex' on inpu
+t line 747.
+
+:<+ pd1enc.def.tex
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
+:<-
+Package srcltx Info: Expanded filename `hyperref-langpatches.def' to `hyperref-
+langpatches.def.tex' on input line 819.
+:<+ hyperref-langpatches.def.tex
+
 (C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref-langp
 atches.def
 File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
 nguages
 )
+:<-
 (C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
 (C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count294
- (C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+\Hy@SavedSpaceFactor=\count295
+Package srcltx Info: Expanded filename `puenc.def' to `puenc.def.tex' on input 
+line 2500.
+
+:<+ puenc.def.tex
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
+:<-
 Package hyperref Info: Hyper figures OFF on input line 4192.
 Package hyperref Info: Link nesting OFF on input line 4197.
 Package hyperref Info: Hyper index ON on input line 4200.
@@ -382,14 +424,13 @@ Package hyperref Info: Plain pages OFF on input line 4207.
 Package hyperref Info: Backreferencing OFF on input line 4212.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4445.
-\c@Hy@tempcnt=\count295
-
+\c@Hy@tempcnt=\count296
 (C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4804.
-\XeTeXLinkMargin=\dimen171
+\XeTeXLinkMargin=\dimen173
 
 (C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -399,9 +440,9 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count296
-\Field@Width=\dimen172
-\Fld@charsize=\dimen173
+\Fld@menulength=\count297
+\Field@Width=\dimen174
+\Fld@charsize=\dimen175
 Package hyperref Info: Hyper figures OFF on input line 6076.
 Package hyperref Info: Link nesting OFF on input line 6081.
 Package hyperref Info: Hyper index ON on input line 6084.
@@ -416,11 +457,14 @@ LaTeX Info: Redefining \pageref on input line 6150.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count297
-\c@Item=\count298
-\c@Hfootnote=\count299
+\Hy@abspage=\count298
+\c@Item=\count299
+\c@Hfootnote=\count300
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
+Package srcltx Info: Expanded filename `hpdftex.def' to `hpdftex.def.tex' on in
+put line 33.
+:<+ hpdftex.def.tex
 (C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
 File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
 
@@ -429,8 +473,8 @@ Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
-\Fld@listcount=\count300
-\c@bookmark@seq@number=\count301
+\Fld@listcount=\count301
+\c@bookmark@seq@number=\count302
 
 (C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
 echeck.sty
@@ -443,13 +487,15 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 85.
 )
-\Hy@SectionHShift=\skip76
+\Hy@SectionHShift=\skip78
 )
+:<-
+
 (C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
 File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count302
-\l__pdf_internal_box=\box57
+\l__color_backend_stack_int=\count303
+\l__pdf_internal_box=\box59
 ) (teo_bach.aux
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
@@ -484,12 +530,12 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\c@minilofdepth=\count303
-\c@minilotdepth=\count304
-\c@partlofdepth=\count305
-\c@partlotdepth=\count306
-\c@sectlofdepth=\count307
-\c@sectlotdepth=\count308
+\c@minilofdepth=\count304
+\c@minilotdepth=\count305
+\c@partlofdepth=\count306
+\c@partlotdepth=\count307
+\c@sectlofdepth=\count308
+\c@sectlotdepth=\count309
 Package minitoc(hints) Info: I0049
 (minitoc(hints))             ==> You requested the hints option. 
 (minitoc(hints))             Some hints are eventually given below.
@@ -518,17 +564,17 @@ Package minitoc(hints) Warning: W0023
 (C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count309
-\scratchdimen=\dimen174
-\scratchbox=\box58
-\nofMPsegments=\count310
-\nofMParguments=\count311
-\everyMPshowfont=\toks33
-\MPscratchCnt=\count312
-\MPscratchDim=\dimen175
-\MPnumerator=\count313
-\makeMPintoPDFobject=\count314
-\everyMPtoPDFconversion=\toks34
+\scratchcounter=\count310
+\scratchdimen=\dimen176
+\scratchbox=\box60
+\nofMPsegments=\count311
+\nofMParguments=\count312
+\everyMPshowfont=\toks36
+\MPscratchCnt=\count313
+\MPscratchDim=\dimen177
+\MPnumerator=\count314
+\makeMPintoPDFobject=\count315
+\everyMPtoPDFconversion=\toks37
 )
 (C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
@@ -552,7 +598,7 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 lestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count315
+\c@section@level=\count316
 )
 LaTeX Info: Redefining \ref on input line 37.
 LaTeX Info: Redefining \pageref on input line 37.
@@ -681,20 +727,24 @@ LaTeX Info: Redefining \% on input line 70.
 LaTeX Info: Redefining \. on input line 50.
 LaTeX Info: Redefining \% on input line 50.
  [5]
+:<+ Indice.tex.tex
 \openout2 = `Indice.aux'.
 
- (Indice.tex
+(Indice.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
  [6
 
 
+
 ] [7] [8]) [9
 
 ]
+:<-
+:<+ Repaso.tex.tex
 \openout2 = `Repaso.aux'.
 
- (Repaso.tex
+(Repaso.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
  [10
@@ -702,8 +752,8 @@ LaTeX Info: Redefining \% on input line 1.
 
 
 
-]
-[11] [12]
+
+] [11] [12]
 Cap\'{\i }tulo 1.
 \openout3 = `teo_bach.mtc'.
 
@@ -769,12 +819,15 @@ Cap\'{\i }tulo 4.
 (teo_bach.mtc5)) [25
 
 ]
+:<-
+:<+ Analisis.tex.tex
 \openout2 = `Analisis.aux'.
 
- (Analisis.tex
+(Analisis.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
  [26
+
 
 
 
@@ -819,9 +872,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 101--104
 
 
 Overfull \hbox (2.36531pt too wide) in paragraph at lines 127--128
-[]\OT1/cmr/m/n/10.95 Tomemos un $\OML/cmm/m/it/10.95 " < \OT1/cmr/m/n/10.95 0$ 
-en-ton-ces to-man-do co-mo $\OML/cmm/m/it/10.95  < min\OMS/cmsy/m/n/10.95 f\OT
-1/cmr/m/n/10.95 1\OML/cmm/m/it/10.95 ; []\OMS/cmsy/m/n/10.95 g )
+[][]\OT1/cmr/m/n/10.95 Tomemos un $\OML/cmm/m/it/10.95 " < \OT1/cmr/m/n/10.95 0
+$ en-ton-ces to-man-do co-mo $\OML/cmm/m/it/10.95  < min\OMS/cmsy/m/n/10.95 f\
+OT1/cmr/m/n/10.95 1\OML/cmm/m/it/10.95 ; []\OMS/cmsy/m/n/10.95 g )
  []
 
 LaTeX Info: Redefining \. on input line 139.
@@ -884,12 +937,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 269--270
 
 
 Overfull \hbox (72.47342pt too wide) in paragraph at lines 271--278
-[][] 
+[][][] 
  []
 
 
-Overfull \hbox (16.03505pt too wide) in paragraph at lines 284--312
- [] 
+Overfull \hbox (19.605pt too wide) in paragraph at lines 284--312
+ [][] 
  []
 
 LaTeX Info: Redefining \. on input line 314.
@@ -943,7 +996,7 @@ line 394.
 (pdftex.def)             Requested size: 210.78697pt x 141.42456pt.
 
 Overfull \hbox (35.43874pt too wide) in paragraph at lines 391--395
-[][][][] 
+[][][][][] 
  []
 
 LaTeX Info: Redefining \. on input line 399.
@@ -990,8 +1043,8 @@ Package pdftex.def Info: imagenes_analisis//integrales1.png  used on input line
 (pdftex.def)             Requested size: 220.57352pt x 153.57336pt.
 
 Overfull \hbox (3.62874pt too wide) in paragraph at lines 483--484
-[]\OT1/cmr/m/n/10.95 Entonces po-de-mos ha-cer una pri-me-ra apro-xi-ma-cion d
-el area por rectangu-
+[][]\OT1/cmr/m/n/10.95 Entonces po-de-mos ha-cer una pri-me-ra apro-xi-ma-cion
+ del area por rectangu-
  []
 
 <imagenes_analisis//Integrales2.png, id=753, 1056.19594pt x 655.69969pt>
@@ -1029,23 +1082,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 545--546
  []
 
 
-Overfull \hbox (34.64232pt too wide) in paragraph at lines 547--566
- [] 
+Overfull \hbox (35.8423pt too wide) in paragraph at lines 548--567
+ [][] 
  []
 
-)
-LaTeX Info: Redefining \. on input line 52.
-LaTeX Info: Redefining \% on input line 52.
- [56]
+LaTeX Info: Redefining \. on input line 573.
+LaTeX Info: Redefining \% on input line 573.
+[56])
 LaTeX Info: Redefining \. on input line 52.
 LaTeX Info: Redefining \% on input line 52.
  [57]
+:<-
+:<+ EjerciciosAM.tex.tex
 \openout2 = `EjerciciosAM.aux'.
 
- (EjerciciosAM.tex
+(EjerciciosAM.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
  [58
+
 
 
 
@@ -1066,9 +1121,12 @@ LaTeX Info: Redefining \. on input line 53.
 LaTeX Info: Redefining \% on input line 53.
 
 [62]
+:<-
+:<+ Algebra.tex.tex
 \openout2 = `Algebra.aux'.
 
- (Algebra.tex [63
+(Algebra.tex [63
+
 
 
 
@@ -1106,12 +1164,15 @@ LaTeX Info: Redefining \% on input line 6.
 ]
 Cap\'{\i }tulo 17.
 ) [73]
+:<-
+:<+ Probabilidad.tex.tex
 \openout2 = `Probabilidad.aux'.
 
- (Probabilidad.tex
+(Probabilidad.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
  [74
+
 
 
 
@@ -1121,20 +1182,21 @@ Cap\'{\i }tulo 18.
 [77
 
 ]
-LaTeX Info: Redefining \. on input line 3.
-LaTeX Info: Redefining \% on input line 3.
+LaTeX Info: Redefining \. on input line 4.
+LaTeX Info: Redefining \% on input line 4.
  [78
 
 ]
 Cap\'{\i }tulo 19.
 [79]
-LaTeX Info: Redefining \. on input line 4.
-LaTeX Info: Redefining \% on input line 4.
+LaTeX Info: Redefining \. on input line 5.
+LaTeX Info: Redefining \% on input line 5.
  [80
 
 ]
 Cap\'{\i }tulo 20.
 ) [81]
+:<-
 Package minitoc Info: I0009
 (minitoc)             Listing minitoc auxiliary files. 
 (minitoc)             Creating the teo_bach.maf file.
@@ -1145,7 +1207,6 @@ Package minitoc(hints) Info: I0053
 (minitoc(hints))             please be aware that the minitoc package 
 (minitoc(hints))             facilities can not be used for new types 
 (minitoc(hints))             of floats defined by the float package.
-
 
 Package minitoc(hints) Warning: W0024
 (minitoc(hints))                Some hints have been written 
@@ -1165,16 +1226,16 @@ LaTeX Info: Redefining \% on input line 25.
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `teo_bach.out' has not changed.
-(rerunfilecheck)             Checksum: 39BC2D773FDBC99AFAA7A02B6884FDC3;13868.
+(rerunfilecheck)             Checksum: EF76F5F3C205633E55419D5ACDD05964;13868.
  ) 
 Here is how much of TeX's memory you used:
- 15983 strings out of 478659
- 259690 string characters out of 2845921
- 570612 words of memory out of 3000000
- 33304 multiletter control sequences out of 15000+600000
+ 16186 strings out of 478659
+ 263163 string characters out of 2845921
+ 573202 words of memory out of 3000000
+ 33496 multiletter control sequences out of 15000+600000
  421047 words of font info for 94 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,16n,79p,564b,760s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 69i,16n,79p,564b,764s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\Pedro\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1095.pk><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmbx10.pfb><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/publ
@@ -1198,9 +1259,9 @@ AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/User
 s/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb
 ><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symb
 ols/msbm10.pfb>
-Output written on teo_bach.pdf (82 pages, 597093 bytes).
+Output written on teo_bach.pdf (82 pages, 599258 bytes).
 PDF statistics:
- 1038 PDF objects out of 1200 (max. 8388607)
- 247 named destinations out of 1000 (max. 500000)
+ 1040 PDF objects out of 1200 (max. 8388607)
+ 249 named destinations out of 1000 (max. 500000)
  644 words of extra memory for PDF output out of 10000 (max. 10000000)
 
