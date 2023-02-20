@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.2.6)  20 FEB 2023 20:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.2.6)  20 FEB 2023 21:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1088,24 +1088,24 @@ Overfull \hbox (35.8423pt too wide) in paragraph at lines 548--567
 
 LaTeX Info: Redefining \. on input line 573.
 LaTeX Info: Redefining \% on input line 573.
-[56])
+[56]
+LaTeX Info: Redefining \. on input line 611.
+LaTeX Info: Redefining \% on input line 611.
+ [57])
 LaTeX Info: Redefining \. on input line 52.
 LaTeX Info: Redefining \% on input line 52.
- [57]
+ [58]
 :<-
 :<+ EjerciciosAM.tex.tex
 \openout2 = `EjerciciosAM.aux'.
 
-(EjerciciosAM.tex
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
- [58
+(EjerciciosAM.tex [59
 
 
 
 
 
-] [59] [60]
+] [60]
 Cap\'{\i }tulo 12.
 \openout3 = `teo_bach.mtc'.
 
@@ -1229,10 +1229,10 @@ Package rerunfilecheck Info: File `teo_bach.out' has not changed.
 (rerunfilecheck)             Checksum: EF76F5F3C205633E55419D5ACDD05964;13868.
  ) 
 Here is how much of TeX's memory you used:
- 16186 strings out of 478659
- 263163 string characters out of 2845921
+ 16188 strings out of 478659
+ 263193 string characters out of 2845921
  573202 words of memory out of 3000000
- 33496 multiletter control sequences out of 15000+600000
+ 33497 multiletter control sequences out of 15000+600000
  421047 words of font info for 94 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,16n,79p,564b,764s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1259,9 +1259,9 @@ AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/User
 s/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb
 ><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symb
 ols/msbm10.pfb>
-Output written on teo_bach.pdf (82 pages, 599258 bytes).
+Output written on teo_bach.pdf (82 pages, 600679 bytes).
 PDF statistics:
- 1040 PDF objects out of 1200 (max. 8388607)
- 249 named destinations out of 1000 (max. 500000)
+ 1041 PDF objects out of 1200 (max. 8388607)
+ 250 named destinations out of 1000 (max. 500000)
  644 words of extra memory for PDF output out of 10000 (max. 10000000)
 

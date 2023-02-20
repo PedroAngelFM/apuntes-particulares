@@ -63,8 +63,8 @@
 \contentsline {subsection}{\numberline {11.2.2}Integración por partes}{57}{subsection.11.2.2}%
 \contentsline {subsection}{\numberline {11.2.4}Integración por cambio de variable}{57}{subsection.11.2.4}%
 \contentsline {subsection}{\numberline {11.2.5}Integración de funciones racionales}{57}{subsection.11.2.5}%
-\contentsline {subsection}{\numberline {11.2.6}Ejercicios}{57}{subsection.11.2.6}%
-\contentsline {section}{\numberline {11.3}Aplicaciones de la integral}{57}{section.11.3}%
+\contentsline {subsection}{\numberline {11.2.6}Ejercicios}{58}{subsection.11.2.6}%
+\contentsline {section}{\numberline {11.3}Aplicaciones de la integral}{58}{section.11.3}%
 \contentsline {part}{III\hspace {1em}Ejercicios de Análisis Matemático}{59}{part.3}%
 \contentsline {xpart}{Ejercicios de Análisis Matemático}{61}{part.3}%
 \contentsline {chapter}{\numberline {12}Representación de funciones}{61}{chapter.12}%
