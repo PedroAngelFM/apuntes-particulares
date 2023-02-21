@@ -1,4 +1,5 @@
 \part{Análisis Matemático}
+
 \chapter{Preámbulos para análisis}
 \minitoc
 
@@ -544,13 +545,12 @@ Es decir la integral es un operador lineal sobre las funciones, ya que conserva 
 
 Aplicando esta propiedad y las fórmulas que se detallan a continuación podemos hacer bastantes integrales. A la izquierda se detalla como hacer la integral sobre nada más que una función y el derecho sobre una composición. \\
 \begin{center}
-
 \begin{tabular}{|c|c|}
 
 \hline
 $\displaystyle\int x^n =\dfrac{1}{n+1} x^{n+1}+C$ $\forall n\neq 1$&$\displaystyle\int f(x)^n \cdot f'(x)dx= \dfrac{1}{n+1}f(x)^{n+1}+C$  $\forall n\neq 1$\\[2ex]
 \hline
-$\displaystyle\int e^x dx=e^x+C$&$\displaystyle\int f(x)$\\
+$\displaystyle\int e^x dx=e^x+C$&$\displaystyle\int e^{f(x)}\cdot f'(x)= e^{f(x)}+C$\\
 \hline
 $\displaystyle\int \dfrac{1}{x}dx=ln|x|+C$&$\displaystyle\int \dfrac{f'(x)}{f(x)}dx=ln|f(x)|+C$\\
 \hline
@@ -558,13 +558,12 @@ $\displaystyle\int cos(x)dx=sen(x)+C$&$\displaystyle\int cos(f(x))\cdot f'(x)dx=
 \hline
 $\displaystyle\int sen(x)dx=-cos(x)+C$&$\displaystyle\int sen(f(x))\cdot f'(x)dx=-cos(f(x))+C$\\
 \hline
-$\displaystyle\int \frac{1}{\sqrt{1-x^2}}=arcsen(x)+C$&$\displaystyle\int \frac{1}{\sqrt{1-x^2}}=arcsen(x)+C$\\
+$\displaystyle\int \frac{1}{\sqrt{1-x^2}}=arcsen(x)+C$&$\displaystyle\int \frac{f'(x)}{\sqrt{1-f(x)^2}}=arcsen(f(x))+C$\\
 \hline
-$\displaystyle\int \dfrac{1}{1+x^2}=arctg(x)+C$&$\displaystyle\int f(x)$\\
+$\displaystyle\int \dfrac{1}{1+x^2}=arctg(x)+C$&$\displaystyle\int \dfrac{f'(x)}{1+f(x)^2}=arctg(f(x))+C$\\
 \hline
 
 \end{tabular}
-
 \end{center}
 
 \subsection{Integración por partes}
@@ -590,6 +589,10 @@ Esta regla se sustenta en que derivar las primeras funciones, es decir, las func
 
 \subsection{Integración por cambio de variable}
 
+En este tipo de integrales estamos viendo una función compuesta la cual vamos a poder solucionar de manera inmediata o utilizando cualquiera de las otras formas de solucionar una integral tras hacer un cambio de la forma:
+$f(x)=t$ y $f'(x)dx=dt$ os similares. 
+
+La modelización formal es la siguiente: 
 \subsection{Integración de funciones racionales}
 Sean dos polinomios $P(x)$ y $Q(x)$ entonces tenemos el caso de que queramos calcular la integral: 
 $$
