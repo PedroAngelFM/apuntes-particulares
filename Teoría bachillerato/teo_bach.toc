@@ -31,7 +31,7 @@
 \contentsline {section}{\numberline {5.1}Topología sobre $\mathbb {R}$}{30}{section.5.1}%
 \contentsline {chapter}{\numberline {6}Cálculo de Límites}{33}{chapter.6}%
 \contentsline {section}{\numberline {6.1}Preámbulo sobre las sucesiones reales}{34}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Definición}{34}{section.6.2}%
+\contentsline {section}{\numberline {6.2}Límite sobre los funciones reales}{34}{section.6.2}%
 \contentsline {section}{\numberline {6.3}Propiedades de los límites}{35}{section.6.3}%
 \contentsline {section}{\numberline {6.4}Cálculo efectivo de límites}{35}{section.6.4}%
 \contentsline {section}{\numberline {6.5}Indeterminaciones}{35}{section.6.5}%
