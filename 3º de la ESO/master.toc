@@ -1,0 +1,6 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{\numberline {1}Operaciones sobre $\mathbb {Q}$}{3}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Suma y resta de Fracciones}{3}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Producto y la división de Fracciones}{6}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Fracciones como operadores}{8}{section.1.3}%
+\contentsfinish 
